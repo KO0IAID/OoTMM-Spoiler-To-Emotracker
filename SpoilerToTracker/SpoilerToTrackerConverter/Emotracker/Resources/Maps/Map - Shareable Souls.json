@@ -1,0 +1,450 @@
+[
+  {
+    "spoiler_label": "Soul of Armos",
+    "item_reference": "525:progressive:Soul%20of%20Armos%20%28MM%29",
+    "item_reference2": "709:progressive:Soul%20of%20Armos%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Beamos",
+    "item_reference": "527:progressive:Soul%20of%20Beamos%20%28MM%29",
+    "item_reference2": "711:progressive:Soul%20of%20Beamos%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Bubbles",
+    "item_reference": "530:progressive:Soul%20of%20Bubbles%20%28MM%29",
+    "item_reference2": "713:progressive:Soul%20of%20Bubbles%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Deku Babas",
+    "item_reference": "534:progressive:Soul%20of%20Deku%20Babas%20%28MM%29",
+    "item_reference2": "716:progressive:Soul%20of%20Deku%20Babas%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Deku Scrubs",
+    "item_reference": "535:progressive:Soul%20of%20Deku%20Scrubs%20%28MM%29",
+    "item_reference2": "717:progressive:Soul%20of%20Deku%20Scrubs%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Dodongos",
+    "item_reference": "537:progressive:Soul%20of%20Dodongos%20%28MM%29",
+    "item_reference2": "718:progressive:Soul%20of%20Dodongos%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Fighting Thieves",
+    "item_reference": "571:progressive:Soul%20of%20the%20Fighting%20Pirates",
+    "item_reference2": "749:progressive:Soul%20of%20the%20Fighting%20Gerudos",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Floormasters",
+    "item_reference": "541:progressive:Soul%20of%20Floormasters%20%28MM%29",
+    "item_reference2": "720:progressive:Soul%20of%20Floormasters%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Flying Pots",
+    "item_reference": "542:progressive:Soul%20of%20Flying%20Pots%20%28MM%29",
+    "item_reference2": "721:progressive:Soul%20of%20Flying%20Pots%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Freezards",
+    "item_reference": "543:progressive:Soul%20of%20Freezards%20%28MM%29",
+    "item_reference2": "722:progressive:Soul%20of%20Freezards%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Guays",
+    "item_reference": "547:progressive:Soul%20of%20Guays%20%28MM%29",
+    "item_reference2": "724:progressive:Soul%20of%20Guays%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Iron Knuckles",
+    "item_reference": "549:progressive:Soul%20of%20Iron%20Knuckles%20%28MM%29",
+    "item_reference2": "725:progressive:Soul%20of%20Iron%20Knuckles%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Keese",
+    "item_reference": "550:progressive:Soul%20of%20Keese%20%28MM%29",
+    "item_reference2": "726:progressive:Soul%20of%20Keese%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Leevers",
+    "item_reference": "551:progressive:Soul%20of%20Leevers%20%28MM%29",
+    "item_reference2": "727:progressive:Soul%20of%20Leevers%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Like Likes",
+    "item_reference": "552:progressive:Soul%20of%20Like%20Likes%20%28MM%29",
+    "item_reference2": "728:progressive:Soul%20of%20Like%20Likes%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Lizalfos/Dinolfos",
+    "item_reference": "553:progressive:Soul%20of%20Lizalfos%2FDinolfos%20%28MM%29",
+    "item_reference2": "729:progressive:Soul%20of%20Lizalfos%2FDinolfos%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Octoroks",
+    "item_reference": "555:progressive:Soul%20of%20Octoroks%20%28MM%29",
+    "item_reference2": "731:progressive:Soul%20of%20Octoroks%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Peahats",
+    "item_reference": "556:progressive:Soul%20of%20Peahats%20%28MM%29",
+    "item_reference2": "733:progressive:Soul%20of%20Peahats%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of ReDeads/Gibdos",
+    "item_reference": "558:progressive:Soul%20of%20ReDeads%2FGibdos%20%28MM%29",
+    "item_reference2": "734:progressive:Soul%20of%20ReDeads%2FGibdos%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Shell Blades",
+    "item_reference": "559:progressive:Soul%20of%20Shell%20Blades%20%28MM%29",
+    "item_reference2": "736:progressive:Soul%20of%20Shell%20Blades%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Skulltulas",
+    "item_reference": "561:progressive:Soul%20of%20Skulltulas%20%28MM%29",
+    "item_reference2": "738:progressive:Soul%20of%20Skulltulas%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Skullwalltulas",
+    "item_reference": "562:progressive:Soul%20of%20Skullwalltulas%20%28MM%29",
+    "item_reference2": "739:progressive:Soul%20of%20Skullwalltulas%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Stalchildren",
+    "item_reference": "564:progressive:Soul%20of%20Stalchildren%20%28MM%29",
+    "item_reference2": "741:progressive:Soul%20of%20Stalchildren%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Tektites",
+    "item_reference": "566:progressive:Soul%20of%20Tektites%20%28MM%29",
+    "item_reference2": "745:progressive:Soul%20of%20Tektites%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Wallmasters",
+    "item_reference": "567:progressive:Soul%20of%20Wallmasters%20%28MM%29",
+    "item_reference2": "747:progressive:Soul%20of%20Wallmasters%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Wolfos",
+    "item_reference": "570:progressive:Soul%20of%20Wolfos%20%28MM%29",
+    "item_reference2": "748:progressive:Soul%20of%20Wolfoses%20%28OoT%29",
+    "shared": "sharedSoulsEnemy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Astronomer",
+    "item_reference": "605:progressive:Soul%20of%20Astronomer%20%28MM%29",
+    "item_reference2": "793:progressive:Soul%20of%20the%20Astronomer%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Bazaar/Swamp Archery Owner",
+    "item_reference": "579:progressive:Soul%20of%20Swamp%20Archery%20Owner%20%28MM%29",
+    "item_reference2": "782:progressive:Soul%20of%20Bazaar%20Shopkeeper%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Bean Salesman",
+    "item_reference": "616:progressive:Soul%20of%20the%20Beans%20Salesman%20%28MM%29",
+    "item_reference2": "795:progressive:Soul%20of%20the%20Bean%20Salesman%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Beggar/Banker",
+    "item_reference": "627:progressive:Soul%20of%20the%20Banker%20%28MM%29",
+    "item_reference2": "802:progressive:Soul%20of%20the%20Beggar%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Biggoron",
+    "item_reference": "603:progressive:Soul%20of%20Biggoron%20%28MM%29",
+    "item_reference2": "777:progressive:Soul%20of%20Biggoron%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Bombchu  Bowling/Chest Game Lady",
+    "item_reference": "608:progressive:Soul%20of%20Chest%20Game%20Lady%20%28MM%29",
+    "item_reference2": "785:progressive:Soul%20of%20Bombchu%20Bowling%20Lady%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Bombchu/Bomb Shop Owner",
+    "item_reference": "582:progressive:Soul%20of%20the%20Bomb%20Shop%20Owner%20%28MM%29",
+    "item_reference2": "783:progressive:Soul%20of%20Bombchu%20Shopkeeper%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Carpenters",
+    "item_reference": "617:progressive:Soul%20of%20Carpenters%20%28MM%29",
+    "item_reference2": "765:progressive:Soul%20of%20Carpenters%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Carpet Man/Swordsman",
+    "item_reference": "624:progressive:Soul%20of%20Swordsman%20%28MM%29",
+    "item_reference2": "800:progressive:Soul%20of%20the%20Carpet%20Man%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Chest Game Owner/Fisherman",
+    "item_reference": "592:progressive:Soul%20of%20the%20Fisherman%20%28MM%29",
+    "item_reference2": "786:progressive:Soul%20of%20Chest%20Game%20Owner%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Citizens",
+    "item_reference": "585:progressive:Soul%20of%20Citizens%20%28MM%29",
+    "item_reference2": "771:progressive:Soul%20of%20the%20Citizens%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Composer Bros.",
+    "item_reference": "586:progressive:Soul%20of%20Composer%20Bros.%20%28MM%29",
+    "item_reference2": "791:progressive:Soul%20of%20Composer%20Bros.%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Cucco Lady/Anju",
+    "item_reference": "618:progressive:Soul%20of%20Anju%20%28MM%29",
+    "item_reference2": "764:progressive:Soul%20of%20Cucco%20Lady%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Dampe",
+    "item_reference": "587:progressive:Soul%20of%20Dampe%20%28MM%29",
+    "item_reference2": "788:progressive:Soul%20of%20Dampe%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Dog Lady",
+    "item_reference": "623:progressive:Soul%20of%20Dog%20Lady%20%28MM%29",
+    "item_reference2": "799:progressive:Soul%20of%20the%20Dog%20Lady%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Fishing Pond/Trading Post Owner",
+    "item_reference": "611:progressive:Soul%20of%20Trading%20Post%20Owner%20%28MM%29",
+    "item_reference2": "774:progressive:Soul%20of%20Fishing%20Pond%20Owner%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Gorons",
+    "item_reference": "580:progressive:Soul%20of%20Gorons%20%28MM%29",
+    "item_reference2": "775:progressive:Soul%20of%20Goron%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Goron Child/Baby",
+    "item_reference": "581:progressive:Soul%20of%20the%20Goron%20Baby%20%28MM%29",
+    "item_reference2": "778:progressive:Soul%20of%20Goron%20Child%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Goron Shopkeeper",
+    "item_reference": "593:progressive:Soul%20of%20the%20Goron%20Shopkeeper%20%28MM%29",
+    "item_reference2": "779:progressive:Soul%20of%20Goron%20Shopkeeper%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Graveyard Kid/Bombers",
+    "item_reference": "583:progressive:Soul%20of%20Bombers%20%28MM%29",
+    "item_reference2": "789:progressive:Soul%20of%20Graveyard%20Kid%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Guru-Guru",
+    "item_reference": "619:progressive:Soul%20of%20Guru-Guru%20%28MM%29",
+    "item_reference2": "766:progressive:Soul%20of%20Guru-Guru%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Honey & Darling",
+    "item_reference": "594:progressive:Soul%20of%20Honey%20%26%20Darling%20%28MM%29",
+    "item_reference2": "792:progressive:Soul%20of%20Honey%20%26%20Darling%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Ingo/Gorman & Bros.",
+    "item_reference": "621:progressive:Soul%20of%20Gorman%20%26%20Bros.%20%28MM%29",
+    "item_reference2": "797:progressive:Soul%20of%20Ingo%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Malon/Romani/Cremia",
+    "item_reference": "615:progressive:Soul%20of%20Romani%2FCremia%20%28MM%29",
+    "item_reference2": "772:progressive:Soul%20of%20Malon%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Medigoron/Keg Trial Goron",
+    "item_reference": "602:progressive:Soul%20of%20Keg%20Trial%20Goron%20%28MM%29",
+    "item_reference2": "776:progressive:Soul%20of%20Medigoron%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Old Hag/Anju's Grandmother",
+    "item_reference": "625:progressive:Soul%20of%20Anju%27s%20Grandmother%20%28MM%29",
+    "item_reference2": "801:progressive:Soul%20of%20the%20Old%20Hag%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Patrolling Thieves and their Chief",
+    "item_reference": "629:progressive:Soul%20of%20the%20Patrolling%20Pirates%20and%20their%20Chief",
+    "item_reference2": "803:progressive:Soul%20of%20the%20Patrolling%20Gerudos",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Poe Collector/Ghost Hut Owner",
+    "item_reference": "606:progressive:Soul%20of%20Ghost%20Hut%20Owner%20%28MM%29",
+    "item_reference2": "790:progressive:Soul%20of%20Poe%20Collector%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Punk Kid/Grog",
+    "item_reference": "622:progressive:Soul%20of%20Grog%20%28MM%29",
+    "item_reference2": "798:progressive:Soul%20of%20the%20Punk%20Kid%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Rooftop Man/Part-Timer",
+    "item_reference": "612:progressive:Soul%20of%20Part-Timer%20%28MM%29",
+    "item_reference2": "794:progressive:Soul%20of%20the%20Rooftop%20Man%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Ruto/Lulu",
+    "item_reference": "596:progressive:Soul%20of%20Lulu%20%28MM%29",
+    "item_reference2": "760:progressive:Soul%20of%20Ruto%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Scientist",
+    "item_reference": "620:progressive:Soul%20of%20the%20Scientist%20%28MM%29",
+    "item_reference2": "796:progressive:Soul%20of%20the%20Scientist%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Shooting Gallery/Town Archery Owner",
+    "item_reference": "578:progressive:Soul%20of%20Town%20Archery%20Owner%20%28MM%29",
+    "item_reference2": "787:progressive:Soul%20of%20Shooting%20Gallery%20Owner%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Talon/Mr. Barten",
+    "item_reference": "604:progressive:Soul%20of%20Mr.%20Barten%20%28MM%29",
+    "item_reference2": "773:progressive:Soul%20of%20Talon%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Zoras",
+    "item_reference": "613:progressive:Soul%20of%20Zoras%20%28MM%29",
+    "item_reference2": "780:progressive:Soul%20of%20Zora%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of the Zora Shopkeeper",
+    "item_reference": "614:progressive:Soul%20of%20the%20Zora%20Shopkeeper%20%28MM%29",
+    "item_reference2": "781:progressive:Soul%20of%20Zora%20Shopkeeper%20%28OoT%29",
+    "shared": "sharedSoulsNpc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Business Scrubs",
+    "item_reference": "631:progressive:Soul%20of%20Business%20Scrubs%20%28MM%29",
+    "item_reference2": "805:progressive:Soul%20of%20Business%20Scrubs%20%28OoT%29",
+    "shared": "sharedSoulsMisc",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Soul of Gold Skulltulas",
+    "item_reference": "630:progressive:Soul%20of%20Gold%20Skulltulas%20%28MM%29",
+    "item_reference2": "804:progressive:Soul%20of%20Gold%20Skulltulas%20%28OoT%29",
+    "shared": "sharedSoulsMisc",
+    "onvalue": 1
+  }
+]

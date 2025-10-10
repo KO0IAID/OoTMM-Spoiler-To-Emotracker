@@ -1,0 +1,298 @@
+﻿[
+  {
+    "spoiler_label": "sharedNutsSticks",
+    "item_reference": "progressive:Shared%20Nuts%20%26%20Sticks",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedBows",
+    "item_reference": "progressive:Shared%20Bows",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedBombBags",
+    "item_reference": "progressive:Shared%20Bomb%20Bags",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedMagic",
+    "item_reference": "progressive:Shared%20Magic",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedMagicArrowFire",
+    "item_reference": "progressive:Shared%20Fire%20Arrow",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedMagicArrowIce",
+    "item_reference": "progressive:Shared%20Ice%20Arrow",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedMagicArrowLight",
+    "item_reference": "progressive:Shared%20Light%20Arrow",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedSongEpona",
+    "item_reference": "progressive:Shared%20Epona%27s%20Song",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedSongStorms",
+    "item_reference": "progressive:Shared%20Song%20of%20Storms",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedSongTime",
+    "item_reference": "progressive:Shared%20Song%20of%20Time",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedHookshot",
+    "item_reference": "progressive:Shared%20Hookshots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedLens",
+    "item_reference": "progressive:Shared%20Lens%20of%20Truth",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedOcarina",
+    "item_reference": "progressive:Shared%20Ocarina%20of%20Time",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedMaskGoron",
+    "item_reference": "progressive:Shared%20Goron%20Mask",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedMaskZora",
+    "item_reference": "progressive:Shared%20Zora%20Mask",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedMaskBunny",
+    "item_reference": "progressive:Shared%20Bunny%20Hood",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedMaskKeaton",
+    "item_reference": "progressive:Shared%20Keaton%20Mask",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedMaskTruth",
+    "item_reference": "progressive:Shared%20Mask%20of%20Truth",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedMaskBlast",
+    "item_reference": "progressive:Shared%20Blast%20Mask",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedMaskStone",
+    "item_reference": "progressive:Shared%20Stone%20Mask",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedSongElegy",
+    "item_reference": "progressive:Shared%20Elegy%20of%20Emptiness",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedWallets",
+    "item_reference": "progressive:Shared%20Wallets",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedSwords",
+    "item_reference": "progressive:Shared%20Swords",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedShields",
+    "item_reference": "progressive:Shared%20Shields",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedOcarinaButtons",
+    "item_reference": "progressive:Shared%20Ocarina%20Buttons",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedSkeletonKey",
+    "item_reference": "progressive:Shared%20Skeleton%20Key",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedBombBags",
+    "item_reference": "progressive:Shared%20Bombchu%20Bags",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedSpellFire",
+    "item_reference": "progressive:Shared%20Din%27s%20Fire",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedSpellWind",
+    "item_reference": "progressive:Shared%20Farore%27s%20Wind",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedSpellLove",
+    "item_reference": "progressive:Shared%20Nayru%27s%20Love",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedBootsIron",
+    "item_reference": "progressive:Shared%20Iron%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedBootsHover",
+    "item_reference": "progressive:Shared%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedTunicGoron",
+    "item_reference": "progressive:Shared%20Goron%20Tunic",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedTunicZora",
+    "item_reference": "progressive:Shared%20Zora%20Tunic",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedScales",
+    "item_reference": "progressive:Shared%20Scales",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedStrength",
+    "item_reference": "progressive:Shared%20Strength",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sharedHammer",
+    "item_reference": "progressive:Shared%20Megaton%20Hammer",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  }
+]

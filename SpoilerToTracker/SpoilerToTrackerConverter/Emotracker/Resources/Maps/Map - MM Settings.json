@@ -1,0 +1,329 @@
+﻿[
+  {
+    "spoiler_label": "housesSkulltulaTokens",
+    "item_reference": "progressive:Houses%20Skulltula%20Tokens%20Shuffle",
+    "values": {
+      "none": 0,
+      "cross": 1,
+      "all": 2
+    }
+  },
+  {
+    "spoiler_label": "tingleShuffle",
+    "item_reference": "progressive:Tingle%20Maps%20Shuffle",
+    "values": {
+      "vanilla": 0,
+      "anywhere": 1,
+      "starting": 2,
+      "removed": 3
+    }
+  },
+  {
+    "spoiler_label": "smallKeyShuffleMm",
+    "item_reference": "progressive:Small%20Key%20Shuffle%20%28MM%29",
+    "values": {
+      "ownDungeon": 0,
+      "anywhere": 1,
+      "removed": 2,
+      "vanilla": 3
+    }
+  },
+  {
+    "spoiler_label": "bossKeyShuffleMm",
+    "item_reference": "progressive:Boss%20Key%20Shuffle%20%28MM%29",
+    "values": {
+      "ownDungeon": 0,
+      "anywhere": 1,
+      "removed": 2,
+      "vanilla": 3
+    }
+  },
+  {
+    "spoiler_label": "townFairyShuffle",
+    "item_reference": "progressive:Town%20Stray%20Fairy%20Shuffle",
+    "values": {
+      "vanilla": 0,
+      "anywhere": 1
+    }
+  },
+  {
+    "spoiler_label": "strayFairyChestShuffle",
+    "item_reference": "progressive:Dungeon%20Chest%20Fairy%20Shuffle",
+    "values": {
+      "vanilla": 0,
+      "ownDungeon": 1,
+      "anywhere": 2,
+      "starting": 3
+    }
+  },
+  {
+    "spoiler_label": "strayFairyOtherShuffle",
+    "item_reference": "progressive:Dungeon%20Freestanding%20Fairy%20Shuffle",
+    "values": {
+      "removed": 0,
+      "vanilla": 1,
+      "ownDungeon": 2,
+      "anywhere": 3,
+      "starting": 4
+    }
+  },
+  {
+    "spoiler_label": "shopShuffleMm",
+    "item_reference": "progressive:Shop%20Shuffle%20%28MM%29",
+    "values": {
+      "none": 0,
+      "full": 1
+    }
+  },
+  {
+    "spoiler_label": "shufflePotsMm",
+    "item_reference": "progressive:Pots%20Shuffle%20%28MM%29",
+    "values": {
+      "none": 1,
+      "all": 0,
+      "overworld": 0,
+      "dungeons": 0
+    }
+  },
+  {
+    "spoiler_label": "shuffleGrassMm",
+    "item_reference": "progressive:Grass%20Shuffle%20%28MM%29",
+    "values": {
+      "none": 1,
+      "all": 0,
+      "overworld": 0,
+      "dungeons": 0
+    }
+  },
+  {
+    "spoiler_label": "owlShuffle",
+    "item_reference": "progressive:Owl%20Statue%20Shuffle",
+    "values": {
+      "none": 0,
+      "anywhere": 1
+    }
+  },
+  {
+    "spoiler_label": "scrubShuffleMm",
+    "item_reference": "progressive:Scrub%20Shuffle%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "cowShuffleMm",
+    "item_reference": "progressive:Cow%20Shuffle%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "shuffleMerchantsMm",
+    "item_reference": "progressive:Merchants%20Shuffle%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "fairyFountainFairyShuffleMm",
+    "item_reference": "progressive:Fairy%20Fountain%20Fairy%20Shuffle%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "priceMmShops",
+    "item_reference": "progressive:MM%20Shops%20Prices",
+    "values": {
+      "affordable": 0,
+      "vanilla": 1,
+      "weighted": 2,
+      "random": 3
+    }
+  },
+  {
+    "spoiler_label": "priceMmTingle",
+    "item_reference": "progressive:MM%20Tingle%20Prices",
+    "values": {
+      "affordable": 0,
+      "vanilla": 1,
+      "weighted": 2,
+      "random": 3
+    }
+  },
+  {
+    "spoiler_label": "moonCrash",
+    "item_reference": "progressive:Moon%20Crash%20Behavior",
+    "values": {
+      "reset": 0,
+      "cycle": 1
+    }
+  },
+  {
+    "spoiler_label": "beneathWell",
+    "item_reference": "progressive:Beneath%20the%20Well%20behavior%20%28MM%29",
+    "values": {
+      "vanilla": 0,
+      "remorseless": 1,
+      "open": 2
+    }
+  },
+  {
+    "spoiler_label": "majoraChild",
+    "item_reference": "progressive:Majora%20Child%20Requirements",
+    "values": {
+      "none": 0,
+      "custom": 1
+    }
+  },
+  {
+    "spoiler_label": "bossWarpPads",
+    "item_reference": "progressive:Boss%20Warp%20Pads",
+    "values": {
+      "bossBeaten": 0,
+      "remains": 1
+    }
+  },
+  {
+    "spoiler_label": "strayFairyRewardCount",
+    "item_reference": "consumable:Stray%20Fairy%20Reward%20Count",
+    "values": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15
+    }
+  },
+  {
+    "spoiler_label": "openMoon",
+    "item_reference": "progressive:Skip%20Oath%20to%20Order",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "crossWarpMm",
+    "item_reference": "progressive:Cross-Games%20MM%20Song%20of%20Soaring",
+    "values": {
+      "none": 0,
+      "childOnly": 1,
+      "full": 2
+    }
+  },
+  {
+    "spoiler_label": "crossAge",
+    "item_reference": "progressive:Cross-Games%20Age",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "hookshotAnywhereMm",
+    "item_reference": "progressive:Hookshot%20Anywhere%20%28MM%29",
+    "values": {
+      "off": 0,
+      "enabled": 1,
+      "logical": 2
+    }
+  },
+  {
+    "spoiler_label": "progressiveGoronLullaby",
+    "item_reference": "progressive:MM%20Goron%20Lullaby",
+    "values": {
+      "single": 0,
+      "progressive": 1
+    }
+  },
+  {
+    "spoiler_label": "fairyOcarinaMm",
+    "item_reference": "progressive:Fairy%20Ocarina%20in%20MM",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "shortHookshotMm",
+    "item_reference": "progressive:Short%20Hookshot%20in%20MM",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "bombchuBehaviorMm",
+    "item_reference": "progressive:Bombchu%20Behavior%20%28MM%29",
+    "values": {
+      "free": 0,
+      "bombBag": 1,
+      "bagFirst": 2,
+      "bagSeparate": 3
+    }
+  },
+  {
+    "spoiler_label": "ocarinaButtonsShuffleMm",
+    "item_reference": "progressive:Ocarina%20Buttons%20Shuffle%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "soulsEnemyMm",
+    "item_reference": "progressive:Enemy%20Souls%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "soulsBossMm",
+    "item_reference": "progressive:Boss%20Souls%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "soulsNpcMm",
+    "item_reference": "progressive:NPC%20Souls%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "soulsMiscMm",
+    "item_reference": "progressive:Misc.%20Souls%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "clocks",
+    "item_reference": "progressive:Clocks%20as%20Items",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  }
+]

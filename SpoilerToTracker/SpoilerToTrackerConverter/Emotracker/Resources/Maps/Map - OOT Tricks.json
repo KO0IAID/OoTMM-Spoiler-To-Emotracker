@@ -1,0 +1,467 @@
+﻿[
+  {
+    "spoiler_label": "Fewer Lens Requirements (OoT)",
+    "item_reference": "toggle:Fewer%20Lens%20Requirements%20%28OoT%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Fewer Tunic Requirements (OoT)",
+    "item_reference": "toggle:Fewer%20Tunic%20Requirements",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Hidden Grottos (Oot) without Stone of Agony",
+    "item_reference": "toggle:Hidden%20Grottos%20%28OoT%29%20without%20Stone%20of%20Agony",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Backflip Over Mido",
+    "item_reference": "toggle:Backflip%20Over%20Mido",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Man on Roof with Nothing",
+    "item_reference": "toggle:Man%20on%20Roof%20with%20Nothing",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Haunted Wasteland Lensless",
+    "item_reference": "toggle:Blind%20Wasteland%20Crossing",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Deku Tree B1 Skip",
+    "item_reference": "toggle:Deku%20Tree%20B1%20Skip",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Dodongo's Cavern Upper Adult Jump",
+    "item_reference": "toggle:Dodongo%27s%20Cavern%20Upper%20Adult%20Jump",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Forest Temple Garden Vines with Hookshot",
+    "item_reference": "toggle:Forest%20Temple%20Garden%20Vines%20with%20Hookshot",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+
+  {
+    "spoiler_label": "Hammer Through Walls",
+    "item_reference": "toggle:Hammer%20Through%20Walls",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Volcano Item with Hover Boots",
+    "item_reference": "toggle:Volcano%20Item%20with%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Nighttime Gold Skulltulas without Sun's Song",
+    "item_reference": "toggle:Nighttime%20Gold%20Skulltulas%20without%20Sun%27s%20Song",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Enter Child Zora's Domain with Cucco",
+    "item_reference": "toggle:Enter%20Child%20Zora%27s%20Domain%20with%20Cucco",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Enter Zora's Domain using Hover Boots",
+    "item_reference": "toggle:Enter%20Zora%27s%20Domain%20using%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Drain Water Temple using Longshot",
+    "item_reference": "toggle:Drain%20Water%20Temple%20using%20Longshot",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Cross the River of Sand with Nothing",
+    "item_reference": "toggle:Cross%20the%20River%20of%20Sand%20with%20Nothing",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Enter Shadow Temple using Fire Arrows",
+    "item_reference": "toggle:Enter%20Shadow%20Temple%20using%20Fire%20Arrows",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Skip King Zora as Adult",
+    "item_reference": "toggle:Skip%20King%20Zora%20as%20Adult",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Lost Woods Adult GS without Magic Beans",
+    "item_reference": "toggle:Lost%20Woods%20Adult%20GS%20without%20Bean",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Windmill HP as Adult with Nothing",
+    "item_reference": "toggle:Windmill%20HP%20as%20Adult%20with%20Nothing",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Laboratory Dive without Golden Scale",
+    "item_reference": "toggle:Laboratory%20Dive%20without%20Gold%20Scale",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Laboratory Wall GS with Jump Slash",
+    "item_reference": "toggle:Laboratory%20Wall%20GS%20with%20Jump%20Slash",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Pass through Visible One-Way Collisions",
+    "item_reference": "toggle:Pass%20through%20Visible%20One-Way%20Collisions",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "DMT Red Rock Skulls without Hammer",
+    "item_reference": "toggle:DMT%20Red%20Rock%20Skulls%20without%20Hammer",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Child Dead Hand without Kokiri Sword",
+    "item_reference": "toggle:Child%20Dead%20Hand%20without%20Kokiri%20Sword",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Break Mud Walls with Blue Fire Arrows",
+    "item_reference": "toggle:Break%20mud%20walls%20with%20blue%20fire%20arrows",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Access Jabu-Jabu Pre-Boss using Hover Boots",
+    "item_reference": "toggle:Access%20Jabu-Jabu%20Pre-Boss%20using%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Access Adult Spirit as Child using Hover Boots",
+    "item_reference": "toggle:Access%20Adult%20Spirit%20as%20Child%20using%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Reach Gerudo Fortress as Child using Hover Boots",
+    "item_reference": "toggle:Reach%20Gerudo%20Fortress%20as%20Child%20using%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "MQ Ice Cavern GS without Scarecrow or Hover Boots",
+    "item_reference": "toggle:MQ%20Ice%20Cavern%20GS%20without%20Scarecrow%20or%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "MQ Ice Cavern GS using only Hover Boots",
+    "item_reference": "toggle:MQ%20Ice%20Cavern%20GS%20using%20only%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "MQ Gerudo Training Grounds Lava Room Walk along Flame Circles",
+    "item_reference": "toggle:MQ%20Gerudo%20Training%20Grounds%20Lava%20Room%20Walk%20along%20Flame%20Circles",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Jump up to higher ledges outside Gerudo Fortress",
+    "item_reference": "toggle:Jump%20up%20to%20higher%20ledges%20outside%20Gerudo%20Fortress",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Desert Colossus Plateau GS without Bean Plant",
+    "item_reference": "toggle:Desert%20Colossus%20Plateau%20GS%20without%20Bean%20Plant",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Enter Jabu-Jabu with Head Collision",
+    "item_reference": "toggle:Enter%20Jabu-Jabu%20with%20Head%20Collision",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Jabu Boss Switch without Boomerang or Climb Anywhere",
+    "item_reference": "toggle:Jabu%20Boss%20Switch%20without%20Boomerang%20or%20Climb%20Anywhere",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Water Temple Reverse River with Hookshot Anywhere",
+    "item_reference": "toggle:Water%20Temple%20Reverse%20River%20with%20Hookshot%20Anywhere",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Water Temple Large Pit GS with Bombchu and Climb Anywhere",
+    "item_reference": "toggle:Water%20Temple%20Large%20Pit%20GS%20with%20Bombchu",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Reach Shadow Temple Boat with Climb Anywhere",
+    "item_reference": "toggle:Reach%20Shadow%20Temple%20Boat%20with%20Climb%20Anywhere",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Reach Twinrova using Climb Anywhere and Hover Boots",
+    "item_reference": "toggle:Reach%20Twinrova%20using%20Climb%20Anywhere%20and%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Use Hookshot Anywhere to get past the Zora's River Waterfall",
+    "item_reference": "toggle:Use%20Hookshot%20Anywhere%20to%20get%20past%20the%20Zora%27s%20River%20Waterfall",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Skip Dodongo Cavern's Boulder using Ageless Hookshot Anywhere",
+    "item_reference": "toggle:Skip%20Dodongo%20Cavern%27s%20Boulder%20using%20Ageless%20Hookshot%20Anywhere",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Move Between Lake Hylia and Zora's Domain with Ageless Hookshot Anywhere",
+    "item_reference": "toggle:Move%20Between%20Lake%20Hylia%20and%20Zora%27s%20Domain%20with%20Ageless%20Hookshot%20Anywhere",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Access Jabu-Jabu Pre-Boss without a box",
+    "item_reference": "toggle:Access%20Jabu-Jabu%20pre-boss%20without%20the%20box",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Enter the Gerudo Valley Tent as Child",
+    "item_reference": "toggle:Enter%20the%20Gerudo%20Valley%20Tent%20as%20Child",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Enter Bottom of the Well as Adult with Time Travel",
+    "item_reference": "toggle:Enter%20Bottom%20of%20the%20Well%20as%20Adult%20with%20Time%20Travel",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Enter Adult Shooting Gallery as Child with Time Travel",
+    "item_reference": "toggle:Enter%20Adult%20Shooting%20Gallery%20as%20Child%20with%20Time%20Travel",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Enter Gerudo Training Grounds as Child with Time Travel",
+    "item_reference": "toggle:Enter%20Gerudo%20Training%20Grounds%20as%20Child%20with%20Time%20Travel",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Navigate Dampé's Grave in Reverse",
+    "item_reference": "toggle:Navigate%20Dampe%27s%20Grave%20in%20Reverse",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Ganon's Great Fairy with Age Swap and without Gold Gauntlets",
+    "item_reference": "toggle:Ganon%27s%20Great%20Fairy%20with%20Age%20Swap%20and%20without%20Gold%20Gauntlets",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Enter Ganon's Castle with Longshot Anywhere",
+    "item_reference": "toggle:Enter%20Ganon%27s%20Castle%20with%20Longshot%20Anywhere",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Enter Shadow Temple with Sticks & Fire Arrows",
+    "item_reference": "toggle:Enter%20Shadow%20Temple%20with%20Sticks%20%26%20Fire%20Arrows",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Enter Water Temple with Golden Scale and Longshot",
+    "item_reference": "toggle:Enter%20Water%20Temple%20with%20Gold%20Scale%20and%20Longshot",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Enter Zelda's Courtyard using Age Swap in Ganon's Castle",
+    "item_reference": "toggle:Enter%20Zelda%27s%20Courtyard%20using%20Age%20Swap%20in%20Ganon%27s%20Castle",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Destroy Beehives using Bombchu (OoT)",
+    "item_reference": "toggle:Destroy%20Beehives%20using%20Bombchu%20%28OoT%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Roll Under Deku Tree MQ Water Room's Rotating Spike.",
+    "item_reference": "toggle:Roll%20Under%20Deku%20Tree%20MQ%20Water%20Room%27s%20Rotating%20Spike",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Backflip/Sidehop Over Gap to Reach BotW MQ's Main Room's Center",
+    "item_reference": "toggle:Backflip%2FSidehop%20Over%20Gap%20to%20Reach%20BotW%20MQ%27s%20Main%20Room%27s%20Center",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Use Deku Sticks to Break Ice Cavern Stalagmite Icicles",
+    "item_reference": "toggle:Use%20Deku%20Sticks%20to%20Break%20Ice%20Cavern%20Stalagmite%20Icicles",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  }
+]

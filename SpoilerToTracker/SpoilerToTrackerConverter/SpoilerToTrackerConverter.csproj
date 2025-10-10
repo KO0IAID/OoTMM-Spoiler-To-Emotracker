@@ -1,0 +1,75 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Emotracker\Resources\Maps\Map - Individual Items.json" />
+    <None Remove="Emotracker\Resources\Maps\Map - MM Settings.json" />
+    <None Remove="Emotracker\Resources\Maps\Map - MM Souls.json" />
+    <None Remove="Emotracker\Resources\Maps\Map - MM Tricks.json" />
+    <None Remove="Emotracker\Resources\Maps\Map - OOT Settings.json" />
+    <None Remove="Emotracker\Resources\Maps\Map - OOT Souls.json" />
+    <None Remove="Emotracker\Resources\Maps\Map - OOT Tricks.json" />
+    <None Remove="Emotracker\Resources\Maps\Map - Shareable Items.json" />
+    <None Remove="Emotracker\Resources\Maps\Map - Shareable Souls.json" />
+    <None Remove="Emotracker\Resources\Maps\Map - Shared Items.json" />
+    <None Remove="Emotracker\Resources\Maps\Map - Special Bridge.json" />
+    <None Remove="Emotracker\Resources\Maps\Map - Special LACS.json" />
+    <None Remove="Emotracker\Resources\Maps\Map - Special Majora.json" />
+    <None Remove="Emotracker\Resources\Maps\Map - Special Moon.json" />
+    <None Remove="Emotracker\Resources\Tracker Template\TrackerTemplate.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Emotracker\Resources\Maps\Map - Individual Items.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Maps\Map - MM Settings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Maps\Map - MM Souls.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Maps\Map - MM Tricks.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Maps\Map - OOT Settings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Maps\Map - OOT Souls.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Maps\Map - OOT Tricks.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Maps\Map - Shareable Items.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Maps\Map - Shareable Souls.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Maps\Map - Shared Items.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Maps\Map - Special Bridge.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Maps\Map - Special LACS.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Maps\Map - Special Majora.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Maps\Map - Special Moon.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Emotracker\Resources\Tracker Template\TrackerTemplate.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

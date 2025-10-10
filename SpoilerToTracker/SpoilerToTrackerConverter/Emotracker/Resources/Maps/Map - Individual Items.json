@@ -1,0 +1,842 @@
+﻿[
+  {
+    "spoiler_label": "Coin (Blue)",
+    "item_reference": "consumable:Blue%20Coin",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Coin (Green)",
+    "item_reference": "consumable:Green%20Coin",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Coin (Red)",
+    "item_reference": "consumable:Red%20Coin",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Coin (Yellow)",
+    "item_reference": "consumable:Yellow%20Coin",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Kokiri's Emerald",
+    "item_reference": "lua:Deku%20Tree%20Reward",
+    "values": {
+      "true": 2
+    }
+  },
+  {
+    "spoiler_label": "Goron's Ruby",
+    "item_reference": "lua:Dodongos%20Cavern%20Reward",
+    "values": {
+      "true": 2
+    }
+  },
+  {
+    "spoiler_label": "Fire Medallion",
+    "item_reference": "lua:Fire%20Temple%20Reward",
+    "values": {
+      "true": 4
+    }
+  },
+  {
+    "spoiler_label": "Forest Medallion",
+    "item_reference": "lua:Forest%20Temple%20Reward",
+    "values": {
+      "true": 3
+    }
+  },
+  {
+    "spoiler_label": "Light Medallion",
+    "item_reference": "lua:Free%20Reward",
+    "values": {
+      "true": 6
+    }
+  },
+  {
+    "spoiler_label": "Zora's Sapphire",
+    "item_reference": "lua:Jabu%20Jabu%20Reward",
+    "values": {
+      "true": 2
+    }
+  },
+  {
+    "spoiler_label": "Gyorg's Remains",
+    "item_reference": "lua:MM%20Great%20Bay%20Temple%20Reward",
+    "values": {
+      "true": 9
+    }
+  },
+  {
+    "spoiler_label": "Goht's Remains",
+    "item_reference": "lua:MM%20Snowhead%20Temple%20Reward",
+    "values": {
+      "true": 8
+    }
+  },
+  {
+    "spoiler_label": "Twinmold's Remains",
+    "item_reference": "lua:MM%20Stone%20Tower%20Temple%20Reward",
+    "values": {
+      "true": 10
+    }
+  },
+  {
+    "spoiler_label": "Odolwa's Remains",
+    "item_reference": "lua:MM%20Woodfall%20Temple%20Reward",
+    "values": {
+      "true": 7
+    }
+  },
+  {
+    "spoiler_label": "Shadow Medallion",
+    "item_reference": "lua:Shadow%20Temple%20Reward",
+    "values": {
+      "true": 5
+    }
+  },
+  {
+    "spoiler_label": "Spirit Medallion",
+    "item_reference": "lua:Spirit%20Temple%20Reward",
+    "values": {
+      "true": 5
+    }
+  },
+  {
+    "spoiler_label": "Water Medallion",
+    "item_reference": "lua:Water%20Temple%20Reward",
+    "values": {
+      "true": 4
+    }
+  },
+  {
+    "spoiler_label": "Empty Bottle (OoT)",
+    "item_reference": "progressive:Bottle%201",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Bottle of Milk (OoT)",
+    "item_reference": "progressive:Bottle%202",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Empty Bottle (MM)",
+    "item_reference": "progressive:Bottle1",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Bottle of Red Potion (MM)",
+    "item_reference": "progressive:Bottle2",
+    "values": {
+      "true": 2
+    }
+  },
+  {
+    "spoiler_label": "Bottle of Milk (MM)",
+    "item_reference": "progressive:Bottle3",
+    "values": {
+      "true": 5
+    }
+  },
+  {
+    "spoiler_label": "Bottle of Chateau Romani",
+    "item_reference": "progressive:Bottle4",
+    "values": {
+      "true": 6
+    }
+  },
+  {
+    "spoiler_label": "Owl Statue (Clock Town)",
+    "item_reference": "progressive:Clock%20Town%20Owl%20Statue",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Fairy Slingshot",
+    "item_reference": "progressive:Slingshot",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Goron Lullaby",
+    "item_reference": "progressive:Goron%20Lullaby",
+    "values": {
+      "true": 2
+    }
+  },
+  {
+    "spoiler_label": "Owl Statue (Great Bay)",
+    "item_reference": "progressive:Great%20Bay%20Owl%20Statue",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Owl Statue (Ikana Canyon)",
+    "item_reference": "progressive:Ikana%20Canyon%20Owl%20Statue",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Owl Statue (Milk Road)",
+    "item_reference": "progressive:Milk%20Road%20Owl%20Statue",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Owl Statue (Mountain Village)",
+    "item_reference": "progressive:Mountain%20Village%20Owl%20Statue",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Fair Slingshot",
+    "item_reference": "progressive:Slingshot",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Owl Statue (Snowhead)",
+    "item_reference": "progressive:Snowhead%20Owl%20Statue",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Owl Statue (Southern Swamp)",
+    "item_reference": "progressive:Southern%20Swamp%20Owl%20Statue",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Owl Statue (Stone Tower)",
+    "item_reference": "progressive:Stone%20Tower%20Owl%20Statue",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Owl Statue (Woodfall)",
+    "item_reference": "progressive:Woodfall%20Owl%20Statue",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Owl Statue (Zora Cape)",
+    "item_reference": "progressive:Zora%20Cape%20Owl%20Statue",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Hero's Shield",
+    "item_reference": "progressive:Shield",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Hylian Shield",
+    "item_reference": "progressive:Hylian%20Shield",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "1 Bombchu (MM)",
+    "item_reference": "408:progressive:Bombchus",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "5 Bombchu (MM)",
+    "item_reference": "408:progressive:Bombchus",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "10 Bombchu (MM)",
+    "item_reference": "408:progressive:Bombchus",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "5 Bombchu (OoT)",
+    "item_reference": "656:progressive:Bombchus",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "20 Bombchu (OoT)",
+    "item_reference": "656:progressive:Bombchus",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Progressive Sword (MM)",
+    "item_reference": "progressive:Sword",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Progressive Sword (OoT)",
+    "item_reference": "progressive:Kokiri%20Sword",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Hero's Shield'",
+    "item_reference": "progressive:Shield",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Hylian Shield'",
+    "item_reference": "progressive:Hylian%20Shield",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Ruto's Letter",
+    "item_reference": "toggle:%20Ruto%27s%20Letter",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "All-Night Mask",
+    "item_reference": "toggle:All%20Night%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Progressive Goron Sword",
+    "item_reference": "toggle:Biggoron%20Sword",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Bolero of Fire",
+    "item_reference": "toggle:Bolero%20of%20Fire",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Progressive Goron Sword",
+    "item_reference": "toggle:Biggoron%20Sword",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Boomerang",
+    "item_reference": "toggle:Boomerang",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Bottle of Gold Dust",
+    "item_reference": "toggle:Bottle%20with%20Gold%20Dust",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Bremen Mask",
+    "item_reference": "toggle:Bremen%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Broken Goron's Sword",
+    "item_reference": "toggle:Broken%20Sword",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Captain's Hat",
+    "item_reference": "toggle:Captain%20Hat",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Chicken",
+    "item_reference": "toggle:Child%20Cucco",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Claim Check",
+    "item_reference": "toggle:Claim%20Check",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Progressive Clock",
+    "item_reference": "toggle:Clock%20%28Day%201%29",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Cojiro",
+    "item_reference": "toggle:Cojiro",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Couple's Mask",
+    "item_reference": "toggle:Couple%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Deku Mask",
+    "item_reference": "toggle:Deku%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Don Gero's Mask",
+    "item_reference": "toggle:Don%20Gero%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Eye Drops",
+    "item_reference": "toggle:Eyedrops",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Fierce Deity's Mask",
+    "item_reference": "toggle:Fierce%20Deity%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Eyeball Frog",
+    "item_reference": "toggle:Frog",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Garo's Mask",
+    "item_reference": "toggle:Garo%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Gerudo Mask",
+    "item_reference": "toggle:Gerudo%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Gerudo's Membership Card",
+    "item_reference": "toggle:Gerudo%20Membership%20Card",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Giant's Mask",
+    "item_reference": "toggle:Giant%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Gibdo Mask",
+    "item_reference": "toggle:Gibdo%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Great Fairy's Mask",
+    "item_reference": "toggle:Great%20Fairy%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Great Fairy's Sword",
+    "item_reference": "toggle:Great%20Fairy%20Sword",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Kafei's Mask",
+    "item_reference": "toggle:Kafei%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Kamaro's Mask",
+    "item_reference": "toggle:Kamaro%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Deku Shield (OoT)",
+    "item_reference": "toggle:Kokiri%20Shield",
+    "values": {
+    }
+  },
+  {
+    "spoiler_label": "Deku Shield",
+    "item_reference": "toggle:Kokiri%20Shield",
+    "values": {
+    }
+  },
+  {
+    "spoiler_label": "Letter to Kafei",
+    "item_reference": "toggle:Letter%20to%20Kafei",
+    "values": {
+      "true": 0
+
+    }
+  },
+  {
+    "spoiler_label": "Magic Bean (MM)",
+    "item_reference": "toggle:Magic%20Beans",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Magic Beans (OoT)",
+    "item_reference": "toggle:Magic%20Beans",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Mask of Scents",
+    "item_reference": "toggle:Mask%20of%20Scents",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Master Sword",
+    "item_reference": "toggle:Master%20Sword",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Odd Potion",
+    "item_reference": "toggle:Medicine",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Minuet of Forest",
+    "item_reference": "toggle:Minuet%20of%20Forest",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Moon's Tear",
+    "item_reference": "toggle:Moon%20Tear",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Mountain Title Deed",
+    "item_reference": "toggle:Mountain%20Title%20Deed",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Odd Mushroom",
+    "item_reference": "toggle:Mushroom",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "New Wave Bossa Nova",
+    "item_reference": "toggle:New%20Wave%20Bossa%20Nova",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Nocturne of Shadow",
+    "item_reference": "toggle:Nocturne%20of%20Shadow",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Oath to Order",
+    "item_reference": "toggle:Oath%20to%20Order",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Ocean Title Deed",
+    "item_reference": "toggle:Ocean%20Title%20Deed",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Pendant of Memories",
+    "item_reference": "toggle:Pendant%20of%20Memories",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Pictograph Box",
+    "item_reference": "toggle:Pictograph%20Box",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Pocket Cucco",
+    "item_reference": "toggle:Pocket%20Cucco",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Postman's Hat",
+    "item_reference": "toggle:Postman%20Hat",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Powder Keg",
+    "item_reference": "toggle:Powder%20Keg",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Prelude of Light",
+    "item_reference": "toggle:Prelude%20of%20Light",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Prescription",
+    "item_reference": "toggle:Prescription",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Requiem of Spirit",
+    "item_reference": "toggle:Requiem%20of%20Spirit",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Romani's Mask",
+    "item_reference": "toggle:Romani%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Room Key",
+    "item_reference": "toggle:Room%20Key%20Static",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Saria's Song",
+    "item_reference": "toggle:Saria%27s%20Song",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Poacher's Saw",
+    "item_reference": "toggle:Saw",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Serenade of Water",
+    "item_reference": "toggle:Serenade%20of%20Water",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Skull Mask",
+    "item_reference": "toggle:Skull%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Sonata of Awakening",
+    "item_reference": "toggle:Sonata%20of%20Awakening",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Song of Healing",
+    "item_reference": "toggle:Song%20of%20Healing",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Song of Soaring",
+    "item_reference": "toggle:Song%20of%20Soaring",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Letter to Mama",
+    "item_reference": "toggle:Special%20Delivery",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Spooky Mask",
+    "item_reference": "toggle:Spooky%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Stone of Agony (OoT)",
+    "item_reference": "toggle:Stone%20of%20Agony",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Stone of Agony",
+    "item_reference": "toggle:Stone%20of%20Agony",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Sun's Song (OoT)",
+    "item_reference": "toggle:Sun%27s%20Song",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Swamp Title Deed",
+    "item_reference": "toggle:Swamp%20Title%20Deed",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Land Title Deed",
+    "item_reference": "toggle:Town%20Title%20Deed",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Circus Leader's Mask",
+    "item_reference": "toggle:Troupe%20Leader%20Mask",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Zelda's Letter",
+    "item_reference": "toggle:Zelda%27s%20Letter",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Zelda's Lullaby",
+    "item_reference": "toggle:Zelda%27s%20Lullaby",
+    "values": {
+      "true": 0
+    }
+  },
+  {
+    "spoiler_label": "Spin Attack Upgrade (MM)",
+    "item_reference": "toggle_badged:Sword%20with%20Spin%20Attack",
+    "values": {
+      "true": 0
+    }
+  }
+
+]

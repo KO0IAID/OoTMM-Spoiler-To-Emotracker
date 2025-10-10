@@ -1,0 +1,641 @@
+﻿[
+  {
+    "spoiler_label": "Fewer Lens Requirements (MM)",
+    "item_reference": "toggle:Fewer%20Lens%20Requirements%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Fewer Tunic Requirements (MM)",
+    "item_reference": "toggle:Fewer%20Tunic%20Requirements%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Skip Planting Beans in Deku Palace",
+    "item_reference": "toggle:Skip%20Planting%20Beans%20in%20Deku%20Palace",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Climb Mountain Village Wall Blind",
+    "item_reference": "toggle:Climb%20Mountain%20Village%20Wall%20Blind",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Pinnacle Rock without Seahorse",
+    "item_reference": "toggle:Pinnacle%20Rock%20without%20Seahorse",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Swim to Zora Hall as Human",
+    "item_reference": "toggle:Swim%20to%20Zora%20Hall%20as%20Human",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Climb Ikana Canyon without Ice Arrows",
+    "item_reference": "toggle:Climb%20Ikana%20Canyon%20without%20Ice%20Arrows",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Climb Stone Tower with One Mask",
+    "item_reference": "toggle:Climb%20Stone%20Tower%20with%20One%20Mask",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Inverted Stone Tower Temple Early Eyegore",
+    "item_reference": "toggle:Inverted%20Stone%20Tower%20Temple%20Eyegore%20Skips",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "South Clock Town Chest with Nothing",
+    "item_reference": "toggle:South%20Clock%20Town%20Chest%20with%20Nothing",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Bomb Jump Fences as Goron",
+    "item_reference": "toggle:Bomb%20Jump%20Fences%20as%20Goron",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Guess Bombers' Code",
+    "item_reference": "toggle:Guess%20Bomber%20Code",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Guess Oceanside Spider House Code",
+    "item_reference": "toggle:Guess%20Oceanside%20Spider%20House%20Code",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Inverted Stone Tower Temple Long Jump to Death Armos",
+    "item_reference": "toggle:Inverted%20Stone%20Tower%20Temple%20Long%20Jump%20to%20Death%20Armos",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Precise Short Hookshot Usage",
+    "item_reference": "toggle:Precise%20Short%20Hookshot%20Usage",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Enter Pirates' Fortress Interior using Hookshot from the Boats",
+    "item_reference": "toggle:Enter%20Pirate%20Fortress%20Interior%20using%20Hookshot%20from%20the%20Boats",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Backflip over Deku Palace Guards",
+    "item_reference": "toggle:Backflip%20over%20Deku%20Palace%20Guards",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Complete Snowhead Temple using Hot Spring Water",
+    "item_reference": "toggle:Complete%20Snowhead%20Temple%20using%20Hot%20Spring%20Water",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Access SHT Pillar Fireless with Precise Stick Run",
+    "item_reference": "toggle:Access%20SHT%20Pillar%20Fireless%20with%20Precise%20Stick%20Run",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Snowhead Temple Skip Raising Pillar",
+    "item_reference": "toggle:Snowhead%20Temple%20Skip%20Raising%20Pillar",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+
+  {
+    "spoiler_label": "Doggy Racetrack Chest with Nothing",
+    "item_reference": "toggle:Doggy%20Racetrack%20Chest%20with%20Nothing",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Jump from Ikana Castle's Roof Interior to Exterior",
+    "item_reference": "toggle:Jump%20from%20Ikana%20Castle%27s%20Roof%20Interior%20to%20Exterior",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Use Powder Kegs as Explosives",
+    "item_reference": "toggle:Use%20Powder%20Kegs%20as%20Explosives",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Fight Majora to Reset Time",
+    "item_reference": "toggle:Fight%20Majora%20to%20Reset%20Time",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Southern Swamp Scrub HP as Goron",
+    "item_reference": "toggle:Southern%20Swamp%20Scrub%20HP%20as%20Goron",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Zora Hall Scrub HP without Deku",
+    "item_reference": "toggle:Zora%20Hall%20Scrub%20HP%20without%20Deku",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Access the doors in Zora Hall using Short Hookshot Anywhere",
+    "item_reference": "toggle:Access%20the%20doors%20in%20Zora%20Hall%20using%20Short%20Hookshot%20Anywhere",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Jump from Ikana Castle's Roof to Entrance",
+    "item_reference": "toggle:Jump%20from%20Ikana%20Castle%27s%20Roof%20to%20Entrance",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Post Office Timing Game without Bunny Hood",
+    "item_reference": "toggle:Post%20Office%20Timing%20Game%20without%20Bunny%20Hood",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Well's Hot Spring Water without Killing Dexihand",
+    "item_reference": "toggle:Well%27s%20Hot%20Spring%20Water%20without%20Killing%20Dexihand",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "ISTT Block Room without Chuchu Jellies",
+    "item_reference": "toggle:ISTT%20Block%20Room%20without%20Chuchu%20Jellies",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Cross GBT Waterwheel Room as Goron",
+    "item_reference": "toggle:Cross%20GBT%20Waterwheel%20Room%20as%20Goron",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Great Bay Temple Entrance Chest using only Bow",
+    "item_reference": "toggle:Great%20Bay%20Temple%20Entrance%20Chest%20using%20only%20Bow",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Walk Along Surfaces Out of Bounds",
+    "item_reference": "toggle:Walk%20Along%20Surfaces%20Out%20of%20Bounds",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Stone Tower Updrafts without Deku Mask",
+    "item_reference": "toggle:Stone%20Tower%20Updrafts%20without%20Deku%20Mask",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Escape the Monkey Cage with Hookshot Anywhere",
+    "item_reference": "toggle:Escape%20the%20Monkey%20Cage%20with%20Hookshot%20Anywhere",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+
+  {
+    "spoiler_label": "GBT First Underwater Fairy with Short Hookshot Anywhere",
+    "item_reference": "toggle:GBT%20First%20Underwater%20Fairy%20with%20Short%20Hookshot%20Anywhere",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "GBT Central Room without Zora using Fire & Ice Arrows or an Oot Magic Spell",
+    "item_reference": "toggle:GBT%20Central%20Room%20without%20Zora%20using%20Fire%20%26%20Ice%20Arrows%20or%20an%20OoT%20Magic%20Spell",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Bank Rewards Require One Less Wallet",
+    "item_reference": "toggle:Bank%20Rewards%20Require%20One%20Less%20Wallet",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Bank Rewards Require No Extra Wallets",
+    "item_reference": "toggle:Bank%20Rewards%20Require%20No%20Wallets",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Wait for the Clock Tower to Open When Shuffled",
+    "item_reference": "toggle:Wait%20for%20the%20Clock%20Tower%20to%20Open%20When%20Shuffled",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Collect the Pillar Rupees in Woodfall Temple using Ice Arrows",
+    "item_reference": "toggle:Collect%20the%20Pillar%20Rupees%20in%20Woodfall%20Temple%20using%20Ice%20Arrows",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Collect the Floating Rupees in ISTT as Goron",
+    "item_reference": "toggle:Collect%20the%20Floating%20Rupees%20in%20ISTT%20as%20Goron",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Backflip over the Bomber in East Clock Town",
+    "item_reference": "toggle:Backflip%20over%20the%20Bomber%20in%20East%20Clock%20Town",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Jump Slash Tingle in North Clock Town",
+    "item_reference": "toggle:Jump%20slash%20Tingle%20in%20North%20Clock%20Town",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Great Bay Temple without Fire Arrows",
+    "item_reference": "toggle:Great%20Bay%20Temple%20without%20Fire%20Arrows",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Burn Igos' curtain with Din's Fire",
+    "item_reference": "toggle:Burn%20Igos%27%20curtains%20with%20Din%27s%20Fire",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Destroy the Bio Baba Grotto Hives with a Bombchu",
+    "item_reference": "toggle:Destroy%20the%20Bio%20Baba%20Grotto%20Hive%20with%20a%20Bombchu",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Bio Baba Grotto Lilypad Luck",
+    "item_reference": "toggle:Bio%20Baba%20Grotto%20Lilypad%20Luck",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Woodfall Owl Chest with Hover Boots and Jump Slash",
+    "item_reference": "toggle:Woodfall%20Owl%20Chest%20with%20Hover%20Boots%20and%20Jump%20Slash",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Woodfall Temple Lobby with Damage Boost and Hover Boots",
+    "item_reference": "toggle:Woodfall%20Temple%20Lobby%20with%20Damage%20Boost%20and%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Zora Long Jump to the Soaring Tablet",
+    "item_reference": "toggle:Zora%20Long%20Jump%20to%20the%20Soaring%20Tablet",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Jump Slash or Damage Boost to the Soaring Tablet with Hover Boots and Bunny Hood",
+    "item_reference": "toggle:Jump%20Slash%20or%20Damage%20Boost%20to%20the%20Soaring%20Tablet%20with%20Hover%20Boots%20and%20Bunny%20Hood",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Skip playing Goron Lullaby by using Iron Boots",
+    "item_reference": "toggle:Skip%20playing%20Goron%20Lullaby%20by%20using%20Iron%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Cross Path to Snowhead using Hover Boots",
+    "item_reference": "toggle:Cross%20Path%20to%20Snowhead%20using%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+
+  {
+    "spoiler_label": "Cross GBT Waterwheel Room using Hover Boots",
+    "item_reference": "toggle:Cross%20GBT%20Waterwheel%20Room%20using%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Great Bay Temple Center Underwater Pot using only Iron Boots",
+    "item_reference": "toggle:Great%20Bay%20Temple%20Center%20Underwater%20Pot%20using%20only%20Iron%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Reach the First Red Turnkey in GBT using Hover Boots, Bunny Hood, and a Jump Slash",
+    "item_reference": "toggle:Reach%20the%20first%20red%20pipe%20in%20GBT%20using%20Hover%20Boots%2C%20Bunny%20Hood%2C%20and%20a%20Jump%20Slash",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Reach the Upper Chest in GBT's Second Green Room using Hover Boots",
+    "item_reference": "toggle:Reach%20the%20Upper%20Chest%20in%20GBT%27s%20Second%20Green%20Room%20using%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Fight Gyorg as Human using Iron Boots and Hookshot",
+    "item_reference": "toggle:Fight%20Gyorg%20as%20Human%20using%20Iron%20Boots%20and%20Hookshot",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Stone Tower Temple Map Chest using Hover Boots",
+    "item_reference": "toggle:Stone%20Tower%20Temple%20Map%20Chest%20using%20Hover%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Inverted Stone Tower Temple Death Armos using Hover Boots and Bunny Hood",
+    "item_reference": "toggle:Inverted%20Stone%20Tower%20Temple%20Death%20Armos%20using%20Hover%20Boots%20and%20Bunny%20Hood",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Dive Down for Gyorg's Pots with Blast Mask",
+    "item_reference": "toggle:Dive%20Down%20for%20Gyorg%27s%20Pots%20with%20Blast%20Mask",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "STT Water Room Shallow Pots Dive with Bombchu",
+    "item_reference": "toggle:STT%20Water%20Room%20Shallow%20Pots%20Dive%20with%20Bombchu",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Wait outside Stock Pot Inn's roof for closing",
+    "item_reference": "toggle:Wait%20outside%20Stock%20Pot%20Inn%27s%20roof%20for%20closing",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Light the Zora Hall Stage Lights using Din's Fire, Bow, and Hookshot",
+    "item_reference": "toggle:Light%20the%20Zora%20Hall%20Stage%20Lights%20using%20Din%27s%20Fire%2C%20Bow%2C%20and%20Hookshot",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Romani's Ranch locations using Farore's Wind and Time Reset",
+    "item_reference": "toggle:Romani%27s%20Ranch%20locations%20using%20Farore%27s%20Wind%20and%20Time%20Reset",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Evan's Piece of Heart using Farore's Wind and Time Reset",
+    "item_reference": "toggle:Evan%27s%20Piece%20of%20Heart%20using%20Farore%27s%20Wind%20and%20Time%20Reset",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Powder Keg Trial without Thawing Ice using Hookshot Anywhere",
+    "item_reference": "toggle:Powder%20Keg%20Trial%20without%20Thawing%20Ice%20using%20Hookshot%20Anywhere",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+
+  {
+    "spoiler_label": "Hidden Grottos (MM) without Stone of Agony",
+    "item_reference": "toggle:Hidden%20Grottos%20%28OoT%29%20without%20Stone%20of%20Agony",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Snowhead Temple Hookshot Up Pillar Room",
+    "item_reference": "toggle:Snowhead%20Temple%20Hookshot%20Up%20Pillar%20Room",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Float from Ikana Castle's Roof to Entrance",
+    "item_reference": "toggle:Float%20from%20Ikana%20Castle%27s%20Roof%20to%20Entrance",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Powder Keg Trial with only Long Hookshot and Bunny Hood",
+    "item_reference": "toggle:Powder%20Keg%20Trial20with%20only%20Long%20Hookshot%20and%20Bunny%20Hood",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Powder Keg Trial with only Hoverboots and Bunny Hood",
+    "item_reference": "toggle:Powder%20Keg%20Trial20with%20only%20Hoverboots%20and%20Bunny%20Hood",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Stone Tower Temple Lava Room switch without Goron",
+    "item_reference": "toggle:Stone%20Tower%20Temple%20Lava%20Room%20switch%20without%20Goron",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+
+  {
+    "spoiler_label": "Destroy Beehives using Bombchu (MM)",
+    "item_reference": "toggle:Destroy%20Beehives%20using%20Bombchu%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Twinmold with Bow (MM)",
+    "item_reference": "toggle:Twinmold%20with%20Bow%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Break Red Boulders using Powder Keg (MM)",
+    "item_reference": "toggle:Break%20Red%20Boulders%20using%20Powder%20Keg%20%28MM%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "Defeat the waterfall Like Like in Zora Cape by using a precise Bombchu Launch",
+    "item_reference": "toggle:Defeat%20the%20waterfall%20Like%20Like%20in%20Zora%20Cape%20by%20using%20a%20precise%20Bombchu%20Launch",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  }
+]
+
+  

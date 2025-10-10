@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Images\Spoiler2Tracker.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Check.png" />
+    <None Remove="Images\Cross.png" />
+    <None Remove="Images\Saved.png" />
+    <None Remove="Images\Search.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Images\Check.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Cross.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Saved.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Search.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Spoiler2Tracker.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SpoilerToTrackerConverter\SpoilerToTrackerConverter.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,341 @@
+﻿[
+  {
+    "spoiler_label": "Deku Stick",
+    "item_reference": "404:progressive:Deku%20Sticks",
+    "item_reference2": "652:progressive:Deku%20Sticks",
+    "shared": "sharedNutsSticks",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "5 Deku Nuts",
+    "item_reference": "405:progressive:Deku%20Nuts",
+    "item_reference2": "647:progressive:Deku%20Nuts",
+    "shared": "sharedNutsSticks",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "10 Deku Nuts",
+    "item_reference": "405:progressive:Deku%20Nuts",
+    "item_reference2": "647:progressive:Deku%20Nuts",
+    "shared": "sharedNutsSticks",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Shared Bomb Bag",
+    "item_reference": "406:progressive:Bombs",
+    "item_reference2": "653:progressive:Bombs",
+    "shared": "sharedBombBags",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Shared Bow",
+    "item_reference": "399:progressive:Bow",
+    "item_reference2": "645:progressive:Bow",
+    "shared": "sharedBows",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Shared Fire Arrows",
+    "item_reference": "400:progressive:Fire%20Arrows",
+    "item_reference2": "648:progressive:Fire%20Arrows",
+    "shared": "sharedMagicArrowFire",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Shared Ice Arrows",
+    "item_reference": "401:progressive:Ice%20Arrows",
+    "item_reference2": "649:progressive:Ice%20Arrows",
+    "shared": "sharedMagicArrowIce",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Shared Light Arrows",
+    "item_reference": "402:progressive:Light%20Arrows",
+    "item_reference2": "650:progressive:Light%20Arrows",
+    "shared": "sharedMagicArrowLight",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Din's Fire",
+    "item_reference": "504:progressive:Din%27s%20Fire",
+    "item_reference2": "658:progressive:Din%27s%20Fire",
+    "shared": "sharedSpellFire",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Farore's Wind",
+    "item_reference": "505:progressive:Farore%27s%20Wind",
+    "item_reference2": "659:progressive:Farore%27s%20Wind",
+    "shared": "sharedSpellWind",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Nayru's Love",
+    "item_reference": "506:progressive:Nayru%27s%20Love",
+    "item_reference2": "660:progressive:Nayru%27s%20Love",
+    "shared": "sharedSpellLove",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Progressive Hookshot",
+    "item_reference": "407:progressive:Hookshot",
+    "item_reference2": "655:progressive:Hookshot",
+    "shared": "sharedHookshot",
+    "onvalue": 1,
+    "onvalue2": 2
+  },
+  {
+    "spoiler_label": "Lens of Truth",
+    "item_reference": "410:progressive:Lens%20of%20Truth",
+    "item_reference2": "657:progressive:Lens%20of%20Truth",
+    "shared": "sharedLens",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Megaton Hammer",
+    "item_reference": "512:progressive:Hammer",
+    "item_reference2": "681:progressive:Hammer",
+    "shared": "sharedHammer",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Mirror Shield",
+    "item_reference": "426:progressive:Mirror%20Shield",
+    "item_reference2": "637:progressive:Mirror%20Shield",
+    "shared": "sharedShields",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Epona's Song",
+    "item_reference": "413:progressive:Epona%27s%20Song",
+    "item_reference2": "689:progressive:Epona%27s%20Song",
+    "shared": "sharedSongEpona",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Song of Time",
+    "item_reference": "411:progressive:Song%20of%20Time",
+    "item_reference2": "692:progressive:Song%20of%20Time",
+    "shared": "sharedSongTime",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Song of Storms",
+    "item_reference": "414:progressive:Song%20of%20Storms",
+    "item_reference2": "693:progressive:Song%20of%20Storms",
+    "shared": "sharedSongStorms",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Iron Boots",
+    "item_reference": "507:progressive:Iron%20Boots",
+    "item_reference2": "641:progressive:Iron%20Boots",
+    "shared": "sharedBootsIron",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Hover Boots",
+    "item_reference": "508:progressive:Hover%20Boots",
+    "item_reference2": "642:progressive:Hover%20Boots",
+    "shared": "sharedBootsHover",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Goron Tunic",
+    "item_reference": "518:progressive:Goron%20Tunic",
+    "item_reference2": "638:progressive:Goron%20Tunic",
+    "shared": "sharedTunicGoron",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Zora Tunic",
+    "item_reference": "509:progressive:Zora%20Tunic",
+    "item_reference2": "639:progressive:Zora%20Tunic",
+    "shared": "sharedTunicZora",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Progressive Scale",
+    "item_reference": "510:progressive:Zora%20Scales",
+    "item_reference2": "643:progressive:Zora%20Scales",
+    "shared": "sharedScales",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Shared Magic Upgrade",
+    "item_reference": "447:progressive:Magic",
+    "item_reference2": "383:progressive:Magic%20Meter",
+    "shared": "sharedMagic",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Progressive Strength",
+    "item_reference": "511:progressive:Strength%20Upgrades",
+    "item_reference2": "644:progressive:Strength%20Upgrades",
+    "shared": "sharedStrength",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Progressive Wallet",
+    "item_reference": "436:progressive:Wallet",
+    "item_reference2": "382:progressive:Wallet%20Upgrades",
+    "shared": "sharedWallets",
+    "onvalue": 2
+  },
+  {
+    "spoiler_label": "Skeleton Key",
+    "item_reference": "503:progressive:Skeleton%20Key",
+    "item_reference2": "840:progressive:Skeleton%20Key",
+    "shared": "sharedSkeletonKey",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Elegy of Emptiness",
+    "item_reference": "419:progressive:Elegy%20of%20Emptiness",
+    "item_reference2": "707:progressive:Elegy%20of%20Emptiness",
+    "shared": "sharedSongElegy",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "A Button",
+    "item_reference": "513:progressive:A%20Button",
+    "item_reference2": "700:progressive:A%20Button",
+    "shared": "sharedOcarinaButtons",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "C-Down Button",
+    "item_reference": "514:progressive:C%20Down%20Button",
+    "item_reference2": "701:progressive:C%20Down%20Button",
+    "shared": "sharedOcarinaButtons",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "C-Left Button",
+    "item_reference": "515:progressive:C%20Left%20Button",
+    "item_reference2": "702:progressive:C%20Left%20Button",
+    "shared": "sharedOcarinaButtons",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "C-Right Button",
+    "item_reference": "516:progressive:C%20Right%20Button",
+    "item_reference2": "703:progressive:C%20Right%20Button",
+    "shared": "sharedOcarinaButtons",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "C-Up Button",
+    "item_reference": "517:progressive:C%20Up%20Button",
+    "item_reference2": "704:progressive:C%20Up%20Button",
+    "shared": "sharedOcarinaButtons",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Blast Mask",
+    "item_reference": "453:progressive:Blast%20Mask",
+    "item_reference2": "705:progressive:Blast%20Mask",
+    "shared": "sharedMaskBlast",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Stone Mask",
+    "item_reference": "470:progressive:Stone%20Mask",
+    "item_reference2": "706:progressive:Stone%20Mask",
+    "shared": "sharedMaskStone",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Keaton Mask",
+    "item_reference": "463:progressive:Keaton%20Mask",
+    "item_reference2": "663:progressive:Keaton%20Mask",
+    "shared": "sharedMaskKeaton",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Bunny Hood",
+    "item_reference": "456:progressive:Bunny%20Hood",
+    "item_reference2": "666:progressive:Bunny%20Hood",
+    "shared": "sharedMaskBunny",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Mask of Truth",
+    "item_reference": "466:progressive:Mask%20of%20Truth",
+    "item_reference2": "667:progressive:Mask%20of%20Truth",
+    "shared": "sharedMaskTruth",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Goron Mask",
+    "item_reference": "449:progressive:Goron%20Mask",
+    "item_reference2": "668:progressive:Goron%20Mask",
+    "shared": "sharedMaskGoron",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Zora Mask",
+    "item_reference": "450:progressive:Zora%20Mask",
+    "item_reference2": "669:progressive:Zora%20Mask",
+    "shared": "sharedMaskZora",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Progressive Ocarina",
+    "item_reference": "427:progressive:Ocarina",
+    "item_reference2": "682:progressive:Ocarina",
+    "shared": "sharedOcarina",
+    "onvalue": 2,
+    "onvalue2": 1
+  },
+  {
+    "spoiler_label": "Progressive Sword",
+    "item_reference": "423:progressive:Sword",
+    "item_reference2": "632:progressive:Kokiri%20Sword",
+    "shared": "sharedSwords",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Hylian/Hero Shield",
+    "item_reference": "425:progressive:Shield",
+    "item_reference2": "636:progressive:Hylian%20Shield",
+    "shared": "sharedShields",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Progressive Shield",
+    "item_reference": "425:progressive:Hero's'%20Shield",
+    "item_reference2": "636:progressive:Hylian%20Shield",
+    "shared": "sharedShields",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "Bombchu",
+    "item_reference": "408:progressive:Bombchu",
+    "item_reference2": "656:progressive:Bombchus",
+    "shared": "sharedBombBags",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "5 Bombchu",
+    "item_reference": "408:progressive:Bombchu",
+    "item_reference2": "656:progressive:Bombchus",
+    "shared": "sharedBombBags",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "10 Bombchu",
+    "item_reference": "408:progressive:Bombchu",
+    "item_reference2": "656:progressive:Bombchus",
+    "shared": "sharedBombBags",
+    "onvalue": 1
+  },
+  {
+    "spoiler_label": "20 Bombchu",
+    "item_reference": "408:progressive:Bombchu",
+    "item_reference2": "656:progressive:Bombchus",
+    "shared": "sharedBombBags",
+    "onvalue": 1
+  }
+]
+

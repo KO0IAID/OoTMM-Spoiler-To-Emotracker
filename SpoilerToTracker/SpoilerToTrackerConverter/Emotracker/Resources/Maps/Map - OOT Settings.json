@@ -1,0 +1,445 @@
+﻿[
+  {
+    "spoiler_label": "goldSkulltulaTokens",
+    "item_reference": "progressive:Gold%20Skulltula%20Tokens%20Shuffle",
+    "values": {
+      "none": 0,
+      "dungeons": 1,
+      "overworld": 2,
+      "all": 3
+    }
+  },
+  {
+    "spoiler_label": "smallKeyShuffleOot",
+    "item_reference": "progressive:Small%20Key%20Shuffle%20%28OoT%29",
+    "values": {
+      "ownDungeon": 0,
+      "anywhere": 1,
+      "removed": 2,
+      "vanilla": 3
+    }
+  },
+  {
+    "spoiler_label": "bossKeyShuffleOot",
+    "item_reference": "progressive:Boss%20Key%20Shuffle%20%28OoT%29",
+    "values": {
+      "ownDungeon": 0,
+      "anywhere": 1,
+      "removed": 2,
+      "vanilla": 3
+    }
+  },
+  {
+    "spoiler_label": "shopShuffleOot",
+    "item_reference": "progressive:Shop%20Shuffle%20%28OoT%29",
+    "values": {
+      "none": 0,
+      "full": 1
+    }
+  },
+  {
+    "spoiler_label": "shufflePotsOot",
+    "item_reference": "progressive:Pots%20Shuffle%20%28OoT%29",
+    "values": {
+      "none": 1,
+      "all": 0,
+      "overworld": 0,
+      "dungeons": 0
+    }
+  },
+  {
+    "spoiler_label": "shuffleGrassOot",
+    "item_reference": "progressive:Grass%20Shuffle%20%28OoT%29",
+    "values": {
+      "none": 1,
+      "all": 0,
+      "overworld": 0,
+      "dungeons": 0
+    }
+  },
+  {
+    "spoiler_label": "shuffleMaskTrades",
+    "item_reference": "progressive:Mask%20Trade%20Shuffle",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "scrubShuffleOot",
+    "item_reference": "progressive:Scrub%20Shuffle%20%28OoT%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "cowShuffleOot",
+    "item_reference": "progressive:Cow%20Shuffle%20%28OoT%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "divingGameRupeeShuffle",
+    "item_reference": "progressive:Diving%20Game%20Rupee%20Shuffle",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "fairyFountainFairyShuffleOot",
+    "item_reference": "progressive:Fairy%20Fountain%20Fairy%20Shuffle%20%28OoT%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "priceOotShops",
+    "item_reference": "progressive:OoT%20Shops%20Prices",
+    "values": {
+      "affordable": 0,
+      "vanilla": 1,
+      "weighted": 2,
+      "random": 3
+    }
+  },
+  {
+    "spoiler_label": "priceOotScrubs",
+    "item_reference": "progressive:OoT%20Scrubs%20Prices",
+    "values": {
+      "affordable": 0,
+      "vanilla": 1,
+      "weighted": 2,
+      "random": 3
+    }
+  },
+  {
+    "spoiler_label": "startingAge",
+    "item_reference": "progressive:Starting%20Age",
+    "values": {
+      "child": 0,
+      "adult": 1,
+      "random": 2
+    }
+  },
+  {
+    "spoiler_label": "doorOfTime",
+    "item_reference": "progressive:Door%20of%20Time",
+    "values": {
+      "closed": 0,
+      "open": 1
+    }
+  },
+  {
+    "spoiler_label": "ageChange",
+    "item_reference": "progressive:Age%20Change%20upon%20Song%20of%20Time",
+    "values": {
+      "none": 0,
+      "oot": 1,
+      "always": 2
+    }
+  },
+  {
+    "spoiler_label": "dekuTree",
+    "item_reference": "progressive:Deku%20Tree",
+    "values": {
+      "closed": 0,
+      "vanilla": 1,
+      "open": 2
+    }
+  },
+  {
+    "spoiler_label": "kakarikoGate",
+    "item_reference": "progressive:Kakariko%20Gate",
+    "values": {
+      "closed": 0,
+      "vanilla": 1,
+      "open": 2
+    }
+  },
+  {
+    "spoiler_label": "zoraKing",
+    "item_reference": "progressive:Zora%20King",
+    "values": {
+      "vanilla": 0,
+      "adult": 1,
+      "open": 2
+    }
+  },
+  {
+    "spoiler_label": "gerudoFortress",
+    "item_reference": "progressive:Gerudo%20Fortress",
+    "values": {
+      "vanilla": 0,
+      "single": 1,
+      "open": 2
+    }
+  },
+  {
+    "spoiler_label": "lacs",
+    "item_reference": "progressive:Light%20Arrow%20Cutscene",
+    "values": {
+      "vanilla": 0,
+      "custom": 1
+    }
+  },
+  {
+    "spoiler_label": "rainbowBridge",
+    "item_reference": "progressive:Rainbow%20Bridge",
+    "values": {
+      "open": 0,
+      "vanilla": 1,
+      "medallions": 2,
+      "custom": 3
+    }
+  },
+  {
+    "spoiler_label": "swordlessAdult",
+    "item_reference": "progressive:Allow%20adult%20link%20to%20be%20swordless",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "timeTravelSword",
+    "item_reference": "progressive:Time%20Travel%20requires%20Master%20Sword",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "openZdShortcut",
+    "item_reference": "progressive:Open%20Zora%27s%20Domain%20Shortcut",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "skipZelda",
+    "item_reference": "progressive:Skip%20Child%20Zelda",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "freeScarecrowOot",
+    "item_reference": "progressive:Free%20Scarecrow%20%28OoT%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "ootPreplantedBeans",
+    "item_reference": "progressive:Pre-Planted%20beans%20%28OoT%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "crossWarpOot",
+    "item_reference": "progressive:Cross-Games%20OoT%20Warp%20Songs",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "hookshotAnywhereOot",
+    "item_reference": "progressive:Hookshot%20Anywhere%20%28OoT%29",
+    "values": {
+      "off": 0,
+      "enabled": 1,
+      "logical": 2
+    }
+  },
+  {
+    "spoiler_label": "climbMostSurfacesOot",
+    "item_reference": "progressive:Climb%20Most%20Surfaces%20%28OoT%29",
+    "values": {
+      "off": 0,
+      "enabled": 1,
+      "logical": 2
+    }
+  },
+  {
+    "spoiler_label": "restoreBrokenActors",
+    "item_reference": "progressive:Restore%20Broken%20Actors",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "blueFireArrows",
+    "item_reference": "progressive:Blue%20Fire%20Arrows",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "sunlightArrows",
+    "item_reference": "progressive:Sunlight%20Arrows",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "bombchuBehaviorOot",
+    "item_reference": "progressive:Bombchu%20Behavior%20%28OoT%29",
+    "values": {
+      "free": 0,
+      "bombBag": 1,
+      "bagFirst": 2,
+      "bagSeparate": 3
+    }
+  },
+  {
+    "spoiler_label": "ocarinaButtonsShuffleOot",
+    "item_reference": "progressive:Ocarina%20Buttons%20Shuffle%20%28OoT%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "soulsEnemyOot",
+    "item_reference": "progressive:Enemy%20Souls%20%28OoT%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "soulsBossOot",
+    "item_reference": "progressive:Boss%20Souls%20%28OoT%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "soulsNpcOot",
+    "item_reference": "progressive:NPC%20Souls%20%28OoT%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "soulsMiscOot",
+    "item_reference": "progressive:Misc.%20Souls%20%28OoT%29",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "agelessSwords",
+    "item_reference": "progressive:Ageless%20Swords",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "agelessShields",
+    "item_reference": "progressive:Ageless%20Shields",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "agelessTunics",
+    "item_reference": "progressive:Ageless%20Tunics",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "agelessBoots",
+    "item_reference": "progressive:Ageless%20Boots",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "agelessSticks",
+    "item_reference": "progressive:Ageless%20Sticks",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "agelessBoomerang",
+    "item_reference": "progressive:Ageless%20Boomerang",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "agelessHammer",
+    "item_reference": "progressive:Ageless%20Hammer",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "agelessHookshot",
+    "item_reference": "progressive:Ageless%20Hookshot",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+
+  {
+    "spoiler_label": "agelessBow",
+    "item_reference": "progressive:Ageless%20Bow",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "agelessSlingshot",
+    "item_reference": "progressive:Ageless%20Slingshot",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "agelessStrength",
+    "item_reference": "progressive:Ageless%20Strength",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  },
+  {
+    "spoiler_label": "agelessChildTrade",
+    "item_reference": "progressive:Ageless%20Child%20Trade",
+    "values": {
+      "true": 0,
+      "false": 1
+    }
+  }
+]

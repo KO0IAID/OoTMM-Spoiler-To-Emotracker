@@ -1,0 +1,858 @@
+﻿[
+  {
+    "spoiler_label": "Soul of Goht",
+    "item_reference": "progressive:Soul%20of%20Goht",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Gyorg",
+    "item_reference": "progressive:Soul%20of%20Gyorg",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Igos",
+    "item_reference": "progressive:Soul%20of%20Igos",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Odolwa",
+    "item_reference": "progressive:Soul%20of%20Odolwa",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Twinmold",
+    "item_reference": "progressive:Soul%20of%20Twinmold",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Armos (MM)",
+    "item_reference": "progressive:Soul%20of%20Armos%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Bad Bats",
+    "item_reference": "progressive:Soul%20of%20Bad%20Bats",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Beamos (MM)",
+    "item_reference": "progressive:Soul%20of%20Beamos%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Bio Babas",
+    "item_reference": "progressive:Soul%20of%20Bio%20Babas",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Boes",
+    "item_reference": "progressive:Soul%20of%20Boes",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Bubbles (MM)",
+    "item_reference": "progressive:Soul%20of%20Bubbles%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Captain Keeta",
+    "item_reference": "progressive:Soul%20of%20Captain%20Keeta",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Chuchus",
+    "item_reference": "progressive:Soul%20of%20Chuchus",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Deep Pythons",
+    "item_reference": "progressive:Soul%20of%20Deep%20Pythons",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Deku Babas (MM)",
+    "item_reference": "progressive:Soul%20of%20Deku%20Babas%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Deku Scrubs (MM)",
+    "item_reference": "progressive:Soul%20of%20Deku%20Scrubs%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Dexihands",
+    "item_reference": "progressive:Soul%20of%20Dexihands",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Dodongos (MM)",
+    "item_reference": "progressive:Soul%20of%20Dodongos%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Dragonflies",
+    "item_reference": "progressive:Soul%20of%20Dragonflies",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Eenoes",
+    "item_reference": "progressive:Soul%20of%20Eenoes",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Eyegores",
+    "item_reference": "progressive:Soul%20of%20Eyegores",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Floormasters (MM)",
+    "item_reference": "progressive:Soul%20of%20Floormasters%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Flying Pots (MM)",
+    "item_reference": "progressive:Soul%20of%20Flying%20Pots%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Freezards (MM)",
+    "item_reference": "progressive:Soul%20of%20Freezards%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Garo",
+    "item_reference": "progressive:Soul%20of%20Garo",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Gekkos",
+    "item_reference": "progressive:Soul%20of%20Gekkos",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Gomess",
+    "item_reference": "progressive:Soul%20of%20Gomess",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Guays (MM)",
+    "item_reference": "progressive:Soul%20of%20Guays%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Hiploops",
+    "item_reference": "progressive:Soul%20of%20Hiploops",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Iron Knuckles (MM)",
+    "item_reference": "progressive:Soul%20of%20Iron%20Knuckles%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Keese (MM)",
+    "item_reference": "progressive:Soul%20of%20Keese%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Leevers (MM)",
+    "item_reference": "progressive:Soul%20of%20Leevers%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Like Likes (MM)",
+    "item_reference": "progressive:Soul%20of%20Like%20Likes%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Lizalfos/Dinolfos (MM)",
+    "item_reference": "progressive:Soul%20of%20Lizalfos%2FDinolfos%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Nejirons",
+    "item_reference": "progressive:Soul%20of%20Nejirons",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Octoroks (MM)",
+    "item_reference": "progressive:Soul%20of%20Octoroks%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Peahats (MM)",
+    "item_reference": "progressive:Soul%20of%20Peahats%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Real Bombchu",
+    "item_reference": "progressive:Soul%20of%20Real%20Bombchu",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of ReDeads/Gibdos (MM)",
+    "item_reference": "progressive:Soul%20of%20ReDeads%2FGibdos%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Shell Blades (MM)",
+    "item_reference": "progressive:Soul%20of%20Shell%20Blades%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Skullfish (MM)",
+    "item_reference": "progressive:Soul%20of%20Skullfish%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Skulltulas (MM)",
+    "item_reference": "progressive:Soul%20of%20Skulltulas%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Skullwalltulas (MM)",
+    "item_reference": "progressive:Soul%20of%20Skullwalltulas%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Snappers",
+    "item_reference": "progressive:Soul%20of%20Snappers",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Stalchildren (MM)",
+    "item_reference": "progressive:Soul%20of%20Stalchildren%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Takkuri",
+    "item_reference": "progressive:Soul%20of%20Takkuri",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Tektites (MM)",
+    "item_reference": "progressive:Soul%20of%20Tektites%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Fighting Pirates",
+    "item_reference": "progressive:Soul%20of%20the%20Fighting%20Pirates",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Wallmasters (MM)",
+    "item_reference": "progressive:Soul%20of%20Wallmasters%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Wizzrobes",
+    "item_reference": "progressive:Soul%20of%20Wizzrobes",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Warts",
+    "item_reference": "progressive:Soul%20of%20Warts",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Wolfos (MM)",
+    "item_reference": "progressive:Soul%20of%20Wolfos%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Business Scrubs (MM)",
+    "item_reference": "progressive:Soul%20of%20Business%20Scrubs%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Gold Skulltulas (MM)",
+    "item_reference": "progressive:Soul%20of%20Gold%20Skulltulas%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Anju (MM)",
+    "item_reference": "progressive:Soul%20of%20Anju%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Madame Aroma (MM)",
+    "item_reference": "progressive:Soul%20of%20Madame%20Aroma%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Astronomer (MM)",
+    "item_reference": "progressive:Soul%20of%20Astronomer%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Banker (MM)",
+    "item_reference": "progressive:Soul%20of%20the%20Banker%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Swamp Archery Owner (MM)",
+    "item_reference": "progressive:Soul%20of%20Swamp%20Archery%20Owner%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Beans Salesman (MM)",
+    "item_reference": "progressive:Soul%20of%20the%20Beans%20Salesman%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Biggoron (MM)",
+    "item_reference": "progressive:Soul%20of%20Biggoron%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Blacksmiths",
+    "item_reference": "progressive:Soul%20of%20Blacksmiths",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Chest Game Lady (MM)",
+    "item_reference": "progressive:Soul%20of%20Chest%20Game%20Lady%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Bomb Shop Owner (MM)",
+    "item_reference": "progressive:Soul%20of%20the%20Bomb%20Shop%20Owner%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Bombers (MM)",
+    "item_reference": "progressive:Soul%20of%20Bombers%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Deku Butler",
+    "item_reference": "progressive:Soul%20of%20the%20Deku%20Butler",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Carpenters (MM)",
+    "item_reference": "progressive:Soul%20of%20Carpenters%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Swordsman (MM)",
+    "item_reference": "progressive:Soul%20of%20Swordsman%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Fisherman (MM)",
+    "item_reference": "progressive:Soul%20of%20the%20Fisherman%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Citizens (MM)",
+    "item_reference": "progressive:Soul%20of%20Citizens%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Composer Bros. (MM)",
+    "item_reference": "progressive:Soul%20of%20Composer%20Bros.%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Dampe (MM)",
+    "item_reference": "progressive:Soul%20of%20Dampe%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Deku King",
+    "item_reference": "progressive:Soul%20of%20the%20Deku%20King",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Deku Princess",
+    "item_reference": "progressive:Soul%20of%20the%20Deku%20Princess",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Dog Lady (MM)",
+    "item_reference": "progressive:Soul%20of%20Dog%20Lady%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Trading Post Owner (MM)",
+    "item_reference": "progressive:Soul%20of%20Trading%20Post%20Owner%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Gorman & Bros. (MM)",
+    "item_reference": "progressive:Soul%20of%20Gorman%20%26%20Bros.%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Gorons (MM)",
+    "item_reference": "progressive:Soul%20of%20Gorons%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Goron Baby (MM)",
+    "item_reference": "progressive:Soul%20of%20the%20Goron%20Baby%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Goron Elder",
+    "item_reference": "progressive:Soul%20of%20the%20Goron%20Elder",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Goron Shopkeeper (MM)",
+    "item_reference": "progressive:Soul%20of%20the%20Goron%20Shopkeeper%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Grog (MM)",
+    "item_reference": "progressive:Soul%20of%20Grog%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Guru-Guru (MM)",
+    "item_reference": "progressive:Soul%20of%20Guru-Guru%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Honey & Darling (MM)",
+    "item_reference": "progressive:Soul%20of%20Honey%20%26%20Darling%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Kafei",
+    "item_reference": "progressive:Soul%20of%20Kafei",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Keaton",
+    "item_reference": "progressive:Soul%20of%20Keaton",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Koume and Kotake",
+    "item_reference": "progressive:Soul%20of%20Koume%20and%20Kotake",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Romani/Cremia (MM)",
+    "item_reference": "progressive:Soul%20of%20Romani%2FCremia%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Mayor Dotour",
+    "item_reference": "progressive:Soul%20of%20Mayor%20Dotour",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Keg Trial Goron (MM)",
+    "item_reference": "progressive:Soul%20of%20Keg%20Trial%20Goron%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Moon Children",
+    "item_reference": "progressive:Soul%20of%20Moon%20Children",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Anju's Grandmother (MM)",
+    "item_reference": "progressive:Soul%20of%20Anju%27s%20Grandmother%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Playground Scrubs",
+    "item_reference": "progressive:Soul%20of%20Playground%20Scrubs",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Ghost Hut Owner (MM)",
+    "item_reference": "progressive:Soul%20of%20Ghost%20Hut%20Owner%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Part-Timer (MM)",
+    "item_reference": "progressive:Soul%20of%20Part-Timer%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Lulu (MM)",
+    "item_reference": "progressive:Soul%20of%20Lulu%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Scientist (MM)",
+    "item_reference": "progressive:Soul%20of%20the%20Scientist%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Town Archery Owner (MM)",
+    "item_reference": "progressive:Soul%20of%20Town%20Archery%20Owner%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Mr. Barten (MM)",
+    "item_reference": "progressive:Soul%20of%20Mr.%20Barten%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Patrolling Pirates and their Chief",
+    "item_reference": "progressive:Soul%20of%20the%20Patrolling%20Pirates%20and%20their%20Chief",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Tingle",
+    "item_reference": "progressive:Soul%20of%20Tingle",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Toilet Hand",
+    "item_reference": "progressive:Soul%20of%20Toilet%20Hand",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Toto(MM)",
+    "item_reference": "progressive:Soul%20of%20Toto%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Tourist Center Owner",
+    "item_reference": "progressive:Soul%20of%20Tourist%20Center%20Owner",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of Zoras (MM)",
+    "item_reference": "progressive:Soul%20of%20Zoras%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Zora Musicians",
+    "item_reference": "progressive:Soul%20of%20the%20Zora%20Musicians",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  },
+  {
+    "spoiler_label": "Soul of the Zora Shopkeeper (MM)",
+    "item_reference": "progressive:Soul%20of%20the%20Zora%20Shopkeeper%20%28MM%29",
+    "values": {
+      "false": 0,
+      "true": 1
+    }
+  }
+]
