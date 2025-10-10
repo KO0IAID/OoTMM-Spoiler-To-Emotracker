@@ -383,17 +383,15 @@ namespace SpoilerToTrackerConverter.Emotracker.Controller
         }
         private void MapSpecialConditions()
         {
-            if (Spoiler == null || Spoiler.SpecialConditions == null || Maps == null || JsonTracker?.ItemDatabase == null)
+            if (Spoiler?.SpecialConditions == null || Maps == null || JsonTracker?.ItemDatabase == null)
                 return;
 
-            // get Spoiler log item
             foreach (Conditions condition in Spoiler.SpecialConditions)
             {
                 string? conditionName = condition.Name;
                 string? conditionValue = condition.Value;
                 string? conditionType = condition.Type;
 
-                // get Map
                 foreach (ItemMap itemMap in Maps)
                 {
                     string? mapName = itemMap.NoIDItemReference;
@@ -401,85 +399,95 @@ namespace SpoilerToTrackerConverter.Emotracker.Controller
                     string? mapType = itemMap.Type;
                     string? mapSpecialType = itemMap.SpecialType;
 
-                    // Compare spoilerlog item to map
-                    if (string.Equals(conditionName, mapSpoilerLabel, StringComparison.OrdinalIgnoreCase))
+                    // Match spoiler log entry to map
+                    if (!string.Equals(conditionName, mapSpoilerLabel, StringComparison.OrdinalIgnoreCase))
+                        continue;
+
+                    foreach (Item item in JsonTracker.ItemDatabase)
                     {
-                        foreach (Item item in JsonTracker.ItemDatabase)
+                        string? itemName = item.NoIDItemReference;
+                        string? itemType = item.Type;
+                        string? itemSpecialType = item.SpecialType;
+
+                        // Ensure this map entry matches this item
+                        if (mapSpecialType != itemSpecialType || mapType != itemType || itemName != mapName)
+                            continue;
+
+                        if (conditionValue == null || itemMap.Values == null)
                         {
-                            string? itemName = item.NoIDItemReference;
-                            string? itemType = item.Type;
-                            string? itemSpecialType = item.SpecialType;
+                            Debug.WriteLineIf(DebugStats,
+                                $"*** BAD/DUPLICATE MAP VALUES ***\n" +
+                                $"Source:\tMapSpecialConditions\n" +
+                                $"Item:\t{itemName}\n" +
+                                $"Map:\t{mapName}\n" +
+                                $"Entry:\t{conditionName} Value:{conditionValue}\n" +
+                                $"********************************\n");
+                            continue;
+                        }
 
-                            // Compare map to item
-                            if (mapSpecialType == itemSpecialType && mapType == itemType && itemName == mapName)
-                            {
-                                if (conditionValue != null && itemMap.Values != null)
+                        itemMap.Values.TryGetValue(conditionValue, out int mappedValue);
+
+                        bool hasChanged = false;
+                        string? oldValue = item.OldValue;
+                        string? newValue = mappedValue.ToString();
+
+                        switch (itemType)
+                        {
+                            case "progressive":
+                                if (mappedValue != item.StageIndex)
                                 {
-                                    itemMap.Values.TryGetValue(conditionValue, out int mappedValue);
-
-                                    switch (itemType)
-                                    {
-                                        case "progressive":
-                                            if (mappedValue != item.StageIndex)
-                                            {
-                                                item.StageIndex = mappedValue;
-                                                item.NewValue = mappedValue.ToString();
-                                                ChangeCount++;
-                                                ChangeLog += $"Original: {item.OldValue}\tChange: {item.NewValue}\tEmo: {itemName}\n";
-                                            }
-                                            break;
-
-                                        case "toggle":
-                                            bool newToggleValue = mappedValue <= 0;
-                                            if (newToggleValue != item.Active)
-                                            {
-                                                item.Active = newToggleValue;
-                                                item.NewValue = mappedValue.ToString();
-                                                ChangeCount++;
-                                                ChangeLog += $"Original: {item.OldValue}\tChange: {item.NewValue}\tEmo: {itemName}\n";
-                                            }
-                                            break;
-                                        case "lua":
-                                            bool newLuaValue = mappedValue <= 0;
-                                            if (item.Active != newLuaValue)
-                                            {
-                                                item.Active = newLuaValue;
-                                                item.Stage = mappedValue;
-                                                item.NewValue = mappedValue.ToString();
-                                                ChangeCount++;
-                                                ChangeLog += $"Original: {item.OldValue}\tChange: {item.NewValue}\tEmo: {itemName}\n";
-                                            }
-                                            break;
-
-                                        case "consumable":
-                                            // Parse the condition value, and if able use it, otherwise use the original, with a fallback of 0
-                                            mappedValue = int.TryParse(conditionValue, out int result) ? result : item.AcquiredCount ?? 0;
-                                            if (mappedValue != item.AcquiredCount)
-                                            {
-                                                item.AcquiredCount = mappedValue;
-                                                item.NewValue = mappedValue.ToString();
-                                                ChangeCount++;
-                                                ChangeLog += $"Original: {item.OldValue}\tChange: {item.NewValue}\tEmo: {itemName}\n";
-                                            }
-                                            break;
-                                    }
+                                    item.StageIndex = mappedValue;
+                                    hasChanged = true;
                                 }
-                                else
+                                break;
+
+                            case "toggle":
+                                bool newToggleValue = mappedValue <= 0;
+                                if (newToggleValue != item.Active)
                                 {
-                                    Debug.WriteLineIf(DebugStats,
-                                        $"*** BAD/DUPLICATE MAP VALUES ***\n" +
-                                        $"Source:\tMapSpecialConditions\n" +
-                                        $"Item:\t{itemName}\n" +
-                                        $"Map:\t{mapName}\n" +
-                                        $"Entry:\t{conditionName} Value:{conditionValue}\n" +
-                                        $"********************************\n");
+                                    item.Active = newToggleValue;
+                                    hasChanged = true;
                                 }
-                            }
+                                break;
+
+                            case "lua":
+                                bool newLuaValue = mappedValue <= 0;
+                                if (item.Active != newLuaValue)
+                                {
+                                    item.Active = newLuaValue;
+                                    item.Stage = mappedValue;
+                                    hasChanged = true;
+                                }
+                                break;
+
+                            case "consumable":
+                                mappedValue = int.TryParse(conditionValue, out int result)
+                                    ? result
+                                    : item.AcquiredCount ?? 0;
+
+                                if (mappedValue != item.AcquiredCount)
+                                {
+                                    item.AcquiredCount = mappedValue;
+                                    hasChanged = true;
+                                }
+                                break;
+                        }
+
+                        // Only log if a real change occurred AND the old vs new values differ
+                        if (hasChanged && oldValue != newValue)
+                        {
+                            item.NewValue = newValue;
+                            ChangeCount++;
+                            ChangeLog += $"Original: {oldValue}\tChange: {newValue}\tEmo: {itemSpecialType}:{itemName}\n";
+
+                            // Sync OldValue to prevent false diffs next time
+                            item.OldValue = newValue;
                         }
                     }
                 }
             }
         }
+
         private void MapItems<T>(IEnumerable<T>? source, string sourceType) where T : INameValueCount
         {
             if (source == null || Maps == null || JsonTracker?.ItemDatabase == null)
@@ -597,7 +605,8 @@ namespace SpoilerToTrackerConverter.Emotracker.Controller
             { 
                 // Get the Map
                 foreach (ItemMap itemMap in Maps) 
-                { 
+                {
+                    string? mapSpoilerLabel = itemMap.SpoilerLabel;
                     string? mapShared = itemMap.Shared;
                     string? mapItemRef1 = itemMap.RawItemReference;
                     string? mapItemRef2 = itemMap.RawItemReference2;
@@ -610,38 +619,48 @@ namespace SpoilerToTrackerConverter.Emotracker.Controller
                         // Get the item from database
                         foreach (Item item in JsonTracker.ItemDatabase) 
                         {
-                            string? itemName = item.ItemReference;
-                            string? itemType = item.Type;
+                            string? trackerItemName = item.ItemReference;
+                            string? trackerItemType = item.Type;
 
-                            if (itemName == mapItemRef1 || itemName == mapItemRef2) 
+                            if (trackerItemName == mapItemRef1 || trackerItemName == mapItemRef2) 
                             {
-                                switch (itemType)
+                                // Get the starting item
+                                foreach (StartingItem startingItem in Spoiler.StartingItems) 
                                 {
-                                    case "progressive":
-                                        if (itemName == mapItemRef1) 
-                                        {
-                                            int? newValue1 = onValue1;
-                                            if (newValue1 !=item.StageIndex) 
-                                            {
-                                                item.StageIndex = onValue1;
-                                                item.NewValue = onValue1.ToString();
-                                                ChangeCount++;
-                                                ChangeLog += $"Original: {item.OldValue}\tChange: {item.NewValue}\tEmo: {itemName}\n";
-                                            }
-                                        }
-                                        else if (itemName == mapItemRef2) 
-                                        {
-                                            int? newValue2 = onValue2 != null ? onValue2 : onValue1;
+                                    string sItemName = startingItem.Name;
+                                    string sItemValue = startingItem.Value;
 
-                                            if (newValue2 != item.StageIndex) 
-                                            {
-                                                item.StageIndex = newValue2;
-                                                item.NewValue = item.StageIndex.ToString();
-                                                ChangeCount++;
-                                                ChangeLog += $"Original: {item.OldValue}\tChange: {item.NewValue}\tEmo: {itemName}\n";
-                                            }
+                                    if (mapSpoilerLabel == sItemName) 
+                                    {
+                                        switch (trackerItemType)
+                                        {
+                                            case "progressive":
+                                                if (trackerItemName == mapItemRef1)
+                                                {
+                                                    int? newValue1 = onValue1;
+                                                    if (newValue1 != item.StageIndex)
+                                                    {
+                                                        item.StageIndex = onValue1;
+                                                        item.NewValue = onValue1.ToString();
+                                                        ChangeCount++;
+                                                        ChangeLog += $"Original: {item.OldValue}\tChange: {item.NewValue}\tEmo: {trackerItemName}\n";
+                                                    }
+                                                }
+                                                else if (trackerItemName == mapItemRef2)
+                                                {
+                                                    int? newValue2 = onValue2 != null ? onValue2 : onValue1;
+
+                                                    if (newValue2 != item.StageIndex)
+                                                    {
+                                                        item.StageIndex = newValue2;
+                                                        item.NewValue = item.StageIndex.ToString();
+                                                        ChangeCount++;
+                                                        ChangeLog += $"Original: {item.OldValue}\tChange: {item.NewValue}\tEmo: {trackerItemName}\n";
+                                                    }
+                                                }
+                                                break;
                                         }
-                                        break;
+                                    }
                                 }
                             }
                         }

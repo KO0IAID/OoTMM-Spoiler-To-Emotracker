@@ -405,6 +405,7 @@
                   Content="-------- Settings --------"/>
                                     <ComboBoxItem Content="Seed Info" />
                                     <ComboBoxItem Content="Game Settings" />
+                                    <ComboBoxItem Content="Starting Items"/>
                                     <ComboBoxItem Content="Conditions" />
                                     <ComboBoxItem Content="World Flags" />
                                     <ComboBoxItem Content="Junk Locations"/>

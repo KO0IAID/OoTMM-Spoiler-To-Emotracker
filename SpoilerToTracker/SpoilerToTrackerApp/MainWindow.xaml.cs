@@ -357,6 +357,25 @@ namespace SpoilerToTracker
                     });
                     break;
 
+                case "Starting Items":
+                    if (spoiler.StartingItems == null)
+                        return;
+
+                    UpdateDataGrid(spoiler.StartingItems, grid =>
+                    {
+                        grid.Columns.Add(new DataGridTextColumn
+                        {
+                            Header = "Item",
+                            Binding = new Binding("Name")
+                        });
+                        grid.Columns.Add(new DataGridTextColumn
+                        {
+                            Header = "Count",
+                            Binding = new Binding("Count")
+                        });
+                    });
+                    break;
+
                 case "Conditions":
                     if (spoiler.SpecialConditions == null)
                         return;
