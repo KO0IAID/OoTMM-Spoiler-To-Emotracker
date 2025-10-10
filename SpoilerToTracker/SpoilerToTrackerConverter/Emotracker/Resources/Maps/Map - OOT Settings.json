@@ -157,8 +157,7 @@
     "item_reference": "progressive:Kakariko%20Gate",
     "values": {
       "closed": 0,
-      "vanilla": 1,
-      "open": 2
+      "open": 1
     }
   },
   {

@@ -239,7 +239,6 @@ namespace SpoilerToTrackerConverter.Emotracker.Controller
                 MapItems(Spoiler.Tricks, "Tricks");
                 MapSharedItems();
                 MapItems(Spoiler.StartingItems, "StartingItems");
-                
             });
         }
         private void AddSharedSettings()
@@ -269,7 +268,7 @@ namespace SpoilerToTrackerConverter.Emotracker.Controller
                         if (entryValue == "true" && entryName != null && !SharedItems.Contains(entryName))
                         {
                             SharedItems.Add(entryName);
-                            ChangeLog += $"Shared:\t{entryName}\t Added to SharedMaps";
+                            ChangeLog += $"Shared:\t{entryName}\t\t\t Added to SharedMaps\n";
                         }
                     }
                 }
