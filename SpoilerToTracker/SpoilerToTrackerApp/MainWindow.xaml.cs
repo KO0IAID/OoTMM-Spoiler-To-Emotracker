@@ -215,18 +215,16 @@ namespace SpoilerToTracker
                 {
                     StatusImage.Source = (BitmapImage)FindResource("Check");
 
+                    StatusImage.Source = (BitmapImage)FindResource("Check");
+                    FilePathTextBox.Text = filePath;
                     ConvertButton.IsEnabled = true;
+                    ResetButton.IsEnabled = true;
                     CategoryComboBox.IsEnabled = true;
                     CategoryComboBox.SelectedIndex = 0;
                     SearchTextBox.IsEnabled = true;
                     SpoilerDataGrid.Items.Clear();
                     SpoilerDataGrid.Columns.Clear();
                 }
-                else
-                {
-                    MessageBox.Show("Unable to parse data from spoiler.");
-                }
-
             }
             else
             {
