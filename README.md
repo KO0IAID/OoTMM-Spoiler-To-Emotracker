@@ -56,7 +56,7 @@ This tool is designed to read the Spoiler Log from the OoTTMM Randomizer and gen
 
 ## 🗡️ **Hyah!**
 
-All of your chosen settings will be automatically applied:
+All of the following settings will be applied automatically:
 
 - **Starting Items**  
 - **OOT/MM Settings**  
