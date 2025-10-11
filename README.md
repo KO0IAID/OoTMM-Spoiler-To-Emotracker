@@ -1,11 +1,12 @@
 # OoTMM-Spoiler-To-Emotracker
-This tool reads the Spoiler Log from the OoTTMM Randomizer and converts it into an Emotracker compatible tracker. It is designed for Jupiterfire and wbsch’s tracker pack, it automatically applies your selected settings and starting items during the creation of the randomizer.
+This tool is designed to read the Spoiler Log from the OoTTMM Randomizer and generate a tracker which automatically applies your selected settings and starting items. It is currently designed to work for Jupiterfire and wbsch’s tracker pack.
+
 
 
 ## ⚙️ **How to Setup & Use**
 ---
 <p align="center">
-  <img src="Github Assets/Generate Seed & Extract.gif" alt="Generate Seed & Extract" width="500"/>
+  <img src="Github Assets/Generate Seed & Extract.gif" alt="Generate Seed & Extract" width="1000"/>
 </p>
 
 ### 🧩 **Generate Your Rom/Seed**
@@ -18,7 +19,7 @@ This tool reads the Spoiler Log from the OoTTMM Randomizer and converts it into 
 
 ---
 <p align="center">
-  <img src="Github Assets/How to Download SpoilerToTracker.gif" alt="How to Download SpoilerToTracker" width="500"/>
+  <img src="Github Assets/How to Download SpoilerToTracker.gif" alt="How to Download SpoilerToTracker" width="1000"/>
 </p>
 
 ### 💾 **Download Spoiler-To-Emotracker**
@@ -28,7 +29,7 @@ This tool reads the Spoiler Log from the OoTTMM Randomizer and converts it into 
    
 ---
 <p align="center">
-  <img src="Github Assets/How to Convert.gif" alt="How to Convert to Tracker" width="500"/>
+  <img src="Github Assets/How to Convert.gif" alt="How to Convert to Tracker" width="1000"/>
 </p>
 
 ### 🔄 **How to Convert**
@@ -40,7 +41,7 @@ This tool reads the Spoiler Log from the OoTTMM Randomizer and converts it into 
 
 ---
 <p align="center">
-  <img src="Github Assets/Open In Emotracker.gif" alt="Opening in Emotracker" width="500"/>
+  <img src="Github Assets/Open In Emotracker.gif" alt="Opening in Emotracker" width="1000"/>
 </p>
 
 ### 🧭 **Launch Emotracker**
