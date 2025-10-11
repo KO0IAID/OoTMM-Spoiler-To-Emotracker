@@ -3,12 +3,10 @@ This tool reads the Spoiler Log from the OoTTMM Randomizer and converts it into 
 
 
 ## ⚙️ **How to Setup & Use**
-
-<p align="center">
-  <img src="https://your-gif-link-setup.gif" alt="Setup GIF" width="500"/>
-</p>
-
 ---
+<p align="center">
+  <img src="Github Assets/Generate Seed & Extract.gif" alt="Generate Seed & Extract" width="500"/>
+</p>
 
 ### 🧩 **Generate Your Rom/Seed**
 1. Go to **https://ootmm.com/**
@@ -18,22 +16,20 @@ This tool reads the Spoiler Log from the OoTTMM Randomizer and converts it into 
 5. **Generate** the seed.
 6. **Download** and then **extract** the contents.
 
-<p align="center">
-  <img src="https://your-gif-link-rom-seed.gif" alt="Generate ROM GIF" width="500"/>
-</p>
-
 ---
+<p align="center">
+  <img src="Github Assets/How to Download SpoilerToTracker.gif" alt="How to Download SpoilerToTracker" width="500"/>
+</p>
 
 ### 💾 **Download Spoiler-To-Emotracker**
 1. **On this page** go to the **Releases** section.  
 2. Download the **latest version**.  
 3. **Unzip/Extract** the folder.
-
-<p align="center">
-  <img src="https://your-gif-link-download.gif" alt="Download Spoiler-To-Emotracker GIF" width="500"/>
-</p>
-
+   
 ---
+<p align="center">
+  <img src="Github Assets/How to Convert.gif" alt="How to Convert to Tracker" width="500"/>
+</p>
 
 ### 🔄 **How to Convert**
 
@@ -42,11 +38,10 @@ This tool reads the Spoiler Log from the OoTTMM Randomizer and converts it into 
 3. Click **"Convert"**.  
 4. Save the converted tracker wherever you prefer.
 
-<p align="center">
-  <img src="https://your-gif-link-convert.gif" alt="Convert GIF" width="500"/>
-</p>
-
 ---
+<p align="center">
+  <img src="Github Assets/Open In Emotracker.gif" alt="Opening in Emotracker" width="500"/>
+</p>
 
 ### 🧭 **Launch Emotracker**
 
@@ -55,10 +50,6 @@ This tool reads the Spoiler Log from the OoTTMM Randomizer and converts it into 
 2. Click the **Gear icon ⚙️ → Application → File → Open**  
     *(Shortcut: Ctrl + O)*  
 3. Open the **converted tracker**.
-
-<p align="center">
-  <img src="https://your-gif-link-emotracker.gif" alt="Emotracker GIF" width="500"/>
-</p>
 
 ---
 
