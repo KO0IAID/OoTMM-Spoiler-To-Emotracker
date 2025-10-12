@@ -315,6 +315,13 @@
     }
   },
   {
+    "spoiler_label": "Kokiri Sword (OoT)",
+    "item_reference": "progressive:Kokiri%20Sword",
+    "values": {
+      "true": 1
+    }
+  },
+  {
     "spoiler_label": "Hero's Shield'",
     "item_reference": "progressive:Shield",
     "values": {

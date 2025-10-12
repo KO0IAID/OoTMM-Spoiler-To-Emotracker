@@ -1,0 +1,698 @@
+﻿[
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Deku Stick (MM)",
+    "item_reference": "404:progressive:Deku%20Sticks",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Deku Stick (OoT)",
+    "item_reference": "652:progressive:Deku%20Sticks",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "10 Deku Nuts (MM)",
+    "item_reference": "405:progressive:Deku%20Nuts",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "10 Deku Nuts (Oot)",
+    "item_reference": "647:progressive:Deku%20Nuts",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "5 Deku Nuts (Oot)",
+    "item_reference": "647:progressive:Deku%20Nuts",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Fairy Bow (OoT)",
+    "item_reference": "399:progressive:Bow",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Hero's Bow (MM)",
+    "item_reference": "645:progressive:Bow",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Fire Arrows (MM)",
+    "item_reference": "400:progressive:Fire%20Arrows",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Fire Arrows (OoT)",
+    "item_reference": "648:progressive:Fire%20Arrows",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Ice Arrows (MM)",
+    "item_reference": "401:progressive:Ice%20Arrows",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Ice Arrows (OoT)",
+    "item_reference": "649:progressive:Ice%20Arrows",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Light Arrows (MM)",
+    "item_reference": "402:progressive:Light%20Arrows",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Light Arrows (OoT)",
+    "item_reference": "650:progressive:Light%20Arrows",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Din's Fire (MM)",
+    "item_reference": "504:progressive:Din%27s%20Fire",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Din's Fire (OoT)",
+    "item_reference": "658:progressive:Din%27s%20Fire",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Farore's Wind (MM)",
+    "item_reference": "505:progressive:Farore%27s%20Wind",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Farore's Wind (OoT)",
+    "item_reference": "659:progressive:Farore%27s%20Wind",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Nayru's Love (MM)",
+    "item_reference": "506:progressive:Nayru%27s%20Love",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Nayru's Love (OoT)",
+    "item_reference": "660:progressive:Nayru%27s%20Love",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Hookshot (MM)",
+    "item_reference": "407:progressive:Hookshot",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Progressive Hookshot (OoT)",
+    "item_reference": "655:progressive:Hookshot",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Lens of Truth (MM)",
+    "item_reference": "410:progressive:Lens%20of%20Truth",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Lens of Truth (OoT)",
+    "item_reference": "657:progressive:Lens%20of%20Truth",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Megaton Hammer (MM)",
+    "item_reference": "512:progressive:Hammer",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Megaton Hammer (OoT)",
+    "item_reference": "681:progressive:Hammer",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Mirror Shield (MM)",
+    "item_reference": "426:progressive:Mirror%20Shield",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Mirror Shield (OoT)",
+    "item_reference": "637:progressive:Mirror%20Shield",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Epona's Song (MM)",
+    "item_reference": "413:progressive:Epona%27s%20Song",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Epona's Song (OoT)",
+    "item_reference": "689:progressive:Epona%27s%20Song",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Song of Time (MM)",
+    "item_reference": "411:progressive:Song%20of%20Time",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Song of Time (OoT)",
+    "item_reference": "692:progressive:Song%20of%20Time",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Song of Storms (MM)",
+    "item_reference": "414:progressive:Song%20of%20Storms",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Song of Storms (OoT)",
+    "item_reference": "693:progressive:Song%20of%20Storms",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Iron Boots (MM)",
+    "item_reference": "507:progressive:Iron%20Boots",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Iron Boots (OoT)",
+    "item_reference": "641:progressive:Iron%20Boots",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Hover Boots (MM)",
+    "item_reference": "508:progressive:Hover%20Boots",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Hover Boots (OoT)",
+    "item_reference": "642:progressive:Hover%20Boots",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Goron Tunic (MM)",
+    "item_reference": "518:progressive:Goron%20Tunic",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Goron Tunic (OoT)",
+    "item_reference": "638:progressive:Goron%20Tunic",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Zora Tunic (MM)",
+    "item_reference": "509:progressive:Zora%20Tunic",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Zora Tunic (OoT)",
+    "item_reference": "639:progressive:Zora%20Tunic",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Progressive Scale (MM)",
+    "item_reference": "510:progressive:Zora%20Scales",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Progressive Scale (OoT)",
+    "item_reference": "643:progressive:Zora%20Scales",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Magic Upgrade (MM)",
+    "item_reference": "447:progressive:Magic",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Magic Upgrade (OoT)",
+    "item_reference": "383:progressive:Magic%20Meter",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Progressive Strength (MM)",
+    "item_reference": "511:progressive:Strength%20Upgrades",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Progressive Strength (OoT)",
+    "item_reference": "644:progressive:Strength%20Upgrades",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Progressive Wallet (MM)",
+    "item_reference": "436:progressive:Wallet",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Progressive Wallet (OoT)",
+    "item_reference": "382:progressive:Wallet%20Upgrades",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Skeleton Key (MM)",
+    "item_reference": "503:progressive:Skeleton%20Key",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Skeleton Key (OoT)",
+    "item_reference": "840:progressive:Skeleton%20Key",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Elegy of Emptiness (MM)",
+    "item_reference": "419:progressive:Elegy%20of%20Emptiness",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Elegy of Emptiness (OoT)",
+    "item_reference": "707:progressive:Elegy%20of%20Emptiness",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "A Button (MM)",
+    "item_reference": "513:progressive:A%20Button",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "A Button (OoT)",
+    "item_reference": "700:progressive:A%20Button",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "C-Down Button (MM)",
+    "item_reference": "514:progressive:C%20Down%20Button",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "C-Down Button (OoT)",
+    "item_reference": "701:progressive:C%20Down%20Button",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "C-Left Button (MM)",
+    "item_reference": "515:progressive:C%20Left%20Button",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "C-Left Button (OoT)",
+    "item_reference": "702:progressive:C%20Left%20Button",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "C-Right Button (MM)",
+    "item_reference": "516:progressive:C%20Right%20Button",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "C-Right Button (OoT)",
+    "item_reference": "703:progressive:C%20Right%20Button",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "C-Up Button (MM)",
+    "item_reference": "517:progressive:C%20Up%20Button",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "C-Up Button (OoT)",
+    "item_reference": "704:progressive:C%20Up%20Button",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Blast Mask (MM)",
+    "item_reference": "453:progressive:Blast%20Mask",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Blast Mask (OoT)",
+    "item_reference": "705:progressive:Blast%20Mask",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Stone Mask (MM)",
+    "item_reference": "470:progressive:Stone%20Mask",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Stone Mask (OoT)",
+    "item_reference": "706:progressive:Stone%20Mask",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Keaton Mask",
+    "item_reference": "463:progressive:Keaton%20Mask",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Keaton Mask (OoT)",
+    "item_reference": "663:progressive:Keaton%20Mask",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Bunny Hood (MM)",
+    "item_reference": "456:progressive:Bunny%20Hood",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Bunny Hood (OoT)",
+    "item_reference": "666:progressive:Bunny%20Hood",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Mask of Truth (MM)",
+    "item_reference": "466:progressive:Mask%20of%20Truth",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Mask of Truth (OoT)",
+    "item_reference": "667:progressive:Mask%20of%20Truth",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Goron Mask (MM)",
+    "item_reference": "449:progressive:Goron%20Mask",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Goron Mask (OoT)",
+    "item_reference": "668:progressive:Goron%20Mask",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Zora Mask (MM)",
+    "item_reference": "450:progressive:Zora%20Mask",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Zora Mask (OoT)",
+    "item_reference": "669:progressive:Zora%20Mask",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Ocarina (MM)",
+    "item_reference": "427:progressive:Ocarina",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Progressive Ocarina (OoT)",
+    "item_reference": "682:progressive:Ocarina",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Progressive Sword (MM)",
+    "item_reference": "423:progressive:Sword",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "Progressive Sword (OoT)",
+    "item_reference": "632:progressive:Kokiri%20Sword",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "1 Bombchu (MM)",
+    "item_reference": "408:progressive:Bombchu",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "5 Bombchu (MM)",
+    "item_reference": "408:progressive:Bombchu",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "10 Bombchu (MM)",
+    "item_reference": "408:progressive:Bombchu",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "5 Bombchu (OoT)",
+    "item_reference": "656:progressive:Bombchus",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "10 Bombchu (OoT)",
+    "item_reference": "656:progressive:Bombchus",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "ID Relient Items",
+    "spoiler_label": "20 Bombchu (OoT)",
+    "item_reference": "656:progressive:Bombchus",
+    "values": {
+      "true": 1
+    }
+  }
+]

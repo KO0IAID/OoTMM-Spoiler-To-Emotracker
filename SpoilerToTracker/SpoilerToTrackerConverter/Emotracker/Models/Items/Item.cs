@@ -81,7 +81,7 @@ namespace SpoilerToTrackerConverter.Emotracker.Models.Items
 
             string[] parts = ItemReference.Split(':');
 
-            if (parts.Length >= 3)
+            if (parts.Length >= 3 && Id == null)
             {
                 if (int.TryParse(parts[0], out int id))
                     Id = id;

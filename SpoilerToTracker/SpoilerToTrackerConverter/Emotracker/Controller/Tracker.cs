@@ -504,6 +504,13 @@ namespace SpoilerToTrackerConverter.Emotracker.Controller
                 foreach (ItemMap itemMap in Maps)
                 {
                     string? mapName = itemMap.NoIDItemReference;
+
+                    // If map has an ID use it, this is only done for ID relient Items
+                    if (itemMap.ID != null)
+                    {
+                        mapName = itemMap.RawItemReference;
+                    }
+
                     string? mapSpoilerLabel = itemMap.SpoilerLabel;
                     string? mapType = itemMap.Type;
 
@@ -512,12 +519,26 @@ namespace SpoilerToTrackerConverter.Emotracker.Controller
                     {
                         foreach (Item item in JsonTracker.ItemDatabase)
                         {
+                            
                             string? itemName = item.NoIDItemReference;
+
+                            // If map has an ID Then we will use the full ID itemReference
+                            if (itemMap.ID != null)
+                            {
+                                itemName = item.ItemReference;
+                            }
+
                             string? itemType = item.Type;
+
+                            if (mapSpoilerLabel == "Kokiri Sword (OoT)" && entryName == "Kokiri Sword (OoT)" && itemName == "progressive:Kokiri%20Sword")
+                            {
+                                string a = "a";
+                            }
 
                             // Compare map to item
                             if (mapName == itemName && mapType == itemType)
                             {
+                                
 
                                 if (entryValue != null && itemMap.Values != null)
                                 {

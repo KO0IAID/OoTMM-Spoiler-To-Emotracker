@@ -10,6 +10,9 @@ namespace SpoilerToTrackerConverter.Emotracker.Models.Items
 {
     public class ItemMap
     {
+        [JsonPropertyName("map_name")]
+        public string? MapName { get; set; }
+
         [JsonPropertyName("spoiler_label")]
         public string? SpoilerLabel { get; set; }
 
@@ -34,6 +37,7 @@ namespace SpoilerToTrackerConverter.Emotracker.Models.Items
         [JsonPropertyName("onvalue2")]
         public int? OnValue2 { get; set; }
 
+        
 
         [JsonIgnore]
         public int? ID { get; set; }
@@ -43,6 +47,8 @@ namespace SpoilerToTrackerConverter.Emotracker.Models.Items
         public string? Type { get; set; }
         [JsonIgnore]
         public string? File { get; set; }
+
+        
 
         [JsonIgnore]
         public string? NoIDItemReference { get; set; }

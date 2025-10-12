@@ -28,8 +28,8 @@ namespace SpoilerToTracker
         public MainWindow()
         {
             InitializeComponent();
+            BrowseButton.Focus();
         }
-
         #region Window
         private void TitleBar_MouseDown(object sender, MouseButtonEventArgs e)
         {
@@ -164,6 +164,7 @@ namespace SpoilerToTracker
                         SearchTextBox.IsEnabled = true;
                         SpoilerDataGrid.Items.Clear();
                         SpoilerDataGrid.Columns.Clear();
+                        ConvertButton.Focus();
                     }
                     else
                     {
@@ -182,7 +183,7 @@ namespace SpoilerToTracker
                     SearchTextBox.Text = "Search...";
                     SpoilerDataGrid.Items.Clear();
                     SpoilerDataGrid.Columns.Clear();
-
+                    BrowseButton.Focus();
                 }
             }
 
@@ -213,7 +214,6 @@ namespace SpoilerToTracker
 
                 if (spoiler.Parsed)
                 {
-                    StatusImage.Source = (BitmapImage)FindResource("Check");
 
                     StatusImage.Source = (BitmapImage)FindResource("Check");
                     FilePathTextBox.Text = filePath;
@@ -224,6 +224,7 @@ namespace SpoilerToTracker
                     SearchTextBox.IsEnabled = true;
                     SpoilerDataGrid.Items.Clear();
                     SpoilerDataGrid.Columns.Clear();
+                    ConvertButton.Focus();
                 }
             }
             else
@@ -237,6 +238,7 @@ namespace SpoilerToTracker
                 SearchTextBox.Text = "Search...";
                 SpoilerDataGrid.Items.Clear();
                 SpoilerDataGrid.Columns.Clear();
+                BrowseButton.Focus();
             }
 
             FilePathTextBox.Text = filePath;
@@ -257,7 +259,7 @@ namespace SpoilerToTracker
             SearchTextBox.Text = "Search...";
             SpoilerDataGrid.ItemsSource = null;
             SpoilerDataGrid.Columns.Clear();
-
+            BrowseButton.Focus();
         }
         #endregion
         #region Export File
