@@ -1,0 +1,39 @@
+MM Settings				Defaults					Expected Value		Result
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Houses Skulltula Tokens Shuffle		No Shuffle					All Tokens		Works
+Tingle Maps Shuffle			Vanilla						Anywhere		Works
+Small Key Shuffle (MM)			Own Dungeon					Anywhere		Works
+Boss Key Shuffle (MM)			Own Dungeon					Anywhere		Works
+Town Stray Fairy Shuffle		Vanilla						Anywhere		Works
+Dungeon Chest Fairy Shuffle		Own Dungeon	(illuminated by default)	Anywhere		works
+Dungeon Freestanding Fairy Shuffle	Vanilla						Anywhere		works
+Shop Shuffle (MM)			None						Full			works
+Pots Shuffle (MM)			Off						Overworld		Works
+Grass Shuffle (MM)			Off						Overworld		Works
+Owl Statue Shuffle			None						Anywhere		Works
+Scrub Shuffle (MM)			Off						True			Works
+Cow Shuffle (MM)			Off						True			Works
+Merchants Shuffle (MM)			Off						True			Works
+Fairy Fountain Fairy Shuffle (MM)	Off						True			Works
+MM Shops Prices				Vanilla						Weighted Random		Works
+MM Tingle Prices			Vanilla						Weighted Random		Works
+Moon Crash Behavior			Reset						New Cycle		Works
+Beneath The Well Behavior (MM)		Vanilla						Remorseless		Works
+Majora Child Requirements		None						Custom			Works
+Boss Warp Pads				Boss Beaten					Remains			Works
+Stray Fairy Reward Count		15		(illuminated by default)	8			Works
+Skip Oath to Order			Off						True			Works
+Cross-Games MM Song of Soaring		None						Child & Adult		Works
+Cross-Games Age				Off						True			Works
+Hookshot Anywhere (MM)			Off						On			Works
+MM Goron Lullaby			Progressive					Full Lullaby Only	Works
+Fairy Ocarina in MM			Off						True			Works
+Short Hookshot in MM			Off						True			Works
+Bombchu Behavior (MM)			Bomb Bag	(illuminated by default)	Seperate Items		Works
+Ocarina Buttons Shuffle (MM)		Off						True			Works
+Enemy Souls (MM)			Off						True			Works
+Boss Souls (MM)				Off						True			Works
+NPC Souls (MM)				Off						True			Works
+Misc.Souls (MM)				Off						True			Works
+Clocks as Items				Off						True			Works
+

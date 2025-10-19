@@ -1,0 +1,62 @@
+OOT Tricks									Defaults		Expected Value		Result
+-------------------------------------------------------------------------------------------------------------------------------------------
+Fewer Lens Requirements (OoT)							False			True			Works
+Fewer Tunic Requirements (OoT)							False			True			Works
+Hidden Grottos (Oot) Without stone of agony					False			True			Works
+Backflip Over Mido								False			True			Works
+Man On Roof With Nothing							False			True			Works
+Haunted Wasteland Lensless							False			True			Works
+Deku Tree B1 Skip								False			True			Works
+Dodongo's Cavern Upper Adult Jump						False			True			Works
+Forest Temple Garden Vines with Hookshot					False			True			Works
+Hammer through walls								False			True			Works
+Volcano Item with Hover Boots							False			True			Works
+Nighttime Gold Skulltulas without Sun's Song					False			True			Works
+Enter Child Zora's Domain with Cucco						False			True			Works
+Enter Zora's Domain Using Hover Boots						False			True			Works
+Drain Water Temple using Longshot						False			True			Works
+Cross the River of Sand with Nothing						False			True			Works
+Enter Shadow Temple using Fire Arrows						False			True			Works
+Skip King Zora As Adult								False			True			Works
+Lost Woods Adult GS Without Bean						False			True			Works
+Windmill HP as Adult with nothing						False			True			Works
+Laboratory Dive Without Gold Scale						False			True			Works
+Laboratory Wall GS with Jump Slash						False			True			Works
+Pass Through Visible One-Way Collisions						False			True			Works
+DMT Red Rock Skulls Without Hammer						False			True			Works
+Child Dead Hand Without Kokiri Sword						False			True			Works
+Break Mud Walls With Blue Fire Arrows						False			True			Works
+Access Jabu-Jabu Pre-Boss Using Hover Boots					False			True			Works
+Access Adult Spirit As Child Using Hover Boots					False			True			Works
+Reach Gerudo Fortress as Child using Hover Boots				False			True			Works
+MQ Ice Cavern GS without Scarecrow Or Hover Boots				False			True			Works
+MQ Ice Cavern GS using Only Hover Boots						False			True			Works
+MQ Gerudo Training Grounds Lava Room Walk Along Flame Circles			False			True			Works
+Jump Up To Higher Ledges Outside Gerudo Fortress				False			True			Works
+Desert Colossus Plateau GS without Bean Plant					False			True			Works
+Enter Jabu-Jabu with head collision						False			True			Works
+Jabu Boss Switch without boomerang or climb anywhere				False			True			Works
+Water Temple Reverse River with hookshot anywhere				False			True			Works
+Water Temple Large Pit GS with Bombchu						False			True			Works
+Reach Shadow Temple Boat With Climb Anywhere					False			True			Works
+Reach TwinRova Using Climb Anywhere and Hover Boots				False			True			Works
+Use Hookshot Anywhere to Get past the Zora's River Waterfall			False			True			Works
+Skip Dodongo Cavern's Boulder Using Ageless Hookshot Anywhere			False			True			Works
+Move Between Lake Hylia and Zora's Domain With Ageless Hookshot Anywhere	False			True			Works
+Access Jabu-Jabu Pre-boss without the box					False			True			Works
+Enter the gerudo valley Tent as Child						False			True			Works
+Enter Bottom Of The Well as Adult With Time Travel				False			True			Works
+Enter Adult Shooting Gallery As Child With Time Travel				False			True			Works
+Enter Gerudo Training Grounds As Child With Time Travel				False			True			Works
+Navigate Dampe's Grave In Reverse						False			True			Works
+Ganon's Great Fairy With Age Swap And Without Gold Gauntlets			False			True			Works
+Enter Ganon's Castle With Longshot Anywhere					False			True			Works
+Enter Shadow Temple With Sticks & Fire Arrows					False			True			Works
+Enter Water Temple With Gold Scale and Longshot					False			True			Works
+Enter Zelda's Courtyard using Age swap in ganon's Castle			False			True			Works
+--------------------------------------------------------
+Destroy Beehives using Bombchu (OoT)						Not present		Added but unsure for Future
+Roll Under Deku Tree MQ Water Room's Rotating Spike				Not present		Added but unsure for Future
+Backflip/Sidehop Over Gap to Reach BotW MQ's Main Room's Center			Not present		Added but unsure for Future
+Use Deku Sticks to Break Ice Cavern Stalagmite Icicles				Not present		Added but unsure for Future
+

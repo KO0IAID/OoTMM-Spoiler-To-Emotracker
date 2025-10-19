@@ -1,0 +1,3500 @@
+Seed: 59bf200518d37fc2adafbee4344c165cd3b18059a870268d8ea7112b81a549a4823ceee1a23ebf2a77e97bdeee64b2bd
+Version: v29.0
+SettingsString: v2.7ZbBkqM2EIbfxec57CaVy9zAgz3ExkwMU65sKuWSoQ3EIFGSGOLa2ndPS8i2kJnsaW5zQ183Qvr7V4vvs4blMHucZYy1s4dZwUiNo4b8wzjBcc2KKkNwACLJoQZEgtFCICL03JfAFSpZJ0Akp66uZVeTlJ2A6pS6xqisaFFDUnbHYw3jF0WDKSs4m2DUjMMHJsT7Ucl6uiAVP09PLTk56_C8BCF_khNLRNM5Ge8O1gok7-AB5ervmChZay_12Onts76enniAL0wKnc7egPeM1_kttuREvBtccIBt1wIMGYPWJhYBz0pCh5mH1R3VNheso5JUI9luKS2vMhwmuA9VvR6qopSgPmkiqa7kOFQQymjKK1LjO99n8tyCWc2PBzQXo3PcRKkcds60fw5A0UzlDmrlNA4N4wJqEEJp1QKN8J3LimqSqZVknZCswTjHtR9Y7_MqL8AODIadlxUqZGFloB3h7QvJxfAxnEB96IjiJRnhkHHWWyW8GmILPeH5XOk1e_z6VXmcnbDC0jMV1KIDVYdiUIgVHDdRvcGScUbXWHxyOGOOGERTk1fZSWw6KV7bgpMc3OrEuKCKkpGjuHw2H7bwCfWSjOLRiJmcoLfUA2sOWdn5UJK3ivHBl7h3tZwWK7CouO1ghXYVzR20RvvZc6JlQ9yjg56VSW9MdrTKtBYO-4aVsj6QkdpWAksAtJDljZSkaeyJ4V9pSp3gkciFpcGhJkJGRJxsXVATcBgqVdjasUF5v5OYLMzB-FncWjPrahFQaM4O85kQDtq0mUOiSlgoqxm65NZnlF_twRbtpg2pR0usJbXGft2BNfwTi8f6AYgS7Z4r-yXaiDeTKe6z_o40B58UDo2IvhDukMfxICk3vRcLs3dDa9VMxsEEL5mgZZTc40Qy3oh7nlaN84XLyRnTNVDnbXPu3OWJk3bvPVYGvqd-R-n5Hq-w2U1NkvJOlhOzKAff40SZeEIi5eMx3mHrBenqow-Kw8oK6nxaCmN054Vbg7l3CjYZJ_vSXiawajETWLUZd2bTaiawbjdjnl5bzgS_r1qiW4_DTPtxnKRb0IU1TUBEBVz79qDO662ND-3nOukJoA0lNHhsBVgtiXD1V6Qj6taMon3kJav9MvQ2KR7XB0WSeLPcx9unYKtJHKf75DkM1k_7p2D1Onv8BS9YyYej_NdsuQ7T-fNeZfnbeBVs9kkazlfY6K1I8Mdr-LJPdt7LmEfB0lusQ4fGc28bbrx9mAZRMtNrWgcb85S-bsK5elaZBqtHw__WV0eGvwVzRnO9SX8bPi0D9ZQN1-qvX34z7fmqVwM5-reyvHe5s6-3HF6sYsnqfEySnjTtGMUZEGpfsBWI3cIBybMDlr6bkY4u6RT_Oq-rVaXeQoH_vHzEUk6oOGKfGlHrQsG6YVi1xCP-OI16u9XrTXe3yNDfLXDp8AqhH6I43nwq_JEKrz1096fCH6jw0tvEm72_slT-ctPYfMsW2aCrymZsyzxCRucRM0IbZik9JkrqMVFaOznpiBi1L-seyW1DS28ba8EN-B_FbWAkt9GguU0uomumOof3e7z1Pp39cc7-8eM_
+
+Settings
+  games: ootmm
+  mode: coop
+  teams: 1
+  goal: majora
+  logic: beatable
+  itemPool: normal
+  generateSpoilerLog: true
+  probabilisticFoolish: true
+  noPlandoHints: true
+  extraHintRegions: false
+  hintPathDungeons: false
+  hintPathBoss: false
+  hintPathEndBoss: false
+  hintPathEvents: false
+  hintImportance: false
+  songs: anywhere
+  goldSkulltulaTokens: none
+  housesSkulltulaTokens: all
+  tingleShuffle: anywhere
+  mapCompassShuffle: ownDungeon
+  smallKeyShuffleOot: ownDungeon
+  smallKeyShuffleMm: anywhere
+  smallKeyShuffleHideout: ownDungeon
+  smallKeyShuffleChestGame: vanilla
+  bossKeyShuffleOot: ownDungeon
+  bossKeyShuffleMm: anywhere
+  silverRupeeShuffle: vanilla
+  townFairyShuffle: anywhere
+  strayFairyChestShuffle: anywhere
+  strayFairyOtherShuffle: anywhere
+  ganonBossKey: removed
+  dungeonRewardShuffle: dungeonBlueWarps
+  scrubShuffleOot: false
+  scrubShuffleMm: true
+  cowShuffleOot: false
+  cowShuffleMm: true
+  shopShuffleOot: none
+  shopShuffleMm: full
+  owlShuffle: anywhere
+  shufflePotsOot: none
+  shufflePotsMm: overworld
+  shuffleCratesOot: none
+  shuffleCratesMm: none
+  shuffleBarrelsMm: none
+  shuffleHivesOot: false
+  shuffleHivesMm: false
+  shuffleGrassOot: none
+  shuffleGrassMm: overworld
+  shuffleTFGrassMm: false
+  shuffleFreeRupeesOot: none
+  shuffleFreeRupeesMm: all
+  shuffleFreeHeartsOot: none
+  shuffleFreeHeartsMm: false
+  shuffleWonderItemsOot: none
+  shuffleWonderItemsMm: false
+  shuffleSnowballsMm: none
+  shuffleButterfliesOot: false
+  shuffleButterfliesMm: false
+  shuffleRedBouldersOot: false
+  shuffleRedBouldersMm: false
+  shuffleFrogsRupeesOot: false
+  shuffleIciclesOot: false
+  shuffleIciclesMm: false
+  shuffleRedIceOot: false
+  shuffleOcarinasOot: true
+  shuffleMasterSword: true
+  shuffleGerudoCard: true
+  shuffleMaskTrades: false
+  shuffleMerchantsOot: false
+  shuffleMerchantsMm: true
+  pondFishShuffle: false
+  divingGameRupeeShuffle: false
+  fairyFountainFairyShuffleOot: false
+  fairyFountainFairyShuffleMm: true
+  fairySpotShuffleOot: false
+  eggShuffle: false
+  priceOotShops: vanilla
+  priceOotScrubs: vanilla
+  priceOotMerchants: vanilla
+  priceMmShops: weighted
+  priceMmTingle: weighted
+  moonCrash: cycle
+  startingAge: child
+  swordlessAdult: false
+  doorOfTime: closed
+  ageChange: none
+  dekuTree: open
+  clearStateDungeonsMm: none
+  beneathWell: remorseless
+  kakarikoGate: vanilla
+  openZdShortcut: false
+  zoraKing: vanilla
+  gerudoFortress: vanilla
+  skipZelda: false
+  openMoon: true
+  lacs: custom
+  rainbowBridge: custom
+  majoraChild: custom
+  bossWarpPads: remains
+  regionState: dungeonBeaten
+  freeScarecrowOot: false
+  freeScarecrowMm: true
+  strayFairyRewardCount: 11
+  preCompletedDungeons: false
+  ootPreplantedBeans: false
+  crossAge: false
+  crossWarpOot: false
+  crossWarpMm: none
+  crossGameFw: false
+  csmc: always
+  csmcHearts: true
+  csmcMapCompass: true
+  csmcSkulltula: false
+  csmcCow: false
+  blastMaskCooldown: default
+  clockSpeed: default
+  fierceDeityAnywhere: false
+  hookshotAnywhereOot: off
+  hookshotAnywhereMm: enabled
+  climbMostSurfacesOot: off
+  climbMostSurfacesMm: false
+  restoreBrokenActors: false
+  alterLostWoodsExits: false
+  voidWarpMm: false
+  progressiveShieldsOot: separate
+  progressiveSwordsOot: goron
+  progressiveShieldsMm: separate
+  progressiveGFS: separate
+  progressiveGoronLullaby: single
+  progressiveClocks: ascending
+  fillWallets: false
+  bottleContentShuffle: false
+  stoneAgonyMm: false
+  sticksNutsUpgradesMm: true
+  sunSongMm: false
+  fairyOcarinaMm: true
+  blueFireArrows: false
+  sunlightArrows: false
+  shortHookshotMm: true
+  childWallets: false
+  colossalWallets: false
+  skeletonKeyOot: true
+  skeletonKeyMm: true
+  bombchuBehaviorOot: free
+  bombchuBehaviorMm: free
+  spellFireMm: true
+  spellWindMm: true
+  spellLoveMm: true
+  bootsIronMm: true
+  bootsHoverMm: true
+  tunicGoronMm: true
+  tunicZoraMm: true
+  scalesMm: true
+  strengthMm: true
+  kegStrength3: false
+  hammerMm: true
+  spinUpgradeOot: false
+  extraChildSwordsOot: true
+  dekuShieldMm: false
+  blastMaskOot: true
+  stoneMaskOot: true
+  elegyOot: true
+  ocarinaButtonsShuffleOot: true
+  ocarinaButtonsShuffleMm: true
+  soulsEnemyOot: false
+  soulsEnemyMm: true
+  soulsBossOot: false
+  soulsBossMm: true
+  soulsNpcOot: false
+  soulsNpcMm: true
+  soulsMiscOot: false
+  soulsMiscMm: true
+  clocks: true
+  menuNotebook: false
+  coins: true
+  coinsRed: 11
+  coinsGreen: 11
+  coinsBlue: 11
+  coinsYellow: 11
+  trapIce: true
+  trapFire: false
+  trapShock: false
+  trapDrain: false
+  trapAntiMagic: false
+  trapKnockback: false
+  trapRupoor: false
+  cloakTraps: true
+  trapsQuantity: small
+  songOfDoubleTimeOot: false
+  sharedNutsSticks: true
+  sharedBows: true
+  sharedBombBags: true
+  sharedMagic: true
+  sharedMagicArrowFire: true
+  sharedMagicArrowIce: true
+  sharedMagicArrowLight: true
+  sharedSongEpona: true
+  sharedSongStorms: true
+  sharedSongTime: true
+  sharedHookshot: true
+  sharedLens: true
+  sharedOcarina: true
+  sharedMaskGoron: true
+  sharedMaskZora: true
+  sharedMaskBunny: true
+  sharedMaskKeaton: true
+  sharedMaskTruth: true
+  sharedMaskBlast: true
+  sharedMaskStone: true
+  sharedSongElegy: true
+  sharedWallets: true
+  sharedHealth: false
+  sharedSwords: true
+  sharedShields: true
+  sharedOcarinaButtons: true
+  sharedSkeletonKey: true
+  sharedBombchu: true
+  sharedSpellFire: true
+  sharedSpellWind: true
+  sharedSpellLove: true
+  sharedBootsIron: true
+  sharedBootsHover: true
+  sharedTunicGoron: true
+  sharedTunicZora: true
+  sharedScales: true
+  sharedStrength: true
+  sharedHammer: true
+  agelessSwords: false
+  agelessShields: false
+  agelessTunics: false
+  agelessBoots: false
+  agelessSticks: false
+  agelessBoomerang: false
+  agelessHammer: false
+  agelessHookshot: false
+  agelessSlingshot: false
+  agelessBow: false
+  agelessChildTrade: false
+  agelessStrength: false
+  erSelfLoops: false
+  erNoPolarity: false
+  erDecoupled: false
+  erBoss: none
+  erDungeons: none
+  erGrottos: none
+  erIndoors: none
+  erRegions: none
+  erOverworld: none
+  erMixed: none
+  erSpawns: none
+  erWallmasters: none
+  erWarps: none
+  erOneWays: none
+  mmEasierLightblock: true
+  shadowFastBoat: false
+  openMaskShop: false
+  lenientSpikes: true
+  fastBunnyHood: true
+  critWiggleDisable: true
+  fastMasks: true
+  keepItemsReset: true
+  autoInvert: never
+
+Special Conditions
+  BRIDGE:
+    count: 305
+    stones: true
+    medallions: true
+    remains: true
+    skullsGold: true
+    skullsSwamp: true
+    skullsOcean: true
+    fairiesWF: true
+    fairiesSH: true
+    fairiesGB: true
+    fairiesST: true
+    fairyTown: true
+    masksRegular: true
+    masksTransform: true
+    masksOot: true
+    triforce: false
+    coinsRed: true
+    coinsGreen: true
+    coinsBlue: true
+    coinsYellow: true
+  MOON:
+    count: 305
+    stones: true
+    medallions: true
+    remains: true
+    skullsGold: true
+    skullsSwamp: true
+    skullsOcean: true
+    fairiesWF: true
+    fairiesSH: true
+    fairiesGB: true
+    fairiesST: true
+    fairyTown: true
+    masksRegular: true
+    masksTransform: true
+    masksOot: true
+    triforce: false
+    coinsRed: true
+    coinsGreen: true
+    coinsBlue: true
+    coinsYellow: true
+  LACS:
+    count: 305
+    stones: true
+    medallions: true
+    remains: true
+    skullsGold: true
+    skullsSwamp: true
+    skullsOcean: true
+    fairiesWF: true
+    fairiesSH: true
+    fairiesGB: true
+    fairiesST: true
+    fairyTown: true
+    masksRegular: true
+    masksTransform: true
+    masksOot: true
+    triforce: false
+    coinsRed: true
+    coinsGreen: true
+    coinsBlue: true
+    coinsYellow: true
+  GANON_BK:
+    count: 0
+    stones: false
+    medallions: false
+    remains: false
+    skullsGold: false
+    skullsSwamp: false
+    skullsOcean: false
+    fairiesWF: false
+    fairiesSH: false
+    fairiesGB: false
+    fairiesST: false
+    fairyTown: false
+    masksRegular: false
+    masksTransform: false
+    masksOot: false
+    triforce: false
+    coinsRed: false
+    coinsGreen: false
+    coinsBlue: false
+    coinsYellow: false
+  MAJORA:
+    count: 305
+    stones: true
+    medallions: true
+    remains: true
+    skullsGold: true
+    skullsSwamp: true
+    skullsOcean: true
+    fairiesWF: true
+    fairiesSH: true
+    fairiesGB: true
+    fairiesST: true
+    fairyTown: true
+    masksRegular: true
+    masksTransform: true
+    masksOot: true
+    triforce: false
+    coinsRed: true
+    coinsGreen: true
+    coinsBlue: true
+    coinsYellow: true
+
+Tricks
+  Fewer Lens Requirements (MM)
+  Fewer Tunic Requirements (MM)
+  Fewer Lens Requirements (OoT)
+  Fewer Tunic Requirements (OoT)
+
+Glitches
+  Broken Deku Stick (OoT)
+  Equip Swap (OoT)
+  Megaflips (OoT)
+  Ocarina Items (OoT)
+
+Starting Items
+  Giant's Mask: 1
+  Oath to Order: 1
+  Deku Shield (OoT): 2
+
+World Flags
+  Ganon Trials: all
+  Small Key Ring (OoT): none
+  Small Key Ring (MM): none
+  Silver Rupee Pouches: none
+  Open Dungeons (MM): none
+  Open Dungeons (OoT): none
+  Pre-Activated Owl Statues: none
+  Master Quest Dungeons: none
+  Majora's Mask JP Layouts: none
+
+Entrances
+  MM Clock Town Near Clock Tower to MM Clock Tower (MM_CLOCK_TOWER_FROM_CLOCK_TOWN) -> OOT Market from OOT Market Mask Shop (OOT_MARKET_FROM_MASK_SHOP)
+  OOT Market to OOT Market Mask Shop (OOT_SHOP_MASKS)                               -> MM Clock Town From Clock Tower from MM Clock Tower (MM_CLOCK_TOWN_FROM_CLOCK_TOWER)
+
+Hints
+  Way of the Hero:
+    MM Ikana Canyon Gossip Upper                   MM Twin Islands Grass 10                      Coin (Yellow)
+    MM Mountain Village Gossip Tunnel              MM Deku Shrine Rupee Main 15                  Progressive Hookshot
+    MM Romani Ranch Gossip Behind House            MM Woods of Mystery Grotto Grass 12           Coin (Blue)
+    MM Termina Field Gossip Near Mountain          MM Termina Field Cow Grotto Grass 55          Pictograph Box
+    MM Termina Field Gossip Near Observatory       MM Woods of Mystery Grotto Grass 12           Coin (Blue)
+    MM Termina Field Gossip Northeast              MM Termina Field Cow Grotto Grass 55          Pictograph Box
+    OOT Dodongo Cavern Gossip                      MM Beneath The Graveyard Pot Night 1 Bats 2   Circus Leader's Mask
+    OOT Graveyard Gossip                           MM Great Bay Cow Grotto Grass 20              Soul of the Goron Baby (MM)
+    OOT Hyrule Field Gossip Southeast Grotto       MM Beneath The Graveyard Pot Night 1 Bats 2   Circus Leader's Mask
+    OOT Kokiri Gossip Left of Deku Tree            MM Stone Tower Temple Wind Room Jail Chest    Coin (Green)
+    OOT Kokiri Gossip Right of Deku Tree           MM Woodfall Grass 2                           Soul of Mr. Barten (MM)
+    OOT Lake Hylia Gossip Near River               MM Woodfall Grass 2                           Soul of Mr. Barten (MM)
+    OOT Market Gossip Outside Temple Leftmost      MM Twin Islands Grass 10                      Coin (Yellow)
+    OOT Sacred Meadow Gossip Atop Maze Woods Side  MM Deku Shrine Rupee Main 15                  Progressive Hookshot
+    OOT Zora Domain Gossip                         MM Stone Tower Temple Wind Room Jail Chest    Coin (Green)
+    OOT Zora Fountain Gossip Northwest             MM Great Bay Cow Grotto Grass 20              Soul of the Goron Baby (MM)
+    OOT Zora River Gossip High Pillar              MM Mountain Village Tunnel Grotto Grass 06    Coin (Blue)
+    OOT Zora River Gossip Near Domain              MM Mountain Village Tunnel Grotto Grass 06    Coin (Blue)
+
+  Foolish:
+    MM Mountain Village Path Gossip                 The Moon
+    MM Termina Field Gossip Southeast               Ganon's Castle
+    MM Zora Cape Gossip                             Pirates' Fortress Exterior
+    OOT Death Mountain Trail Gossip on Climb        Temple of Time
+    OOT Desert Colossus Gossip                      Desert Colossus
+    OOT Hyrule Castle Gossip Grotto                 Desert Colossus
+    OOT Lake Hylia Gossip Southwest Lake            The Moon
+    OOT Lost Woods Gossip Grotto                    Ganon's Castle
+    OOT Lost Woods Gossip Under Bridge              Pirates' Fortress Exterior
+    OOT Sacred Meadow Gossip Atop Maze Temple Side  Temple of Time
+
+  Specific Hints:
+    MM Cucco Shack Gossip                          OOT Shadow Temple Skull                    Green Rupee 
+    MM Doggy Racetrack Gossip                      MM Goron Race Reward                       Green Rupee 
+    MM Great Bay Coast Gossip                      MM Termina Field Gossip Stones HP          Swamp Skulltula Token 
+    MM Ikana Valley Gossip Lower                   OOT Forest Temple Floormaster              Boss Key (Forest Temple) 
+    MM Ikana Valley Gossip Scrub                   MM Beneath The Graveyard Dampe Chest       Ice Trap 
+    MM Milk Road Gossip                            MM Ancient Castle of Ikana Song Emptiness  Green Rupee 
+    MM Road to Ikana Gossip                        MM Mountain Village Frog Choir HP          Green Rupee 
+    MM Romani Ranch Gossip Entrance                MM Milk Bar Troupe Leader Mask             Green Rupee 
+    MM Romani Ranch Gossip Near Tree               MM Romani Ranch Aliens                     Blue Rupee 
+                                                   MM Romani Ranch Cremia Escort              Green Rupee 
+    MM Swamp Spider House Gossip                   OOT Zora River Frogs Game                  Broken Goron's Sword 
+    MM Termina Field Gossip Grotto Leftmost        MM Romani Ranch Aliens                     Blue Rupee 
+                                                   MM Romani Ranch Cremia Escort              Green Rupee 
+    MM Termina Field Gossip Grotto Right-Center    MM Deku Shrine Mask of Scents              Heart Container (OoT) 
+    MM Termina Field Gossip Grotto Rightmost       OOT Fishing Pond Child                     Green Rupee 
+                                                   OOT Fishing Pond Adult                     Moon's Tear 
+    MM Termina Field Gossip Southwest              MM Stock Pot Inn Couple's Mask             Soul of Grog (MM) 
+    OOT Death Mountain Crater Gossip Grotto        OOT Shadow Temple Skull                    Green Rupee 
+    OOT Death Mountain Crater Gossip Wall          MM Mountain Village Frog Choir HP          Green Rupee 
+    OOT Death Mountain Trail Gossip Grotto         MM Beneath The Well Cow                    Odd Potion 
+    OOT Gerudo Valley Gossip                       OOT Fishing Pond Child                     Green Rupee 
+                                                   OOT Fishing Pond Adult                     Moon's Tear 
+    OOT Goron City Gossip Near Medigoron           OOT Forest Temple Floormaster              Boss Key (Forest Temple) 
+    OOT Hyrule Field Gossip Near Castle Town       MM Milk Bar Troupe Leader Mask             Green Rupee 
+    OOT Hyrule Field Gossip Near Gerudo Valley     MM Goron Race Reward                       Green Rupee 
+    OOT Hyrule Field Gossip Near Lake Hylia        MM Beneath The Graveyard Dampe Chest       Ice Trap 
+    OOT Kakariko Gossip Grotto                     OOT Treasure Chest Game HP                 Soul of Kafei 
+    OOT Kokiri Gossip Near Lost Woods Grotto       MM Ancient Castle of Ikana Song Emptiness  Green Rupee 
+    OOT Lake Hylia Gossip Southeast Lake           MM Stock Pot Inn Couple's Mask             Soul of Grog (MM) 
+    OOT Market Gossip Outside Temple Left-Center   OOT Zora River Frogs Game                  Broken Goron's Sword 
+    OOT Market Gossip Outside Temple Right-Center  MM Deku Shrine Mask of Scents              Heart Container (OoT) 
+    OOT Market Gossip Outside Temple Rightmost     MM Termina Field Gossip Stones HP          Swamp Skulltula Token 
+    OOT Sacred Meadow Gossip Near Forest Temple    OOT Treasure Chest Game HP                 Soul of Kafei 
+    OOT Zora River Gossip Grotto                   MM Beneath The Well Cow                    Odd Potion 
+
+  Regional Hints:
+    MM Moon Trial Deku Gossip Back              Mountain Village          Stone Mask 
+    MM Moon Trial Deku Gossip Front-Left        Swamp Spider House        Captain's Hat 
+    MM Moon Trial Deku Gossip Front-Right       Road to Southern Swamp    Blast Mask 
+    MM Moon Trial Deku Gossip Mid-Left          Stone Tower Temple        All-Night Mask 
+    MM Moon Trial Deku Gossip Mid-Right         Twin Islands              Couple's Mask 
+    MM Moon Trial Goron Gossip By Heart Piece   Mountain Village          Garo's Mask 
+    MM Moon Trial Goron Gossip Center Left      Gerudo's Training Ground  Bremen Mask 
+    MM Moon Trial Goron Gossip Center Right     Termina Field             Postman's Hat 
+    MM Moon Trial Goron Gossip West Left        Great Bay Coast           Bunny Hood 
+    MM Moon Trial Goron Gossip West Right       Great Bay Coast           Gibdo Mask 
+    MM Moon Trial Link Gossip 1                 Ikana Graveyard           Circus Leader's Mask 
+    MM Moon Trial Link Gossip 2                 Ocean Spider House        Kafei's Mask 
+    MM Moon Trial Link Gossip Last              West Clock Town           Romani's Mask 
+    MM Moon Trial Link Gossip Left              Goron Village             Keaton Mask 
+    MM Moon Trial Link Gossip Right             Goron Village             Mask of Scents 
+    MM Moon Trial Zora Gossip Inner Right       Great Bay Coast           Mask of Truth 
+    MM Moon Trial Zora Gossip Middle Left       Termina Field             Kamaro's Mask 
+    MM Moon Trial Zora Gossip Middle Right      Southern Swamp            Don Gero's Mask 
+    MM Moon Trial Zora Gossip Outer Left        West Clock Town           Great Fairy's Mask 
+    MM Mountain Village Gossip Outside          Termina Field             Song of Soaring 
+    MM Road to Southern Swamp Gossip            Zora Hall                 Fierce Deity's Mask 
+    MM Southern Swamp Gossip                    Zora Hall                 Fierce Deity's Mask 
+    MM Termina Field Gossip Grotto Left-Center  Termina Field             Song of Soaring 
+    MM Termina Field Gossip Near Kamaro         Termina Field             Mirror Shield 
+    OOT Goron City Gossip Boulder Maze          Southern Swamp            Deku Mask 
+    OOT Hyrule Castle Gossip After Climb        Termina Field             Mirror Shield 
+    OOT Hyrule Castle Gossip Before Moat        Southern Swamp            Deku Mask 
+    OOT Kokiri Gossip Near Lost Woods Open      Great Bay Coast           Mask of Truth 
+    OOT Zora Fountain Gossip Near Fairy         Great Bay Coast           Mask of Truth 
+
+  Foolish Regions:
+    Ganon's Castle             : 14
+    Laundry Pool               : 11
+    Kokiri Forest              : 6
+    Forest Temple              : 6
+    Clock Tower Roof           : 6
+    The Moon                   : 6
+    Death Mountain Crater      : 5
+    Deku Tree                  : 5
+    Hyrule Castle              : 4
+    Zora's Domain              : 4
+    Tingle                     : 4
+    Sacred Forest Meadow       : 3
+    Zora's Fountain            : 3
+    Temple of Time             : 3
+    Gerudo's Fortress          : 3
+    Desert Colossus            : 3
+    Ice Cavern                 : 3
+    Pirates' Fortress Exterior : 3
+    Jabu-Jabu's Belly          : 2
+    Ikana Castle               : 2
+    Outside Ganon's Castle     : 1
+    Haunted Wasteland          : 1
+    Snowhead                   : 1
+
+Paths
+  Way of the Hero
+    MM Astral Observatory Passage Chest: Soul of ReDeads/Gibdos (MM)
+    MM Astral Observatory Passage Pot 1: Progressive Scale
+    MM Astral Observatory Passage Pot 2: Soul of Blacksmiths
+    MM Astral Observatory Passage Pot 3: Swamp Skulltula Token
+    MM Astral Observatory Pot 1: Soul of the Bomb Shop Owner (MM)
+    MM Beneath The Graveyard Pot Dampe 04: Ocean Skulltula Token
+    MM Beneath The Graveyard Pot Dampe 07: Stray Fairy (Great Bay Temple)
+    MM Beneath The Graveyard Pot Night 1 Bats 2: Circus Leader's Mask
+    MM Beneath The Graveyard Pot Night 2 After Pit 2: Zora Mask
+    MM Beneath The Graveyard Pot Night 2 Early: Coin (Blue)
+    MM Beneath The Graveyard Rupee 1: Shared Magic Upgrade
+    MM Beneath The Graveyard Rupee 7: Stray Fairy (Woodfall Temple)
+    MM Beneath The Well Cow: Odd Potion
+    MM Bio Baba Grotto Grass 1: Owl Statue (Stone Tower)
+    MM Blacksmith Gilded Sword: Stray Fairy (Stone Tower Temple)
+    MM Blacksmith Potted Plant 1 Pot: Garo's Mask
+    MM Bomb Shop Bomb Bag: Goron Lullaby
+    MM Bomb Shop Item 1: Soul of the Zora Shopkeeper (MM)
+    MM Canyon Gossip Grotto Grass 2: Stray Fairy (Stone Tower Temple)
+    MM Clock Town Bank Reward 3: Soul of the Deku King
+    MM Clock Town Blast Mask: Swamp Skulltula Token
+    MM Clock Town Great Fairy: Swamp Skulltula Token
+    MM Clock Town Keaton Grass Reward 6: Soul of Romani/Cremia (MM)
+    MM Clock Town Keaton Grass Reward 7: Coin (Green)
+    MM Clock Town Postman Hat: Stray Fairy (Snowhead Temple)
+    MM Cucco Shack Potted Plant 1 Pot: Saria's Song
+    MM Curiosity Shop All-Night Mask: Coin (Red)
+    MM Deku Palace Grotto Grass 03: Soul of the Fisherman (MM)
+    MM Deku Palace HP: Stray Fairy (Snowhead Temple)
+    MM Deku Palace Rupee Layout-Dependant 2: Spooky Mask
+    MM Deku Palace Rupee Left 2: Swamp Skulltula Token
+    MM Deku Palace Rupee Right 08: Stray Fairy (Woodfall Temple)
+    MM Deku Palace Rupee Right 09: Soul of Gyorg
+    MM Deku Palace Rupee Right 10: Stray Fairy (Great Bay Temple)
+    MM Deku Palace Rupee Right 12: Ocean Skulltula Token
+    MM Deku Shrine Pot 2: Stray Fairy (Great Bay Temple)
+    MM Deku Shrine Rupee End 01: Coin (Yellow)
+    MM Deku Shrine Rupee End 06: Din's Fire
+    MM Deku Shrine Rupee Main 08: Skull Mask
+    MM Deku Shrine Rupee Main 15: Progressive Hookshot
+    MM Deku Shrine Rupee Main 18: Ocean Skulltula Token
+    MM Gorman Track Grass Pack 1 Grass 01: Swamp Skulltula Token
+    MM Gorman Track Grass Pack 2 Grass 03: Coin (Red)
+    MM Goron Baby: Soul of Eyegores
+    MM Goron Elder: Couple's Mask
+    MM Goron Powder Keg: Ocean Skulltula Token
+    MM Goron Race Pot 03: Stone of Agony (OoT)
+    MM Goron Race Pot 06: Ocean Skulltula Token
+    MM Goron Race Pot 07: Soul of the Deku Butler
+    MM Goron Race Pot 23: C-Right Button
+    MM Goron Race Pot 30: Progressive Wallet
+    MM Goron Shop Item 2: Soul of Citizens (MM)
+    MM Goron Shrine Pot 04: Coin (Green)
+    MM Goron Shrine Pot 06: Keaton Mask
+    MM Goron Shrine Pot 07: Epona's Song
+    MM Goron Shrine Pot 09: Stray Fairy (Great Bay Temple)
+    MM Goron Village HP: Swamp Skulltula Token
+    MM Great Bay Coast Fisherman Grotto Grass 01: Stray Fairy (Clock Town)
+    MM Great Bay Coast Fisherman Grotto Grass 03: Stray Fairy (Snowhead Temple)
+    MM Great Bay Coast Fisherman Grotto Grass 06: Ocean Skulltula Token
+    MM Great Bay Coast Fisherman Grotto Grass 13: Mask of Truth
+    MM Great Bay Coast Fisherman HP: Stray Fairy (Great Bay Temple)
+    MM Great Bay Coast Grass 4: Progressive Hookshot
+    MM Great Bay Coast Pot 01: Soul of Deep Pythons
+    MM Great Bay Coast Pot 02: Swamp Skulltula Token
+    MM Great Bay Coast Pot 03: Soul of Peahats (MM)
+    MM Great Bay Cow Grotto Grass 03: Stray Fairy (Stone Tower Temple)
+    MM Great Bay Cow Grotto Grass 19: Gibdo Mask
+    MM Great Bay Cow Grotto Grass 20: Soul of the Goron Baby (MM)
+    MM Great Bay Cow Grotto Grass 25: Song of Storms
+    MM Great Bay Cow Grotto Grass 26: Coin (Red)
+    MM Great Bay Cow Grotto Grass 28: Bunny Hood
+    MM Great Bay Cow Grotto Grass 29: Swamp Skulltula Token
+    MM Great Bay Cow Grotto Grass 38: Sun's Song (OoT)
+    MM Great Bay Cow Grotto Grass 39: Ocean Skulltula Token
+    MM Great Bay Cow Grotto Grass 42: Coin (Blue)
+    MM Great Bay Cow Grotto Grass 55: Coin (Yellow)
+    MM Great Bay Cow Grotto Grass 56: Stray Fairy (Great Bay Temple)
+    MM Great Bay Cow Grotto Grass 58: Swamp Skulltula Token
+    MM Great Bay Great Fairy: Coin (Red)
+    MM Great Bay Temple Boss: Water Medallion
+    MM Great Bay Temple Green Pipe 2 Lower Chest: Nocturne of Shadow
+    MM Great Bay Temple Rupee Hookshot 1: Stray Fairy (Snowhead Temple)
+    MM Great Bay Temple Rupee Hookshot 2: Shared Light Arrows
+    MM Ikana Graveyard Captain Mask: Swamp Skulltula Token
+    MM Ikana Graveyard Grass Pack Grass 2: Requiem of Spirit
+    MM Ikana Graveyard Grass Pack Grass 4: Coin (Blue)
+    MM Ikana Graveyard Grass Pack Grass 5: Ocean Skulltula Token
+    MM Ikana Graveyard Grass Pack Grass 7: Swamp Title Deed
+    MM Ikana Graveyard Grotto Grass 04: Progressive Wallet
+    MM Ikana Graveyard Grotto Grass 10: Coin (Blue)
+    MM Ikana Graveyard Grotto Grass 11: Ocean Skulltula Token
+    MM Ikana Graveyard Grotto: Swamp Skulltula Token
+    MM Ikana Valley Grotto Grass 04: Soul of Goht
+    MM Ikana Valley Grotto Grass 07: Stray Fairy (Stone Tower Temple)
+    MM Ikana Valley Grotto Grass 08: Ocean Skulltula Token
+    MM Ikana Valley Grotto Grass 12: Coin (Blue)
+    MM Ikana Valley Grotto: Coin (Green)
+    MM Lone Peak Shrine Grass Pack 1 Grass 04: Mask of Scents
+    MM Lone Peak Shrine Grass Pack 2 Grass 12: Coin (Red)
+    MM Milk Bar Purchase Chateau: Progressive Clock
+    MM Mountain Village Grass Pack 1 Grass 8: Shared Ice Arrows
+    MM Mountain Village Grass Pack 2 Grass 3: Letter to Mama
+    MM Mountain Village Grass Pack 2 Grass 7: Coin (Yellow)
+    MM Mountain Village Keaton Grass Reward 3: Coin (Blue)
+    MM Mountain Village Keaton Grass Reward 4: Powder Keg
+    MM Mountain Village Keaton Grass Reward 6: Coin (Blue)
+    MM Mountain Village Owl Statue: Shared Bomb Bag
+    MM Mountain Village Pot: Stone Mask
+    MM Mountain Village Potted Plant 1 Pot: Ocean Skulltula Token
+    MM Mountain Village Tunnel Grotto Grass 06: Coin (Blue)
+    MM Mountain Village Tunnel Grotto Grass 09: Soul of Odolwa
+    MM Mountain Village Waterfall Chest: Coin (Green)
+    MM Ocean Gossip Grotto Grass 2: Progressive Scale
+    MM Ocean Gossip Grotto Grass 3: Mirror Shield
+    MM Ocean Gossip Grotto Grass 4: Stray Fairy (Stone Tower Temple)
+    MM Ocean Skulltula 2nd Room Ceiling Edge: Soul of Business Scrubs (MM)
+    MM Ocean Skulltula 2nd Room Webbed Hole: Coin (Green)
+    MM Ocean Skulltula 2nd Room Webbed Pot: Swamp Skulltula Token
+    MM Ocean Skulltula Entrance Left Wall: Shared Fire Arrows
+    MM Ocean Skulltula Library Hole Behind Picture: Stray Fairy (Stone Tower Temple)
+    MM Ocean Skulltula Storage Room Ceiling Web: Kafei's Mask
+    MM Path to Snowhead Grotto Grass 06: Goron Mask
+    MM Path to Snowhead Grotto Grass 13: Soul of Biggoron (MM)
+    MM Path to Snowhead Grotto Grass 14: Soul of the Beans Salesman (MM)
+    MM Peahat Grotto Grass 04: Swamp Skulltula Token
+    MM Pinnacle Rock HP: Stray Fairy (Snowhead Temple)
+    MM Pinnacle Rock Pot 01: Stray Fairy (Woodfall Temple)
+    MM Pinnacle Rock Pot 05: Stray Fairy (Great Bay Temple)
+    MM Pinnacle Rock Pot 06: Stray Fairy (Great Bay Temple)
+    MM Pirate Fortress Interior Lower Chest: New Wave Bossa Nova
+    MM Pirate Fortress Sewers HP: Progressive Clock
+    MM Pirate Fortress Sewers Rupee Near Cage 1: Magic Beans (OoT)
+    MM Pirate Fortress Sewers Rupee Near Cage 4: Soul of Snappers
+    MM Road to Ikana Grotto Grass 05: Stray Fairy (Woodfall Temple)
+    MM Road to Ikana Grotto Grass 06: Soul of Boes
+    MM Road to Ikana Grotto Grass 09: Hover Boots
+    MM Road to Ikana Grotto Grass 13: Stray Fairy (Woodfall Temple)
+    MM Road to Ikana Grotto Grass 14: Stray Fairy (Great Bay Temple)
+    MM Road to Southern Swamp Grass Pack 1 Grass 06: C-Left Button
+    MM Road to Southern Swamp Grass Pack 2 Grass 01: Coin (Yellow)
+    MM Road to Southern Swamp Grass Pack 2 Grass 02: Blast Mask
+    MM Road to Southern Swamp Grass Pack 2 Grass 05: Soul of Moon Children
+    MM Road to Southern Swamp Grotto Grass 09: Stray Fairy (Woodfall Temple)
+    MM Road to Southern Swamp Potted Plant 1 Pot: Ocean Skulltula Token
+    MM Romani Ranch Barn Cow Right Front: Coin (Yellow)
+    MM Romani Ranch Grass Pack 1 Grass 01: Stray Fairy (Great Bay Temple)
+    MM Romani Ranch Grass Pack 1 Grass 09: Coin (Yellow)
+    MM Romani Ranch Grass Pack 1 Grass 11: Soul of the Goron Elder
+    MM Romani Ranch Grass Pack 2 Grass 06: Coin (Red)
+    MM Romani Ranch Grass Pack 2 Grass 07: Soul of Chuchus
+    MM Romani Ranch Grass Pack 2 Grass 11: Shared Bow
+    MM Romani Ranch Grass Pack 4 Grass 01: Ocean Skulltula Token
+    MM Romani Ranch Grass Pack 4 Grass 03: Master Sword
+    MM Romani Ranch Grass Pack 4 Grass 11: Stray Fairy (Great Bay Temple)
+    MM Romani Ranch Grass Pack 5 Grass 03: Bottle of Gold Dust
+    MM Romani Ranch Grass Pack 5 Grass 04: Ruto's Letter
+    MM Romani Ranch Grass Pack 5 Grass 07: A Button
+    MM Secret Shrine Garo Master Chest: Swamp Skulltula Token
+    MM Secret Shrine Rupee 06: Swamp Skulltula Token
+    MM Secret Shrine Rupee 07: Swamp Skulltula Token
+    MM Secret Shrine Rupee 14: Soul of Zoras (MM)
+    MM Secret Shrine Rupee 17: Swamp Skulltula Token
+    MM Snowhead Temple Boss: Spirit Medallion
+    MM Snowhead Temple Central Room Alcove: Ocean Skulltula Token
+    MM Snowhead Temple Compass Room Ledge: Ocean Skulltula Token
+    MM Snowhead Temple Icicle Room: Soul of the Banker (MM)
+    MM Snowhead Temple Map Alcove: Gerudo's Membership Card
+    MM Snowhead Temple Pillars Room: Ocean Skulltula Token
+    MM Southern Swamp Grass Front 01: Ocean Skulltula Token
+    MM Southern Swamp Grass Front 03: Soul of Twinmold
+    MM Southern Swamp Grass Front 10: Soul of Koume and Kotake
+    MM Southern Swamp Grass Near Witch Pack 1 Grass 02: Ocean Skulltula Token
+    MM Southern Swamp Grass Near Witch Pack 1 Grass 07: Owl Statue (Zora Cape)
+    MM Southern Swamp Grass Near Witch Pack 2 Grass 03: Don Gero's Mask
+    MM Southern Swamp Grotto Grass 09: Deku Mask
+    MM Southern Swamp Owl Statue: Stray Fairy (Stone Tower Temple)
+    MM Southern Swamp Pot 1: Skeleton Key
+    MM Southern Swamp Pot 2: Soul of Gold Skulltulas (MM)
+    MM Stock Pot Inn Grandma HP 1: Stray Fairy (Stone Tower Temple)
+    MM Stock Pot Inn Grandma HP 2: Boomerang
+    MM Stone Tower Inverted Pot 2: Stray Fairy (Woodfall Temple)
+    MM Stone Tower Pot Climb 2: Ocean Skulltula Token
+    MM Stone Tower Pot Higher Scarecrow 2: Ocean Skulltula Token
+    MM Stone Tower Pot Lower Scarecrow 07: Swamp Skulltula Token
+    MM Stone Tower Pot Lower Scarecrow 09: Stray Fairy (Great Bay Temple)
+    MM Stone Tower Temple Entrance Chest: All-Night Mask
+    MM Stone Tower Temple Inverted Boss Key: Ocean Skulltula Token
+    MM Stone Tower Temple Inverted Boss: Zora's Sapphire
+    MM Stone Tower Temple Inverted East Middle Chest: Stray Fairy (Woodfall Temple)
+    MM Stone Tower Temple Inverted Entrance Chest: Stray Fairy (Snowhead Temple)
+    MM Stone Tower Temple Inverted Rupee Alcove 2: Stray Fairy (Snowhead Temple)
+    MM Stone Tower Temple Inverted Rupee Dexihand 3: Swamp Skulltula Token
+    MM Stone Tower Temple Inverted Rupee Pre-Boss Front 3: Coin (Red)
+    MM Stone Tower Temple Light Arrow: Soul of the Deku Princess
+    MM Stone Tower Temple Rupee Before Water Bridge 8: Soul of Gomess
+    MM Stone Tower Temple Rupee Wind Room 2: Stray Fairy (Stone Tower Temple)
+    MM Stone Tower Temple Wind Room Jail Chest: Coin (Green)
+    MM Swamp Potion Shop Item 1: Ocean Skulltula Token
+    MM Swamp Skulltula Gold Room Pillar: Swamp Skulltula Token
+    MM Swamp Skulltula Main Room Jar: Stray Fairy (Stone Tower Temple)
+    MM Swamp Skulltula Main Room Upper Pillar: Stray Fairy (Stone Tower Temple)
+    MM Swamp Skulltula Monument Room Crate 1: Captain's Hat
+    MM Swamp Skulltula Monument Room Crate 2: Swamp Skulltula Token
+    MM Swamp Skulltula Monument Room Torch: Swamp Skulltula Token
+    MM Swamp Skulltula Pot Room Hive 1: Coin (Red)
+    MM Swamp Skulltula Pot Room Hive 2: Soul of the Goron Shopkeeper (MM)
+    MM Termina Field Cow Grotto Grass 01: Boss Key (Snowhead Temple)
+    MM Termina Field Cow Grotto Grass 04: Progressive Ocarina
+    MM Termina Field Cow Grotto Grass 11: Ocean Skulltula Token
+    MM Termina Field Cow Grotto Grass 19: Owl Statue (Snowhead)
+    MM Termina Field Cow Grotto Grass 21: Zelda's Lullaby
+    MM Termina Field Cow Grotto Grass 35: Stray Fairy (Woodfall Temple)
+    MM Termina Field Cow Grotto Grass 44: Coin (Green)
+    MM Termina Field Cow Grotto Grass 54: Song of Soaring
+    MM Termina Field Cow Grotto Grass 55: Pictograph Box
+    MM Termina Field Cow Grotto Grass 57: Coin (Blue)
+    MM Termina Field Cow Grotto Grass 63: Progressive Clock
+    MM Termina Field Cow Grotto Grass 69: Pocket Cucco
+    MM Termina Field Gossip Stones HP: Swamp Skulltula Token
+    MM Termina Field Peahat Grotto: Postman's Hat
+    MM Termina Field Pillar Grotto Grass 03: Ocean Skulltula Token
+    MM Termina Field Pillar Grotto Grass 06: Stray Fairy (Woodfall Temple)
+    MM Termina Field Pillar Grotto Grass 07: Ocean Skulltula Token
+    MM Termina Field Pillar Grotto Grass 09: Stray Fairy (Snowhead Temple)
+    MM Termina Field Pillar Grotto Grass 11: C-Up Button
+    MM Termina Field Pillar Grotto Grass 12: Kamaro's Mask
+    MM Termina Field Tall Grass Chest: Stray Fairy (Stone Tower Temple)
+    MM Termina Field Tall Grass Grotto Grass 02: Coin (Yellow)
+    MM Termina Field Tall Grass Grotto Grass 06: C-Down Button
+    MM Termina Field Tall Grass Grotto Grass 11: Coin (Red)
+    MM Termina Field Tall Grass Grotto Grass 13: Ocean Skulltula Token
+    MM Trading Post Item 3: Stray Fairy (Great Bay Temple)
+    MM Trading Post Item 8: Great Fairy's Mask
+    MM Trading Post Pot: Romani's Mask
+    MM Twin Islands Grass 08: Megaton Hammer
+    MM Twin Islands Grass 10: Coin (Yellow)
+    MM Twin Islands Grass 11: Swamp Skulltula Token
+    MM Twin Islands Ramp Grotto Grass 07: Coin (Green)
+    MM Twin Islands Underwater Chest 2: Coin (Green)
+    MM Woodfall Entrance Chest: Soul of Garo
+    MM Woodfall Grass 2: Soul of Mr. Barten (MM)
+    MM Woodfall HP Chest: Song of Time
+    MM Woodfall Pot 2: Coin (Yellow)
+    MM Woodfall Pot 3: Coin (Red)
+    MM Woodfall Rupee: Stray Fairy (Snowhead Temple)
+    MM Woodfall Temple Boss: Shadow Medallion
+    MM Woodfall Temple Dark Chest: Swamp Skulltula Token
+    MM Woodfall Temple Map: Stray Fairy (Woodfall Temple)
+    MM Woodfall Temple SF Main Bubble: Stray Fairy (Stone Tower Temple)
+    MM Woodfall Temple SF Pre-Boss Top Right: Stray Fairy (Stone Tower Temple)
+    MM Woods of Mystery Grass NE 2: Iron Boots
+    MM Woods of Mystery Grass NW 1: Stray Fairy (Woodfall Temple)
+    MM Woods of Mystery Grass S 3: Stray Fairy (Woodfall Temple)
+    MM Woods of Mystery Grotto Grass 01: Stray Fairy (Snowhead Temple)
+    MM Woods of Mystery Grotto Grass 12: Coin (Blue)
+    MM Zora Cape Grotto Grass 07: Progressive Clock
+    MM Zora Cape Grotto Grass 13: Soul of Keg Trial Goron (MM)
+    MM Zora Cape Grotto: Soul of Octoroks (MM)
+    MM Zora Cape Owl Statue: Soul of Captain Keeta
+    MM Zora Cape Pot Game 3: Stray Fairy (Snowhead Temple)
+    MM Zora Cape Pot Game 4: Ocean Skulltula Token
+    MM Zora Cape Waterfall HP: Swamp Skulltula Token
+    MM Zora Hall Scrub Shop: Fierce Deity's Mask
+    MM Zora Shop Item 1: Soul of Freezards (MM)
+    OOT Bombchu Bowling Reward 2: Swamp Skulltula Token
+    OOT Bottom of the Well Blood Chest: Ocean Skulltula Token
+    OOT Bottom of the Well Front West: Chicken
+    OOT Bottom of the Well GS East Cage: Gold Skulltula Token
+    OOT Bottom of the Well GS Inner East: Gold Skulltula Token
+    OOT Bottom of the Well GS Inner West: Gold Skulltula Token
+    OOT Death Mountain Crater GS Crate: Gold Skulltula Token
+    OOT Death Mountain Crater GS Soil: Gold Skulltula Token
+    OOT Death Mountain Trail Chest: Stray Fairy (Great Bay Temple)
+    OOT Death Mountain Trail GS Above Dodongo: Gold Skulltula Token
+    OOT Death Mountain Trail GS Before Climb: Gold Skulltula Token
+    OOT Death Mountain Trail GS Entrance: Gold Skulltula Token
+    OOT Death Mountain Trail GS Soil: Gold Skulltula Token
+    OOT Death Mountain Trail Grotto: Coin (Yellow)
+    OOT Death Mountain Trail Prescription: Stray Fairy (Woodfall Temple)
+    OOT Deku Theater Nuts Upgrade: Coin (Green)
+    OOT Deku Tree Boss: Goron's Ruby
+    OOT Deku Tree GS Basement Back Room: Gold Skulltula Token
+    OOT Deku Tree GS Basement Gate: Gold Skulltula Token
+    OOT Deku Tree GS Basement Vines: Gold Skulltula Token
+    OOT Deku Tree GS Compass: Gold Skulltula Token
+    OOT Desert Colossus GS Plateau: Gold Skulltula Token
+    OOT Desert Colossus GS Soil: Gold Skulltula Token
+    OOT Desert Colossus GS Tree: Gold Skulltula Token
+    OOT Dodongo Cavern Boss: Twinmold's Remains
+    OOT Dodongo Cavern GS Near Boss: Gold Skulltula Token
+    OOT Dodongo Cavern GS Scarecrow: Gold Skulltula Token
+    OOT Dodongo Cavern GS Side Room: Gold Skulltula Token
+    OOT Dodongo Cavern GS Stairs Top: Gold Skulltula Token
+    OOT Dodongo Cavern GS Stairs Vines: Gold Skulltula Token
+    OOT Dodongo Cavern Map Chest: Coin (Green)
+    OOT Fire Temple Boss Key Side Chest: Ocean Skulltula Token
+    OOT Fire Temple Boss: Odolwa's Remains
+    OOT Fire Temple GS Hammer Statues: Gold Skulltula Token
+    OOT Fire Temple GS Lava Side Room: Gold Skulltula Token
+    OOT Fire Temple GS Maze: Gold Skulltula Token
+    OOT Fire Temple GS Scarecrow Top: Gold Skulltula Token
+    OOT Fire Temple GS Scarecrow Wall: Gold Skulltula Token
+    OOT Fire Temple Jail 1 Chest: Coin (Blue)
+    OOT Fire Temple Scarecrow Chest: Boss Key (Fire Temple)
+    OOT Forest Temple Boss: Light Medallion
+    OOT Forest Temple Floormaster: Boss Key (Forest Temple)
+    OOT Forest Temple GS Antichamber: Gold Skulltula Token
+    OOT Forest Temple GS Entrance: Gold Skulltula Token
+    OOT Forest Temple GS Garden East: Gold Skulltula Token
+    OOT Forest Temple GS Garden West: Gold Skulltula Token
+    OOT Forest Temple GS Main: Gold Skulltula Token
+    OOT Ganon Castle Exterior GS: Gold Skulltula Token
+    OOT Gerudo Fortress GS Target: Gold Skulltula Token
+    OOT Gerudo Fortress GS Wall: Gold Skulltula Token
+    OOT Gerudo Fortress Jail 1: Sonata of Awakening
+    OOT Gerudo Training Grounds Lizalfos: Bremen Mask
+    OOT Gerudo Valley Crate HP: Stray Fairy (Snowhead Temple)
+    OOT Gerudo Valley GS Pillar: Gold Skulltula Token
+    OOT Gerudo Valley GS Soil: Gold Skulltula Token
+    OOT Gerudo Valley GS Tent: Gold Skulltula Token
+    OOT Gerudo Valley GS Wall: Gold Skulltula Token
+    OOT Goron City GS Maze: Gold Skulltula Token
+    OOT Goron City GS Platform: Gold Skulltula Token
+    OOT Goron City Maze Left: Stray Fairy (Snowhead Temple)
+    OOT Goron City Tunic: Soul of Anju's Grandmother (MM)
+    OOT Graveyard Fairy Tomb: Stray Fairy (Snowhead Temple)
+    OOT Graveyard GS Soil: Gold Skulltula Token
+    OOT Graveyard GS Wall: Gold Skulltula Token
+    OOT Haunted Wasteland GS: Gold Skulltula Token
+    OOT Hyrule Castle GS Grotto: Gold Skulltula Token
+    OOT Hyrule Castle GS Tree: Gold Skulltula Token
+    OOT Hyrule Field Grotto Market: Stray Fairy (Snowhead Temple)
+    OOT Hyrule Field Grotto Near Gerudo GS: Gold Skulltula Token
+    OOT Hyrule Field Grotto Near Kakariko GS: Gold Skulltula Token
+    OOT Hyrule Field Grotto Open: Swamp Skulltula Token
+    OOT Hyrule Field Grotto Southeast: Stray Fairy (Great Bay Temple)
+    OOT Ice Cavern GS Block Room: Gold Skulltula Token
+    OOT Ice Cavern GS HP Room: Gold Skulltula Token
+    OOT Ice Cavern GS Scythe Room: Gold Skulltula Token
+    OOT Jabu-Jabu Boss: Forest Medallion
+    OOT Jabu-Jabu GS Bottom Lower: Gold Skulltula Token
+    OOT Jabu-Jabu GS Bottom Upper: Gold Skulltula Token
+    OOT Jabu-Jabu GS Near Boss: Gold Skulltula Token
+    OOT Jabu-Jabu GS Water Switch: Gold Skulltula Token
+    OOT Kakariko Anju Cojiro: Swamp Skulltula Token
+    OOT Kakariko GS Bazaar: Gold Skulltula Token
+    OOT Kakariko GS House of Skulltula: Gold Skulltula Token
+    OOT Kakariko GS Ladder: Gold Skulltula Token
+    OOT Kakariko GS Roof: Gold Skulltula Token
+    OOT Kakariko GS Shooting Gallery: Gold Skulltula Token
+    OOT Kakariko GS Tree: Gold Skulltula Token
+    OOT Kokiri Forest GS Night Adult: Gold Skulltula Token
+    OOT Kokiri Forest GS Night Child: Gold Skulltula Token
+    OOT Kokiri Forest GS Soil: Gold Skulltula Token
+    OOT Laboratory Dive: Soul of Stalchildren (MM)
+    OOT Laboratory GS Crate: Gold Skulltula Token
+    OOT Lake Hylia GS Big Tree: Gold Skulltula Token
+    OOT Lake Hylia GS Island: Gold Skulltula Token
+    OOT Lake Hylia GS Lab Wall: Gold Skulltula Token
+    OOT Lake Hylia GS Soil: Gold Skulltula Token
+    OOT Lon Lon Ranch GS Back Wall: Gold Skulltula Token
+    OOT Lon Lon Ranch GS House: Gold Skulltula Token
+    OOT Lon Lon Ranch GS Rain Shed: Gold Skulltula Token
+    OOT Lon Lon Ranch GS Tree: Gold Skulltula Token
+    OOT Lon Lon Ranch Silo HP: Swamp Skulltula Token
+    OOT Lon Lon Ranch Talon Bottle: Owl Statue (Ikana Canyon)
+    OOT Lost Woods GS Bean Ride: Gold Skulltula Token
+    OOT Lost Woods GS Soil Bridge: Gold Skulltula Token
+    OOT Lost Woods GS Soil Theater: Gold Skulltula Token
+    OOT Lost Woods Poacher's Saw: Coin (Yellow)
+    OOT Market Pot House GS: Gold Skulltula Token
+    OOT Sacred Meadow GS Night Adult: Gold Skulltula Token
+    OOT Shadow Temple Boss Key Room 1: Progressive Clock
+    OOT Shadow Temple Boss: Goht's Remains
+    OOT Shadow Temple Compass: Stray Fairy (Woodfall Temple)
+    OOT Shadow Temple GS Falling Spikes: Gold Skulltula Token
+    OOT Shadow Temple GS Invisible Scythe: Gold Skulltula Token
+    OOT Shadow Temple GS Near Boat: Gold Skulltula Token
+    OOT Shadow Temple GS Skull Pot: Gold Skulltula Token
+    OOT Shadow Temple GS Triple Skull Pot: Gold Skulltula Token
+    OOT Shadow Temple Invisible Spike Room: Boss Key (Shadow Temple)
+    OOT Shadow Temple SR Pit 1: Silver Rupee (Shadow Temple - Large Pits)
+    OOT Shadow Temple SR Pit 2: Silver Rupee (Shadow Temple - Large Pits)
+    OOT Shadow Temple SR Pit 3: Silver Rupee (Shadow Temple - Large Pits)
+    OOT Shadow Temple SR Pit 4: Silver Rupee (Shadow Temple - Large Pits)
+    OOT Shadow Temple SR Pit 5: Silver Rupee (Shadow Temple - Large Pits)
+    OOT Shadow Temple SR Spikes Back Left: Silver Rupee (Shadow Temple - Spikes)
+    OOT Shadow Temple SR Spikes Center: Silver Rupee (Shadow Temple - Spikes)
+    OOT Shadow Temple SR Spikes Front Left: Silver Rupee (Shadow Temple - Spikes)
+    OOT Shadow Temple SR Spikes Midair: Silver Rupee (Shadow Temple - Spikes)
+    OOT Shadow Temple SR Spikes Right: Silver Rupee (Shadow Temple - Spikes)
+    OOT Spirit Temple Adult Silver Rupees: Elegy of Emptiness
+    OOT Spirit Temple Adult Suns on Wall 1: Ocean Skulltula Token
+    OOT Spirit Temple Adult Suns on Wall 2: Boss Key (Spirit Temple)
+    OOT Spirit Temple Boss: Gyorg's Remains
+    OOT Spirit Temple GS Boulders: Gold Skulltula Token
+    OOT Spirit Temple GS Child Climb: Gold Skulltula Token
+    OOT Spirit Temple GS Child Fence: Gold Skulltula Token
+    OOT Spirit Temple GS Iron Knuckle: Gold Skulltula Token
+    OOT Spirit Temple GS Statue: Gold Skulltula Token
+    OOT Spirit Temple SR Boulders 1: Silver Rupee (Spirit Temple - Boulders)
+    OOT Spirit Temple SR Boulders 2: Silver Rupee (Spirit Temple - Boulders)
+    OOT Spirit Temple SR Boulders 3: Silver Rupee (Spirit Temple - Boulders)
+    OOT Spirit Temple SR Boulders 4: Silver Rupee (Spirit Temple - Boulders)
+    OOT Spirit Temple SR Boulders 5: Silver Rupee (Spirit Temple - Boulders)
+    OOT Spirit Temple Statue Hands: Stray Fairy (Stone Tower Temple)
+    OOT Temple of Time Medallion: Fire Medallion
+    OOT Water Temple Boss: Kokiri's Emerald
+    OOT Water Temple GS Cage: Gold Skulltula Token
+    OOT Water Temple GS Center: Gold Skulltula Token
+    OOT Water Temple GS Large Pit: Gold Skulltula Token
+    OOT Water Temple GS River: Gold Skulltula Token
+    OOT Water Temple GS Waterfalls: Gold Skulltula Token
+    OOT Water Temple Longshot: Coin (Red)
+    OOT Water Temple Under Center: Boss Key (Water Temple)
+    OOT Zora Domain GS Waterfall: Gold Skulltula Token
+    OOT Zora Fountain GS Tree: Gold Skulltula Token
+    OOT Zora Fountain GS Upper: Gold Skulltula Token
+    OOT Zora Fountain GS Wall: Gold Skulltula Token
+    OOT Zora River Frogs Game: Broken Goron's Sword
+    OOT Zora River Frogs Storms: Gerudo Mask
+    OOT Zora River GS Ladder: Gold Skulltula Token
+    OOT Zora River GS Near Bridge: Gold Skulltula Token
+    OOT Zora River GS Near Grotto: Gold Skulltula Token
+    OOT Zora River GS Tree: Gold Skulltula Token
+
+
+===========================================================================
+Spheres
+  Sphere 0
+    Event - Termina Access
+    Location - MM Clock Town Platform HP: Progressive Sword
+    Location - OOT Gerudo Valley Crate HP: Stray Fairy (Snowhead Temple)
+    Location - OOT Graveyard Fairy Tomb: Stray Fairy (Snowhead Temple)
+    Location - OOT Hyrule Field Grotto Open: Swamp Skulltula Token
+    Location - OOT Kokiri Shop Item 8: Deku Shield (OoT)
+    Location - OOT Lon Lon Ranch GS Tree: Gold Skulltula Token
+    Location - OOT Lon Lon Ranch Silo HP: Swamp Skulltula Token
+    Location - OOT Market Pot House GS: Gold Skulltula Token
+
+  Sphere 1
+    Location - MM Canyon Gossip Grotto Grass 2: Stray Fairy (Stone Tower Temple)
+    Location - MM Peahat Grotto Grass 04: Swamp Skulltula Token
+    Location - MM Road to Southern Swamp Grass Pack 1 Grass 06: C-Left Button
+    Location - MM Road to Southern Swamp Grass Pack 2 Grass 01: Coin (Yellow)
+    Location - MM Road to Southern Swamp Grass Pack 2 Grass 02: Blast Mask
+    Location - MM Road to Southern Swamp Grass Pack 2 Grass 05: Soul of Moon Children
+    Location - MM Road to Southern Swamp Grotto Grass 09: Stray Fairy (Woodfall Temple)
+    Location - MM Road to Southern Swamp Potted Plant 1 Pot: Ocean Skulltula Token
+    Location - MM Southern Swamp Grass Front 01: Ocean Skulltula Token
+    Location - MM Southern Swamp Grass Front 03: Soul of Twinmold
+    Location - MM Southern Swamp Grass Front 10: Soul of Koume and Kotake
+    Location - MM Southern Swamp Grass Near Witch Pack 1 Grass 02: Ocean Skulltula Token
+    Location - MM Southern Swamp Grass Near Witch Pack 1 Grass 07: Owl Statue (Zora Cape)
+    Location - MM Southern Swamp Grass Near Witch Pack 2 Grass 03: Don Gero's Mask
+    Location - MM Southern Swamp Owl Statue: Stray Fairy (Stone Tower Temple)
+    Location - MM Southern Swamp Pot 1: Skeleton Key
+    Location - MM Southern Swamp Pot 2: Soul of Gold Skulltulas (MM)
+    Location - MM Termina Field Pillar Grotto Grass 03: Ocean Skulltula Token
+    Location - MM Termina Field Pillar Grotto Grass 06: Stray Fairy (Woodfall Temple)
+    Location - MM Termina Field Pillar Grotto Grass 07: Ocean Skulltula Token
+    Location - MM Termina Field Pillar Grotto Grass 09: Stray Fairy (Snowhead Temple)
+    Location - MM Termina Field Pillar Grotto Grass 11: C-Up Button
+    Location - MM Termina Field Pillar Grotto Grass 12: Kamaro's Mask
+    Location - MM Termina Field Tall Grass Chest: Stray Fairy (Stone Tower Temple)
+    Location - MM Termina Field Tall Grass Grotto Grass 02: Coin (Yellow)
+    Location - MM Termina Field Tall Grass Grotto Grass 06: C-Down Button
+    Location - MM Termina Field Tall Grass Grotto Grass 11: Coin (Red)
+    Location - MM Termina Field Tall Grass Grotto Grass 13: Ocean Skulltula Token
+    Location - MM Trading Post Pot: Romani's Mask
+    Location - MM Woods of Mystery Grass NE 2: Iron Boots
+    Location - MM Woods of Mystery Grass S 3: Stray Fairy (Woodfall Temple)
+    Location - OOT Deku Tree GS Basement Gate: Gold Skulltula Token
+    Location - OOT Deku Tree GS Compass: Gold Skulltula Token
+    Location - OOT Hyrule Castle GS Tree: Gold Skulltula Token
+    Location - OOT Zora River GS Tree: Gold Skulltula Token
+
+  Sphere 2
+    Location - MM Bio Baba Grotto Grass 1: Owl Statue (Stone Tower)
+    Location - MM Ocean Gossip Grotto Grass 2: Progressive Scale
+    Location - MM Ocean Gossip Grotto Grass 3: Mirror Shield
+    Location - MM Ocean Gossip Grotto Grass 4: Stray Fairy (Stone Tower Temple)
+    Location - MM Termina Field Cow Grotto Grass 01: Boss Key (Snowhead Temple)
+    Location - MM Termina Field Cow Grotto Grass 04: Progressive Ocarina
+    Location - MM Termina Field Cow Grotto Grass 11: Ocean Skulltula Token
+    Location - MM Termina Field Cow Grotto Grass 19: Owl Statue (Snowhead)
+    Location - MM Termina Field Cow Grotto Grass 21: Zelda's Lullaby
+    Location - MM Termina Field Cow Grotto Grass 35: Stray Fairy (Woodfall Temple)
+    Location - MM Termina Field Cow Grotto Grass 44: Coin (Green)
+    Location - MM Termina Field Cow Grotto Grass 54: Song of Soaring
+    Location - MM Termina Field Cow Grotto Grass 55: Pictograph Box
+    Location - MM Termina Field Cow Grotto Grass 57: Coin (Blue)
+    Location - MM Termina Field Cow Grotto Grass 63: Progressive Clock
+    Location - MM Termina Field Cow Grotto Grass 69: Pocket Cucco
+    Location - OOT Death Mountain Crater GS Crate: Gold Skulltula Token
+    Location - OOT Death Mountain Trail Chest: Stray Fairy (Great Bay Temple)
+    Location - OOT Goron City GS Maze: Gold Skulltula Token
+    Location - OOT Hyrule Field Grotto Market: Stray Fairy (Snowhead Temple)
+    Location - OOT Hyrule Field Grotto Southeast: Stray Fairy (Great Bay Temple)
+
+  Sphere 3
+    Location - MM Clock Town Blast Mask: Swamp Skulltula Token
+    Location - MM Great Bay Coast Fisherman Grotto Grass 01: Stray Fairy (Clock Town)
+    Location - MM Great Bay Coast Fisherman Grotto Grass 03: Stray Fairy (Snowhead Temple)
+    Location - MM Great Bay Coast Fisherman Grotto Grass 06: Ocean Skulltula Token
+    Location - MM Great Bay Coast Fisherman Grotto Grass 13: Mask of Truth
+    Location - MM Great Bay Coast Grass 4: Progressive Hookshot
+    Location - MM Great Bay Coast Pot 01: Soul of Deep Pythons
+    Location - MM Great Bay Coast Pot 02: Swamp Skulltula Token
+    Location - MM Great Bay Coast Pot 03: Soul of Peahats (MM)
+    Location - MM Ikana Graveyard Grass Pack Grass 1: Soul of Trading Post Owner (MM)
+    Location - MM Ikana Graveyard Grass Pack Grass 2: Requiem of Spirit
+    Location - MM Ikana Graveyard Grass Pack Grass 4: Coin (Blue)
+    Location - MM Ikana Graveyard Grass Pack Grass 5: Ocean Skulltula Token
+    Location - MM Ikana Graveyard Grass Pack Grass 7: Swamp Title Deed
+    Location - MM Ikana Graveyard Grotto Grass 04: Progressive Wallet
+    Location - MM Ikana Graveyard Grotto Grass 10: Coin (Blue)
+    Location - MM Ikana Graveyard Grotto Grass 11: Ocean Skulltula Token
+    Location - MM Ikana Graveyard Grotto: Swamp Skulltula Token
+    Location - MM Ikana Valley Grotto Grass 04: Soul of Goht
+    Location - MM Ikana Valley Grotto Grass 07: Stray Fairy (Stone Tower Temple)
+    Location - MM Ikana Valley Grotto Grass 08: Ocean Skulltula Token
+    Location - MM Ikana Valley Grotto Grass 12: Coin (Blue)
+    Location - MM Ikana Valley Grotto: Coin (Green)
+    Location - MM Path to Snowhead Grotto Grass 06: Goron Mask
+    Location - MM Path to Snowhead Grotto Grass 13: Soul of Biggoron (MM)
+    Location - MM Path to Snowhead Grotto Grass 14: Soul of the Beans Salesman (MM)
+    Location - MM Zora Cape Grotto Grass 07: Progressive Clock
+    Location - MM Zora Cape Grotto Grass 13: Soul of Keg Trial Goron (MM)
+    Location - MM Zora Cape Grotto: Soul of Octoroks (MM)
+    Location - MM Zora Cape Owl Statue: Soul of Captain Keeta
+    Location - MM Zora Cape Waterfall HP: Swamp Skulltula Token
+
+  Sphere 4
+    Location - MM Clock Town Great Fairy: Swamp Skulltula Token
+    Location - MM Ocean Skulltula 2nd Room Ceiling Edge: Soul of Business Scrubs (MM)
+    Location - MM Ocean Skulltula 2nd Room Webbed Hole: Coin (Green)
+    Location - MM Ocean Skulltula 2nd Room Webbed Pot: Swamp Skulltula Token
+    Location - MM Ocean Skulltula Entrance Left Wall: Shared Fire Arrows
+    Location - MM Road to Ikana Grotto Grass 05: Stray Fairy (Woodfall Temple)
+    Location - MM Road to Ikana Grotto Grass 06: Soul of Boes
+    Location - MM Road to Ikana Grotto Grass 09: Hover Boots
+    Location - MM Road to Ikana Grotto Grass 13: Stray Fairy (Woodfall Temple)
+    Location - MM Road to Ikana Grotto Grass 14: Stray Fairy (Great Bay Temple)
+    Location - MM Stone Tower Pot Climb 2: Ocean Skulltula Token
+    Location - MM Stone Tower Pot Lower Scarecrow 07: Swamp Skulltula Token
+    Location - MM Stone Tower Pot Lower Scarecrow 09: Stray Fairy (Great Bay Temple)
+    Location - MM Termina Field Peahat Grotto: Postman's Hat
+    Location - MM Trading Post Item 3: Stray Fairy (Great Bay Temple)
+    Location - MM Trading Post Item 8: Great Fairy's Mask
+    Location - MM Woods of Mystery Grotto Grass 01: Stray Fairy (Snowhead Temple)
+    Location - MM Woods of Mystery Grotto Grass 03: Spin Attack Upgrade (MM)
+    Location - MM Woods of Mystery Grotto Grass 12: Coin (Blue)
+    Location - MM Woods of Mystery Grotto: Progressive Strength
+    Location - OOT Deku Theater Nuts Upgrade: Coin (Green)
+    Location - OOT Deku Tree GS Basement Vines: Gold Skulltula Token
+    Location - OOT Forest Temple GS Entrance: Gold Skulltula Token
+    Location - OOT Forest Temple GS Garden East: Gold Skulltula Token
+    Location - OOT Forest Temple GS Main: Gold Skulltula Token
+    Location - OOT Gerudo Fortress Jail 1: Sonata of Awakening
+
+  Sphere 5
+    Location - MM Southern Swamp Grotto Grass 09: Deku Mask
+    Location - MM Southern Swamp Grotto Grass 11: Progressive Strength
+    Location - MM Stone Tower Pot Higher Scarecrow 2: Ocean Skulltula Token
+    Location - MM Swamp Skulltula Gold Room Pillar: Swamp Skulltula Token
+    Location - MM Swamp Skulltula Main Room Jar: Stray Fairy (Stone Tower Temple)
+    Location - MM Swamp Skulltula Main Room Upper Pillar: Stray Fairy (Stone Tower Temple)
+    Location - MM Swamp Skulltula Monument Room Crate 1: Captain's Hat
+    Location - MM Swamp Skulltula Monument Room Crate 2: Swamp Skulltula Token
+    Location - MM Swamp Skulltula Monument Room Torch: Swamp Skulltula Token
+    Location - MM Swamp Skulltula Pot Room Hive 1: Coin (Red)
+    Location - MM Swamp Skulltula Pot Room Hive 2: Soul of the Goron Shopkeeper (MM)
+    Location - OOT Dodongo Cavern GS Side Room: Gold Skulltula Token
+    Location - OOT Dodongo Cavern GS Stairs Vines: Gold Skulltula Token
+    Location - OOT Dodongo Cavern Map Chest: Coin (Green)
+    Location - OOT Goron Shop Item 4: Goron Tunic
+
+  Sphere 6
+    Location - MM Astral Observatory Passage Chest: Soul of ReDeads/Gibdos (MM)
+    Location - MM Astral Observatory Passage Pot 1: Progressive Scale
+    Location - MM Astral Observatory Passage Pot 2: Soul of Blacksmiths
+    Location - MM Astral Observatory Passage Pot 3: Swamp Skulltula Token
+    Location - MM Astral Observatory Pot 1: Soul of the Bomb Shop Owner (MM)
+    Location - MM Deku Palace Grotto Grass 03: Soul of the Fisherman (MM)
+    Location - MM Deku Palace HP: Stray Fairy (Snowhead Temple)
+    Location - MM Deku Palace Rupee Layout-Dependant 2: Spooky Mask
+    Location - MM Deku Palace Rupee Left 2: Swamp Skulltula Token
+    Location - MM Deku Palace Rupee Right 08: Stray Fairy (Woodfall Temple)
+    Location - MM Deku Palace Rupee Right 09: Soul of Gyorg
+    Location - MM Deku Palace Rupee Right 10: Stray Fairy (Great Bay Temple)
+    Location - MM Deku Palace Rupee Right 12: Ocean Skulltula Token
+    Location - MM Woodfall Entrance Chest: Soul of Garo
+    Location - MM Woodfall Grass 2: Soul of Mr. Barten (MM)
+    Location - MM Woodfall Rupee: Stray Fairy (Snowhead Temple)
+
+  Sphere 7
+    Location - MM Bomb Shop Bomb Bag: Goron Lullaby
+    Location - MM Bomb Shop Item 1: Soul of the Zora Shopkeeper (MM)
+    Location - MM Milk Bar Purchase Chateau: Progressive Clock
+    Location - OOT Laboratory Dive: Soul of Stalchildren (MM)
+
+  Sphere 8
+    Location - MM Beneath The Graveyard Pot Night 1 Bats 2: Circus Leader's Mask
+    Location - MM Beneath The Graveyard Pot Night 2 After Pit 2: Zora Mask
+    Location - MM Beneath The Graveyard Pot Night 2 Early: Coin (Blue)
+    Location - MM Beneath The Graveyard Rupee 1: Shared Magic Upgrade
+    Location - MM Beneath The Graveyard Rupee 7: Stray Fairy (Woodfall Temple)
+    Location - MM Zora Shop Item 1: Soul of Freezards (MM)
+
+  Sphere 9
+    Location - MM Blacksmith Potted Plant 1 Pot: Garo's Mask
+    Location - MM Clock Town Keaton Grass Reward 6: Soul of Romani/Cremia (MM)
+    Location - MM Clock Town Keaton Grass Reward 7: Coin (Green)
+    Location - MM Goron Shrine Pot 04: Coin (Green)
+    Location - MM Goron Shrine Pot 06: Keaton Mask
+    Location - MM Goron Shrine Pot 07: Epona's Song
+    Location - MM Goron Shrine Pot 09: Stray Fairy (Great Bay Temple)
+    Location - MM Goron Village HP: Swamp Skulltula Token
+    Location - MM Lone Peak Shrine Grass Pack 1 Grass 04: Mask of Scents
+    Location - MM Lone Peak Shrine Grass Pack 2 Grass 12: Coin (Red)
+    Location - MM Mountain Village Owl Statue: Shared Bomb Bag
+    Location - MM Mountain Village Potted Plant 1 Pot: Ocean Skulltula Token
+    Location - MM Pirate Fortress Interior Lower Chest: New Wave Bossa Nova
+    Location - MM Pirate Fortress Sewers HP: Progressive Clock
+    Location - MM Pirate Fortress Sewers Rupee Near Cage 1: Magic Beans (OoT)
+    Location - MM Pirate Fortress Sewers Rupee Near Cage 4: Soul of Snappers
+    Location - MM Secret Shrine Rupee 06: Swamp Skulltula Token
+    Location - MM Secret Shrine Rupee 07: Swamp Skulltula Token
+    Location - MM Secret Shrine Rupee 12: Soul of the Fighting Pirates
+    Location - MM Secret Shrine Rupee 14: Soul of Zoras (MM)
+    Location - MM Secret Shrine Rupee 17: Swamp Skulltula Token
+    Location - MM Twin Islands Ramp Grotto Grass 07: Coin (Green)
+    Location - MM Zora Hall Scrub Shop: Fierce Deity's Mask
+
+  Sphere 10
+    Location - MM Cucco Shack Potted Plant 1 Pot: Saria's Song
+    Location - MM Romani Ranch Grass Pack 1 Grass 01: Stray Fairy (Great Bay Temple)
+    Location - MM Romani Ranch Grass Pack 1 Grass 09: Coin (Yellow)
+    Location - MM Romani Ranch Grass Pack 1 Grass 11: Soul of the Goron Elder
+    Location - MM Romani Ranch Grass Pack 2 Grass 06: Coin (Red)
+    Location - MM Romani Ranch Grass Pack 2 Grass 07: Soul of Chuchus
+    Location - MM Romani Ranch Grass Pack 2 Grass 11: Shared Bow
+    Location - MM Romani Ranch Grass Pack 4 Grass 01: Ocean Skulltula Token
+    Location - MM Romani Ranch Grass Pack 4 Grass 03: Master Sword
+    Location - MM Romani Ranch Grass Pack 4 Grass 11: Stray Fairy (Great Bay Temple)
+    Location - MM Romani Ranch Grass Pack 5 Grass 03: Bottle of Gold Dust
+    Location - MM Romani Ranch Grass Pack 5 Grass 04: Ruto's Letter
+    Location - MM Romani Ranch Grass Pack 5 Grass 07: A Button
+    Location - MM Woods of Mystery Grass NW 1: Stray Fairy (Woodfall Temple)
+    Location - MM Zora Cape Pot Game 3: Stray Fairy (Snowhead Temple)
+    Location - MM Zora Cape Pot Game 4: Ocean Skulltula Token
+    Location - OOT Bombchu Bowling Reward 2: Swamp Skulltula Token
+    Location - OOT Death Mountain Trail GS Entrance: Gold Skulltula Token
+    Location - OOT Goron City Bomb Bag: Soul of Deku Scrubs (MM)
+
+  Sphere 11
+    Event - Beat Gohma
+    Event - Beat King Dodongo
+    Event - Hot Spring Water (North, Winter)
+    Location - MM Blacksmith Gilded Sword: Stray Fairy (Stone Tower Temple)
+    Location - MM Goron Elder: Couple's Mask
+    Location - MM Goron Powder Keg: Ocean Skulltula Token
+    Location - MM Goron Race Pot 03: Stone of Agony (OoT)
+    Location - MM Goron Race Pot 06: Ocean Skulltula Token
+    Location - MM Goron Race Pot 07: Soul of the Deku Butler
+    Location - MM Goron Race Pot 23: C-Right Button
+    Location - MM Goron Race Pot 30: Progressive Wallet
+    Location - MM Ocean Skulltula Storage Room Ceiling Web: Kafei's Mask
+    Location - MM Pinnacle Rock HP: Stray Fairy (Snowhead Temple)
+    Location - MM Pinnacle Rock Pot 01: Stray Fairy (Woodfall Temple)
+    Location - MM Pinnacle Rock Pot 05: Stray Fairy (Great Bay Temple)
+    Location - MM Pinnacle Rock Pot 06: Stray Fairy (Great Bay Temple)
+    Location - MM Swamp Potion Shop Item 1: Ocean Skulltula Token
+    Location - MM Woodfall HP Chest: Song of Time
+    Location - MM Woodfall Pot 2: Coin (Yellow)
+    Location - MM Woodfall Pot 3: Coin (Red)
+    Location - OOT Death Mountain Trail GS Soil: Gold Skulltula Token
+    Location - OOT Deku Tree GS Basement Back Room: Gold Skulltula Token
+    Location - OOT Dodongo Cavern GS Near Boss: Gold Skulltula Token
+    Location - OOT Dodongo Cavern GS Stairs Top: Gold Skulltula Token
+    Location - OOT Gerudo Valley GS Soil: Gold Skulltula Token
+    Location - OOT Graveyard GS Soil: Gold Skulltula Token
+    Location - OOT Jabu-Jabu GS Bottom Lower: Gold Skulltula Token
+    Location - OOT Jabu-Jabu GS Bottom Upper: Gold Skulltula Token
+    Location - OOT Jabu-Jabu GS Water Switch: Gold Skulltula Token
+    Location - OOT Kokiri Forest GS Soil: Gold Skulltula Token
+    Location - OOT Lake Hylia GS Soil: Gold Skulltula Token
+    Location - OOT Lost Woods GS Soil Bridge: Gold Skulltula Token
+    Location - OOT Lost Woods GS Soil Theater: Gold Skulltula Token
+    Location - OOT Zora Fountain GS Tree: Gold Skulltula Token
+
+  Sphere 12
+    Event - Beat Goht
+    Event - Time Travel
+    Location - MM Goron Shop Item 2: Soul of Citizens (MM)
+    Location - MM Ikana Graveyard Captain Mask: Swamp Skulltula Token
+    Location - MM Snowhead Temple Central Room Alcove: Ocean Skulltula Token
+    Location - MM Snowhead Temple Compass Room Ledge: Ocean Skulltula Token
+    Location - MM Snowhead Temple Icicle Room: Soul of the Banker (MM)
+    Location - MM Snowhead Temple Map Alcove: Gerudo's Membership Card
+    Location - MM Snowhead Temple Pillars Room: Ocean Skulltula Token
+    Location - MM Termina Field Gossip Stones HP: Swamp Skulltula Token
+    Location - MM Woodfall Temple Dark Chest: Swamp Skulltula Token
+    Location - MM Woodfall Temple Map: Stray Fairy (Woodfall Temple)
+    Location - MM Woodfall Temple SF Main Bubble: Stray Fairy (Stone Tower Temple)
+    Location - MM Woodfall Temple SF Pre-Boss Top Right: Stray Fairy (Stone Tower Temple)
+    Location - OOT Deku Tree Boss: Goron's Ruby
+    Location - OOT Desert Colossus GS Soil: Gold Skulltula Token
+    Location - OOT Dodongo Cavern Boss: Twinmold's Remains
+    Location - OOT Hyrule Field Grotto Near Gerudo GS: Gold Skulltula Token
+    Location - OOT Hyrule Field Grotto Near Kakariko GS: Gold Skulltula Token
+    Location - OOT Market Potion Shop Item 5: Blue Fire
+    Location - OOT Spirit Temple Adult Suns on Wall 1: Ocean Skulltula Token
+    Location - OOT Spirit Temple Adult Suns on Wall 2: Boss Key (Spirit Temple)
+    Location - OOT Spirit Temple GS Boulders: Gold Skulltula Token
+    Location - OOT Spirit Temple GS Child Climb: Gold Skulltula Token
+    Location - OOT Spirit Temple GS Child Fence: Gold Skulltula Token
+    Location - OOT Spirit Temple GS Iron Knuckle: Gold Skulltula Token
+    Location - OOT Spirit Temple GS Statue: Gold Skulltula Token
+    Location - OOT Spirit Temple SR Boulders 1: Silver Rupee (Spirit Temple - Boulders)
+    Location - OOT Spirit Temple SR Boulders 2: Silver Rupee (Spirit Temple - Boulders)
+    Location - OOT Spirit Temple SR Boulders 3: Silver Rupee (Spirit Temple - Boulders)
+    Location - OOT Spirit Temple SR Boulders 4: Silver Rupee (Spirit Temple - Boulders)
+    Location - OOT Spirit Temple SR Boulders 5: Silver Rupee (Spirit Temple - Boulders)
+    Location - OOT Spirit Temple Statue Hands: Stray Fairy (Stone Tower Temple)
+    Location - OOT Zora Shop Item 7: Zora Tunic
+
+  Sphere 13
+    Event - Beat Twinrova
+    Location - MM Clock Town Bank Reward 3: Soul of the Deku King
+    Location - MM Mountain Village Grass Pack 1 Grass 8: Shared Ice Arrows
+    Location - MM Mountain Village Grass Pack 2 Grass 3: Letter to Mama
+    Location - MM Mountain Village Grass Pack 2 Grass 7: Coin (Yellow)
+    Location - MM Mountain Village Keaton Grass Reward 3: Coin (Blue)
+    Location - MM Mountain Village Keaton Grass Reward 4: Powder Keg
+    Location - MM Mountain Village Keaton Grass Reward 6: Coin (Blue)
+    Location - MM Mountain Village Tunnel Grotto Grass 06: Coin (Blue)
+    Location - MM Mountain Village Tunnel Grotto Grass 09: Soul of Odolwa
+    Location - MM Mountain Village Waterfall Chest: Coin (Green)
+    Location - MM Snowhead Temple Boss: Spirit Medallion
+    Location - MM Twin Islands Grass 08: Megaton Hammer
+    Location - MM Twin Islands Grass 10: Coin (Yellow)
+    Location - MM Twin Islands Grass 11: Swamp Skulltula Token
+    Location - MM Twin Islands Underwater Chest 2: Coin (Green)
+    Location - OOT Dodongo Cavern GS Scarecrow: Gold Skulltula Token
+    Location - OOT Fire Temple GS Lava Side Room: Gold Skulltula Token
+    Location - OOT Fire Temple GS Maze: Gold Skulltula Token
+    Location - OOT Fire Temple GS Scarecrow Top: Gold Skulltula Token
+    Location - OOT Fire Temple GS Scarecrow Wall: Gold Skulltula Token
+    Location - OOT Fire Temple Jail 1 Chest: Coin (Blue)
+    Location - OOT Fire Temple Scarecrow Chest: Boss Key (Fire Temple)
+    Location - OOT Forest Temple Floormaster: Boss Key (Forest Temple)
+    Location - OOT Forest Temple GS Antichamber: Gold Skulltula Token
+    Location - OOT Forest Temple GS Garden West: Gold Skulltula Token
+    Location - OOT Ganon Castle Exterior GS: Gold Skulltula Token
+    Location - OOT Gerudo Training Grounds Lizalfos: Bremen Mask
+    Location - OOT Goron City GS Platform: Gold Skulltula Token
+    Location - OOT Goron City Maze Left: Stray Fairy (Snowhead Temple)
+    Location - OOT Goron City Tunic: Soul of Anju's Grandmother (MM)
+    Location - OOT Haunted Wasteland GS: Gold Skulltula Token
+    Location - OOT Ice Cavern GS Block Room: Gold Skulltula Token
+    Location - OOT Ice Cavern GS HP Room: Gold Skulltula Token
+    Location - OOT Ice Cavern GS Scythe Room: Gold Skulltula Token
+    Location - OOT Kakariko Anju Cojiro: Swamp Skulltula Token
+    Location - OOT Laboratory GS Crate: Gold Skulltula Token
+    Location - OOT Spirit Temple Adult Silver Rupees: Elegy of Emptiness
+    Location - OOT Temple of Time Medallion: Fire Medallion
+    Location - OOT Water Temple GS Cage: Gold Skulltula Token
+    Location - OOT Water Temple GS River: Gold Skulltula Token
+    Location - OOT Water Temple Longshot: Coin (Red)
+    Location - OOT Water Temple Under Center: Boss Key (Water Temple)
+
+  Sphere 14
+    Event - Beat Phantom Ganon
+    Event - Beat Volvagia
+    Location - MM Gorman Track Grass Pack 1 Grass 01: Swamp Skulltula Token
+    Location - MM Gorman Track Grass Pack 2 Grass 03: Coin (Red)
+    Location - MM Romani Ranch Barn Cow Right Front: Coin (Yellow)
+    Location - MM Stone Tower Temple Entrance Chest: All-Night Mask
+    Location - MM Stone Tower Temple Light Arrow: Soul of the Deku Princess
+    Location - MM Stone Tower Temple Rupee Before Water Bridge 8: Soul of Gomess
+    Location - MM Stone Tower Temple Rupee Wind Room 2: Stray Fairy (Stone Tower Temple)
+    Location - MM Stone Tower Temple Wind Room Jail Chest: Coin (Green)
+    Location - OOT Death Mountain Crater GS Soil: Gold Skulltula Token
+    Location - OOT Fire Temple Boss Key Side Chest: Ocean Skulltula Token
+    Location - OOT Fire Temple GS Hammer Statues: Gold Skulltula Token
+    Location - OOT Jabu-Jabu GS Near Boss: Gold Skulltula Token
+    Location - OOT Spirit Temple Boss: Gyorg's Remains
+
+  Sphere 15
+    Location - MM Stock Pot Inn Grandma HP 1: Stray Fairy (Stone Tower Temple)
+    Location - MM Stock Pot Inn Grandma HP 2: Boomerang
+    Location - OOT Fire Temple Boss: Odolwa's Remains
+    Location - OOT Forest Temple Boss: Light Medallion
+
+  Sphere 16
+    Event - Beat Barinade
+    Event - Beat Odolwa
+
+  Sphere 17
+    Location - MM Deku Shrine Pot 2: Stray Fairy (Great Bay Temple)
+    Location - MM Deku Shrine Rupee End 01: Coin (Yellow)
+    Location - MM Deku Shrine Rupee End 06: Din's Fire
+    Location - MM Deku Shrine Rupee Main 08: Skull Mask
+    Location - MM Deku Shrine Rupee Main 15: Progressive Hookshot
+    Location - MM Deku Shrine Rupee Main 18: Ocean Skulltula Token
+    Location - MM Woodfall Temple Boss: Shadow Medallion
+    Location - OOT Jabu-Jabu Boss: Forest Medallion
+
+  Sphere 18
+    Event - Beat Gyorg
+    Event - Beat Morpha
+    Location - MM Great Bay Cow Grotto Grass 03: Stray Fairy (Stone Tower Temple)
+    Location - MM Great Bay Cow Grotto Grass 19: Gibdo Mask
+    Location - MM Great Bay Cow Grotto Grass 20: Soul of the Goron Baby (MM)
+    Location - MM Great Bay Cow Grotto Grass 25: Song of Storms
+    Location - MM Great Bay Cow Grotto Grass 26: Coin (Red)
+    Location - MM Great Bay Cow Grotto Grass 28: Bunny Hood
+    Location - MM Great Bay Cow Grotto Grass 29: Swamp Skulltula Token
+    Location - MM Great Bay Cow Grotto Grass 38: Sun's Song (OoT)
+    Location - MM Great Bay Cow Grotto Grass 39: Ocean Skulltula Token
+    Location - MM Great Bay Cow Grotto Grass 42: Coin (Blue)
+    Location - MM Great Bay Cow Grotto Grass 55: Coin (Yellow)
+    Location - MM Great Bay Cow Grotto Grass 56: Stray Fairy (Great Bay Temple)
+    Location - MM Great Bay Cow Grotto Grass 58: Swamp Skulltula Token
+    Location - MM Great Bay Great Fairy: Coin (Red)
+    Location - MM Great Bay Temple Green Pipe 2 Lower Chest: Nocturne of Shadow
+    Location - MM Great Bay Temple Rupee Hookshot 1: Stray Fairy (Snowhead Temple)
+    Location - MM Great Bay Temple Rupee Hookshot 2: Shared Light Arrows
+    Location - MM Mountain Village Pot: Stone Mask
+    Location - MM Ocean Skulltula Library Hole Behind Picture: Stray Fairy (Stone Tower Temple)
+    Location - OOT Water Temple GS Center: Gold Skulltula Token
+    Location - OOT Water Temple GS Large Pit: Gold Skulltula Token
+    Location - OOT Water Temple GS Waterfalls: Gold Skulltula Token
+
+  Sphere 19
+    Event - Beat Twinmold
+    Location - MM Goron Baby: Soul of Eyegores
+    Location - MM Great Bay Coast Fisherman HP: Stray Fairy (Great Bay Temple)
+    Location - MM Great Bay Temple Boss: Water Medallion
+    Location - MM Secret Shrine Garo Master Chest: Swamp Skulltula Token
+    Location - MM Stone Tower Inverted Pot 2: Stray Fairy (Woodfall Temple)
+    Location - MM Stone Tower Temple Inverted Boss Key: Ocean Skulltula Token
+    Location - MM Stone Tower Temple Inverted East Middle Chest: Stray Fairy (Woodfall Temple)
+    Location - MM Stone Tower Temple Inverted Entrance Chest: Stray Fairy (Snowhead Temple)
+    Location - MM Stone Tower Temple Inverted Rupee Alcove 2: Stray Fairy (Snowhead Temple)
+    Location - MM Stone Tower Temple Inverted Rupee Dexihand 3: Swamp Skulltula Token
+    Location - OOT Bottom of the Well Blood Chest: Ocean Skulltula Token
+    Location - OOT Bottom of the Well Front West: Chicken
+    Location - OOT Bottom of the Well GS East Cage: Gold Skulltula Token
+    Location - OOT Bottom of the Well GS Inner East: Gold Skulltula Token
+    Location - OOT Bottom of the Well GS Inner West: Gold Skulltula Token
+    Location - OOT Death Mountain Trail GS Above Dodongo: Gold Skulltula Token
+    Location - OOT Death Mountain Trail GS Before Climb: Gold Skulltula Token
+    Location - OOT Death Mountain Trail Grotto: Coin (Yellow)
+    Location - OOT Desert Colossus GS Plateau: Gold Skulltula Token
+    Location - OOT Desert Colossus GS Tree: Gold Skulltula Token
+    Location - OOT Gerudo Fortress GS Target: Gold Skulltula Token
+    Location - OOT Gerudo Fortress GS Wall: Gold Skulltula Token
+    Location - OOT Gerudo Valley GS Pillar: Gold Skulltula Token
+    Location - OOT Gerudo Valley GS Tent: Gold Skulltula Token
+    Location - OOT Gerudo Valley GS Wall: Gold Skulltula Token
+    Location - OOT Graveyard GS Wall: Gold Skulltula Token
+    Location - OOT Hyrule Castle GS Grotto: Gold Skulltula Token
+    Location - OOT Kakariko GS Bazaar: Gold Skulltula Token
+    Location - OOT Kakariko GS House of Skulltula: Gold Skulltula Token
+    Location - OOT Kakariko GS Ladder: Gold Skulltula Token
+    Location - OOT Kakariko GS Roof: Gold Skulltula Token
+    Location - OOT Kakariko GS Shooting Gallery: Gold Skulltula Token
+    Location - OOT Kakariko GS Tree: Gold Skulltula Token
+    Location - OOT Kokiri Forest GS Night Adult: Gold Skulltula Token
+    Location - OOT Kokiri Forest GS Night Child: Gold Skulltula Token
+    Location - OOT Lake Hylia GS Big Tree: Gold Skulltula Token
+    Location - OOT Lake Hylia GS Island: Gold Skulltula Token
+    Location - OOT Lake Hylia GS Lab Wall: Gold Skulltula Token
+    Location - OOT Lon Lon Ranch GS Back Wall: Gold Skulltula Token
+    Location - OOT Lon Lon Ranch GS House: Gold Skulltula Token
+    Location - OOT Lon Lon Ranch GS Rain Shed: Gold Skulltula Token
+    Location - OOT Lost Woods GS Bean Ride: Gold Skulltula Token
+    Location - OOT Sacred Meadow GS Night Adult: Gold Skulltula Token
+    Location - OOT Shadow Temple Boss Key Room 1: Progressive Clock
+    Location - OOT Shadow Temple Compass: Stray Fairy (Woodfall Temple)
+    Location - OOT Shadow Temple GS Invisible Scythe: Gold Skulltula Token
+    Location - OOT Shadow Temple GS Near Boat: Gold Skulltula Token
+    Location - OOT Shadow Temple GS Triple Skull Pot: Gold Skulltula Token
+    Location - OOT Shadow Temple Invisible Spike Room: Boss Key (Shadow Temple)
+    Location - OOT Shadow Temple SR Pit 1: Silver Rupee (Shadow Temple - Large Pits)
+    Location - OOT Shadow Temple SR Pit 2: Silver Rupee (Shadow Temple - Large Pits)
+    Location - OOT Shadow Temple SR Pit 3: Silver Rupee (Shadow Temple - Large Pits)
+    Location - OOT Shadow Temple SR Pit 4: Silver Rupee (Shadow Temple - Large Pits)
+    Location - OOT Shadow Temple SR Pit 5: Silver Rupee (Shadow Temple - Large Pits)
+    Location - OOT Shadow Temple SR Spikes Back Left: Silver Rupee (Shadow Temple - Spikes)
+    Location - OOT Shadow Temple SR Spikes Center: Silver Rupee (Shadow Temple - Spikes)
+    Location - OOT Shadow Temple SR Spikes Front Left: Silver Rupee (Shadow Temple - Spikes)
+    Location - OOT Shadow Temple SR Spikes Midair: Silver Rupee (Shadow Temple - Spikes)
+    Location - OOT Shadow Temple SR Spikes Right: Silver Rupee (Shadow Temple - Spikes)
+    Location - OOT Water Temple Boss: Kokiri's Emerald
+    Location - OOT Zora Domain GS Waterfall: Gold Skulltula Token
+    Location - OOT Zora Fountain GS Upper: Gold Skulltula Token
+    Location - OOT Zora Fountain GS Wall: Gold Skulltula Token
+    Location - OOT Zora River Frogs Game: Broken Goron's Sword
+    Location - OOT Zora River Frogs Storms: Gerudo Mask
+    Location - OOT Zora River GS Ladder: Gold Skulltula Token
+    Location - OOT Zora River GS Near Bridge: Gold Skulltula Token
+    Location - OOT Zora River GS Near Grotto: Gold Skulltula Token
+
+  Sphere 20
+    Event - Beat Bongo-Bongo
+    Location - MM Beneath The Graveyard Pot Dampe 04: Ocean Skulltula Token
+    Location - MM Beneath The Graveyard Pot Dampe 07: Stray Fairy (Great Bay Temple)
+    Location - MM Clock Town Postman Hat: Stray Fairy (Snowhead Temple)
+    Location - MM Curiosity Shop All-Night Mask: Coin (Red)
+    Location - MM Stone Tower Temple Inverted Boss: Zora's Sapphire
+    Location - MM Stone Tower Temple Inverted Rupee Pre-Boss Front 3: Coin (Red)
+    Location - OOT Death Mountain Trail Prescription: Stray Fairy (Woodfall Temple)
+    Location - OOT Lon Lon Ranch Talon Bottle: Owl Statue (Ikana Canyon)
+    Location - OOT Shadow Temple GS Falling Spikes: Gold Skulltula Token
+    Location - OOT Shadow Temple GS Skull Pot: Gold Skulltula Token
+
+  Sphere 21
+    Location - MM Beneath The Well Cow: Odd Potion
+    Location - OOT Shadow Temple Boss: Goht's Remains
+
+  Sphere 22
+    Location - OOT Lost Woods Poacher's Saw: Coin (Yellow)
+
+  Sphere 23
+    Event - Moon Access
+
+  Sphere 24
+    Event - Beat Majora
+
+===========================================================================
+Location List (1974)
+  Kokiri Forest (15):
+    OOT Kokiri Forest Cow: Lon Lon Milk (OoT)
+    OOT Kokiri Forest Kokiri Sword Chest: Romani Milk
+    OOT Kokiri Shop Item 1: Recovery Heart (OoT)
+    OOT Kokiri Shop Item 2: 10 Arrows
+    OOT Kokiri Shop Item 3: 5 Arrows
+    OOT Kokiri Shop Item 4: 30 Deku Seeds
+    OOT Kokiri Shop Item 5: 5 Deku Nuts
+    OOT Kokiri Shop Item 6: 10 Deku Nuts
+    OOT Kokiri Shop Item 7: Deku Stick
+    OOT Kokiri Shop Item 8: Deku Shield (OoT)
+    OOT Mido's House Top Left: Green Rupee
+    OOT Mido's House Top Right: Mountain Title Deed
+    OOT Mido's House Bottom Left: Green Rupee
+    OOT Mido's House Bottom Right: Green Rupee
+    OOT Kokiri Forest Storms Grotto: Green Rupee
+
+  Hyrule Field (8):
+    OOT Hyrule Field Ocarina of Time: Green Rupee
+    OOT Hyrule Field Song of Time: Recovery Heart (MM)
+    OOT Hyrule Field Grotto Scrub HP: Green Rupee
+    OOT Hyrule Field Grotto Open: Swamp Skulltula Token
+    OOT Hyrule Field Grotto Southeast: Stray Fairy (Great Bay Temple)
+    OOT Hyrule Field Grotto Market: Stray Fairy (Snowhead Temple)
+    OOT Hyrule Field Grotto Tektite HP: Green Rupee
+    OOT Hyrule Field Cow: Lon Lon Milk (OoT)
+
+  Market (41):
+    OOT Market Bazaar Item 1: 5 Arrows (OoT)
+    OOT Market Bazaar Item 2: 10 Arrows
+    OOT Market Bazaar Item 3: 5 Arrows
+    OOT Market Bazaar Item 4: Deku Stick
+    OOT Market Bazaar Item 5: 5 Bombs
+    OOT Market Bazaar Item 6: Recovery Heart (OoT)
+    OOT Market Bazaar Item 7: 5 Deku Nuts
+    OOT Market Bazaar Item 8: Hylian/Hero Shield
+    OOT Market Potion Shop Item 1: Fish (OoT)
+    OOT Market Potion Shop Item 2: Bugs (OoT)
+    OOT Market Potion Shop Item 3: Poe (OoT)
+    OOT Market Potion Shop Item 4: 5 Deku Nuts
+    OOT Market Potion Shop Item 5: Blue Fire
+    OOT Market Potion Shop Item 6: Fairy (OoT)
+    OOT Market Potion Shop Item 7: Green Potion (OoT)
+    OOT Market Potion Shop Item 8: Red Potion (OoT)
+    OOT Market Bombchu Shop Item 1: 20 Bombchu
+    OOT Market Bombchu Shop Item 2: 20 Bombchu
+    OOT Market Bombchu Shop Item 3: 20 Bombchu
+    OOT Market Bombchu Shop Item 4: 20 Bombchu
+    OOT Market Bombchu Shop Item 5: 10 Bombchu
+    OOT Market Bombchu Shop Item 6: 10 Bombchu
+    OOT Market Bombchu Shop Item 7: 10 Bombchu
+    OOT Market Bombchu Shop Item 8: 10 Bombchu
+    OOT Market Pot House Big Poes: Soul of the Patrolling Pirates and their Chief
+    OOT Market Dog Lady HP: Piece of Heart (MM)
+    OOT Bombchu Bowling Reward 1: Green Rupee
+    OOT Bombchu Bowling Reward 2: Swamp Skulltula Token
+    OOT Shooting Gallery Child: Blue Rupee
+    OOT Treasure Chest Game Buy Key: Small Key (Chest Game)
+    OOT Treasure Chest Game Room 1 Chest Left: Small Key (Chest Game)
+    OOT Treasure Chest Game Room 1 Chest Right: Green Rupee
+    OOT Treasure Chest Game Room 2 Chest Left: Small Key (Chest Game)
+    OOT Treasure Chest Game Room 2 Chest Right: Green Rupee
+    OOT Treasure Chest Game Room 3 Chest Left: Small Key (Chest Game)
+    OOT Treasure Chest Game Room 3 Chest Right: Blue Rupee
+    OOT Treasure Chest Game Room 4 Chest Left: Small Key (Chest Game)
+    OOT Treasure Chest Game Room 4 Chest Right: Blue Rupee
+    OOT Treasure Chest Game Room 5 Chest Left: Small Key (Chest Game)
+    OOT Treasure Chest Game Room 5 Chest Right: Red Rupee
+    OOT Treasure Chest Game HP: Soul of Kafei
+
+  Lon Lon Ranch (11):
+    OOT Lon Lon Ranch Malon Song: Green Rupee
+    OOT Lon Lon Ranch Stables Cow Left: Lon Lon Milk (OoT)
+    OOT Lon Lon Ranch Stables Cow Right: Lon Lon Milk (OoT)
+    OOT Lon Lon Ranch Silo HP: Swamp Skulltula Token
+    OOT Lon Lon Ranch Silo Cow Front: Lon Lon Milk (OoT)
+    OOT Lon Lon Ranch Silo Cow Back: Lon Lon Milk (OoT)
+    OOT Lon Lon Ranch Talon Bottle: Owl Statue (Ikana Canyon)
+    OOT Lon Lon Ranch Talon Buy Milk: Lon Lon Milk (OoT)
+    OOT Lon Lon Ranch Grotto Left Scrub: 5 Deku Nuts
+    OOT Lon Lon Ranch Grotto Center Scrub: 30 Deku Seeds
+    OOT Lon Lon Ranch Grotto Right Scrub: 5 Bombs
+
+  Hyrule Castle (4):
+    OOT Malon Egg: Green Rupee
+    OOT Zelda's Letter: Green Rupee
+    OOT Zelda's Song: Green Rupee
+    OOT Great Fairy Din's Fire: Green Rupee
+
+  Outside Ganon's Castle (1):
+    OOT Great Fairy Defense Upgrade: Red Rupee
+
+  Lost Woods (14):
+    OOT Lost Woods Target: Piece of Heart (OoT)
+    OOT Lost Woods Skull Kid: 30 Arrows
+    OOT Lost Woods Memory Game: Green Rupee
+    OOT Lost Woods Scrub Sticks Upgrade: Green Rupee
+    OOT Lost Woods Odd Mushroom: Red Rupee
+    OOT Lost Woods Poacher's Saw: Coin (Yellow)
+    OOT Lost Woods Grotto Generic: Red Rupee
+    OOT Lost Woods Gift from Saria: 5 Arrows
+    OOT Lost Woods Scrub Near Theater Left: Deku Stick
+    OOT Lost Woods Scrub Near Theater Right: 5 Deku Nuts
+    OOT Deku Theater Sticks Upgrade: Green Rupee
+    OOT Deku Theater Nuts Upgrade: Coin (Green)
+    OOT Lost Woods Grotto Scrub Nuts Upgrade: Green Rupee
+    OOT Lost Woods Grotto Scrub Back: 30 Deku Seeds
+
+  Sacred Forest Meadow (5):
+    OOT Sacred Meadow Grotto: Green Rupee
+    OOT Saria's Song: Green Rupee
+    OOT Sacred Meadow Sheik Song: Green Rupee
+    OOT Sacred Meadow Storms Grotto Front Scrub: Green Potion (OoT)
+    OOT Sacred Meadow Storms Grotto Back Scrub: Red Potion (OoT)
+
+  Kakariko (35):
+    OOT Kakariko Anju Bottle: Green Rupee
+    OOT Kakariko Anju Egg: Green Rupee
+    OOT Kakariko Anju Cojiro: Swamp Skulltula Token
+    OOT Kakariko Song Shadow: Green Rupee
+    OOT Kakariko Man on Roof: Piece of Heart (OoT)
+    OOT Kakariko Bazaar Item 1: 5 Arrows (OoT)
+    OOT Kakariko Bazaar Item 2: 10 Arrows
+    OOT Kakariko Bazaar Item 3: 5 Arrows
+    OOT Kakariko Bazaar Item 4: Deku Stick
+    OOT Kakariko Bazaar Item 5: 5 Bombs
+    OOT Kakariko Bazaar Item 6: Recovery Heart (OoT)
+    OOT Kakariko Bazaar Item 7: 5 Deku Nuts
+    OOT Kakariko Bazaar Item 8: Hylian/Hero Shield
+    OOT Kakariko Potion Shop Item 1: Fish (OoT)
+    OOT Kakariko Potion Shop Item 2: Bugs (OoT)
+    OOT Kakariko Potion Shop Item 3: Poe (OoT)
+    OOT Kakariko Potion Shop Item 4: 5 Deku Nuts
+    OOT Kakariko Potion Shop Item 5: Blue Fire
+    OOT Kakariko Potion Shop Item 6: Fairy (OoT)
+    OOT Kakariko Potion Shop Item 7: Green Potion (OoT)
+    OOT Kakariko Potion Shop Item 8: Red Potion (OoT)
+    OOT Kakariko Potion Shop Odd Potion: Piece of Heart (OoT)
+    OOT Kakariko Potion Shop Buy Blue Potion: Blue Potion (OoT)
+    OOT Shooting Gallery Adult: 10 Bombchu
+    OOT Kakariko Cow: Lon Lon Milk (OoT)
+    OOT Kakariko Impa House HP: Green Rupee
+    OOT Windmill HP: Green Rupee
+    OOT Windmill Song of Storms: Ice Trap
+    OOT Skulltula House 10 Tokens: Piece of Heart (OoT)
+    OOT Skulltula House 20 Tokens: Bombers' Notebook
+    OOT Skulltula House 30 Tokens: Piece of Heart (MM)
+    OOT Skulltula House 40 Tokens: Red Rupee
+    OOT Skulltula House 50 Tokens: Blue Rupee
+    OOT Kakariko Grotto Front: Prescription
+    OOT Kakariko Grotto Back: Green Rupee
+
+  Graveyard (8):
+    OOT Graveyard Dampe Game: Green Rupee
+    OOT Graveyard Crate HP: Green Rupee
+    OOT Graveyard Royal Tomb Song: Fairy Slingshot
+    OOT Graveyard Royal Tomb Chest: Progressive Sword
+    OOT Graveyard Fairy Tomb: Stray Fairy (Snowhead Temple)
+    OOT Graveyard ReDead Tomb: Soul of Keese (MM)
+    OOT Graveyard Dampe Tomb Reward 1: Green Rupee
+    OOT Graveyard Dampe Tomb Reward 2: Blue Rupee
+
+  Death Mountain Trail (8):
+    OOT Death Mountain Trail Chest: Stray Fairy (Great Bay Temple)
+    OOT Death Mountain Trail HP: Green Rupee
+    OOT Death Mountain Trail Prescription: Stray Fairy (Woodfall Temple)
+    OOT Death Mountain Trail Claim Check: Green Rupee
+    OOT Death Mountain Trail Biggoron Sword: Shared Magic Upgrade
+    OOT Death Mountain Trail Grotto: Coin (Yellow)
+    OOT Death Mountain Trail Cow: Lon Lon Milk (OoT)
+    OOT Great Fairy Magic Upgrade: Ice Trap
+
+  Goron City (19):
+    OOT Goron City Maze Center 1: Green Rupee
+    OOT Goron City Maze Center 2: Green Rupee
+    OOT Goron City Maze Left: Stray Fairy (Snowhead Temple)
+    OOT Goron City Big Pot HP: Green Rupee
+    OOT Goron City Tunic: Soul of Anju's Grandmother (MM)
+    OOT Goron City Bomb Bag: Soul of Deku Scrubs (MM)
+    OOT Goron City Medigoron Giant Knife: 10 Bombs
+    OOT Darunia: Purple Rupee
+    OOT Goron Shop Item 1: Recovery Heart (OoT)
+    OOT Goron Shop Item 2: Recovery Heart (OoT)
+    OOT Goron Shop Item 3: Red Potion (OoT)
+    OOT Goron Shop Item 4: Goron Tunic
+    OOT Goron Shop Item 5: 5 Bombs
+    OOT Goron Shop Item 6: 10 Bombs
+    OOT Goron Shop Item 7: 20 Bombs
+    OOT Goron Shop Item 8: 30 Bombs
+    OOT Goron City Grotto Left Scrub: 5 Deku Nuts
+    OOT Goron City Grotto Center Scrub: 30 Deku Seeds
+    OOT Goron City Grotto Right Scrub: 5 Bombs
+
+  Zora's River (13):
+    OOT Zora River Bean Seller: Red Rupee
+    OOT Zora River HP Pillar: Red Rupee
+    OOT Zora River HP Platform: Green Rupee
+    OOT Zora River Frogs Storms: Gerudo Mask
+    OOT Zora River Frogs Zeldas Lullaby: Purple Rupee
+    OOT Zora River Frogs Eponas Song: Purple Rupee
+    OOT Zora River Frogs Sarias Song: Purple Rupee
+    OOT Zora River Frogs Suns Song: Purple Rupee
+    OOT Zora River Frogs Song of Time: Purple Rupee
+    OOT Zora River Frogs Game: Broken Goron's Sword
+    OOT Zora River Storms Grotto Front Scrub: Green Potion (OoT)
+    OOT Zora River Storms Grotto Back Scrub: Red Potion (OoT)
+    OOT Zora River Grotto: Green Rupee
+
+  Zora's Domain (12):
+    OOT Zora Domain Waterfall Chest: Green Rupee
+    OOT Zora Domain Diving Game: Ice Trap
+    OOT Zora Domain Tunic: Small Key (Snowhead Temple)
+    OOT Zora Domain Eyeball Frog: Romani Milk
+    OOT Zora Shop Item 1: Red Potion (OoT)
+    OOT Zora Shop Item 2: 5 Arrows
+    OOT Zora Shop Item 3: Fish (OoT)
+    OOT Zora Shop Item 4: 5 Deku Nuts
+    OOT Zora Shop Item 5: 5 Arrows (OoT)
+    OOT Zora Shop Item 6: 10 Arrows
+    OOT Zora Shop Item 7: Zora Tunic
+    OOT Zora Shop Item 8: Recovery Heart (OoT)
+
+  Lake Hylia (10):
+    OOT Lake Hylia Underwater Bottle: Piece of Heart (OoT)
+    OOT Lake Hylia Fire Arrow: Green Rupee
+    OOT Lake Hylia HP: Red Rupee
+    OOT Laboratory Dive: Soul of Stalchildren (MM)
+    OOT Laboratory Eye Drops: Blue Rupee
+    OOT Fishing Pond Child: Green Rupee
+    OOT Fishing Pond Adult: Moon's Tear
+    OOT Lake Hylia Grotto Left Scrub: 5 Deku Nuts
+    OOT Lake Hylia Grotto Center Scrub: 30 Deku Seeds
+    OOT Lake Hylia Grotto Right Scrub: 5 Bombs
+
+  Zora's Fountain (3):
+    OOT Zora Fountain Iceberg HP: Deku Stick
+    OOT Zora Fountain Bottom HP: Piece of Heart (MM)
+    OOT Great Fairy Farore's Wind: Green Rupee
+
+  Temple of Time (3):
+    OOT Temple of Time Master Sword: Piece of Heart (MM)
+    OOT Temple of Time Sheik Song: Green Rupee
+    OOT Temple of Time Light Arrows: Silver Rupee
+
+  Sacred Realm (1):
+    OOT Temple of Time Medallion: Fire Medallion
+
+  Death Mountain Crater (9):
+    OOT Death Mountain Crater Alcove HP: Recovery Heart (MM)
+    OOT Death Mountain Crater Scrub Child: 5 Bombs
+    OOT Death Mountain Crater Volcano HP: Blue Rupee
+    OOT Death Mountain Crater Sheik Song: Green Rupee
+    OOT Death Mountain Crater Grotto: Green Rupee
+    OOT Death Mountain Crater Grotto Left Scrub: 5 Deku Nuts
+    OOT Death Mountain Crater Grotto Center Scrub: 30 Deku Seeds
+    OOT Death Mountain Crater Grotto Right Scrub: 5 Bombs
+    OOT Great Fairy Magic Upgrade 2: Green Rupee
+
+  Gerudo Valley (7):
+    OOT Gerudo Valley Crate HP: Stray Fairy (Snowhead Temple)
+    OOT Gerudo Valley Waterfall HP: Red Potion (MM)
+    OOT Gerudo Valley Cow: Lon Lon Milk (OoT)
+    OOT Gerudo Valley Chest: Green Rupee
+    OOT Gerudo Valley Broken Goron Sword: Ice Trap
+    OOT Gerudo Valley Grotto Front Scrub: Green Potion (OoT)
+    OOT Gerudo Valley Grotto Back Scrub: Red Potion (OoT)
+
+  Gerudo's Fortress (3):
+    OOT Gerudo Fortress Archery Reward 1: Heart Container (OoT)
+    OOT Gerudo Fortress Archery Reward 2: Large Magic Jar
+    OOT Gerudo Fortress Chest: Green Rupee
+
+  Haunted Wasteland (2):
+    OOT Haunted Wasteland Carpet Merchant: 20 Bombchu
+    OOT Haunted Wasteland Chest: Green Potion (MM)
+
+  Desert Colossus (5):
+    OOT Desert Colossus HP: Piece of Heart (OoT)
+    OOT Desert Colossus Song Spirit: Green Rupee
+    OOT Great Fairy Nayru's Love: Green Rupee
+    OOT Desert Colossus Grotto Front Scrub: Green Potion (OoT)
+    OOT Desert Colossus Grotto Back Scrub: Red Potion (OoT)
+
+  Deku Tree (8):
+    OOT Deku Tree Boss Container: Compass (Deku Tree)
+    OOT Deku Tree Boss: Goron's Ruby
+    OOT Deku Tree Map Chest: Green Rupee
+    OOT Deku Tree Compass Chest: Green Rupee
+    OOT Deku Tree Compass Room Side Chest: Soul of Flying Pots (MM)
+    OOT Deku Tree Slingshot Chest: Green Rupee
+    OOT Deku Tree Slingshot Side Chest: Map (Deku Tree)
+    OOT Deku Tree Basement Chest: Silver Rupee
+
+  Dodongo's Cavern (12):
+    OOT Dodongo Cavern Boss Chest: Fairy (MM)
+    OOT Dodongo Cavern Boss Container: Compass (Dodongo's Cavern)
+    OOT Dodongo Cavern Boss: Twinmold's Remains
+    OOT Dodongo Cavern Map Chest: Coin (Green)
+    OOT Dodongo Cavern Lobby Scrub: Deku Shield (OoT)
+    OOT Dodongo Cavern Green Side Room Scrub: Deku Stick
+    OOT Dodongo Cavern Compass Chest: Silver Rupee
+    OOT Dodongo Cavern Bomb Bag Side Chest: Green Rupee
+    OOT Dodongo Cavern Bomb Bag Side Room Left Scrub: 5 Deku Nuts
+    OOT Dodongo Cavern Bomb Bag Side Room Right Scrub: 30 Deku Seeds
+    OOT Dodongo Cavern Bomb Bag Chest: Map (Dodongo's Cavern)
+    OOT Dodongo Cavern Bridge Chest: Heart Container (OoT)
+
+  Jabu-Jabu's Belly (6):
+    OOT Jabu-Jabu Boss Container: Map (Jabu-Jabu's Belly)
+    OOT Jabu-Jabu Boss: Forest Medallion
+    OOT Jabu-Jabu Scrub: 5 Deku Nuts
+    OOT Jabu-Jabu Boomerang Chest: Green Rupee
+    OOT Jabu-Jabu Map Chest: Red Rupee
+    OOT Jabu-Jabu Compass Chest: Compass (Jabu-Jabu's Belly)
+
+  Forest Temple (15):
+    OOT Forest Temple Boss: Light Medallion
+    OOT Forest Temple Boss Container: Red Rupee
+    OOT Forest Temple Tree Small Key: Blue Rupee
+    OOT Forest Temple Mini-Boss Key: Small Key (Forest Temple)
+    OOT Forest Temple Floormaster: Boss Key (Forest Temple)
+    OOT Forest Temple Map: Red Rupee
+    OOT Forest Temple Garden: Green Rupee
+    OOT Forest Temple Well: Piece of Heart (MM)
+    OOT Forest Temple Maze: Map (Forest Temple)
+    OOT Forest Temple Boss Key: Small Key (Forest Temple)
+    OOT Forest Temple Poe Key: Small Key (Forest Temple)
+    OOT Forest Temple Bow: Small Key (Forest Temple)
+    OOT Forest Temple Compass: Small Key (Forest Temple)
+    OOT Forest Temple Checkerboard: Large Magic Jar
+    OOT Forest Temple Antichamber: Compass (Forest Temple)
+
+  Fire Temple (16):
+    OOT Fire Temple Boss Container: Map (Fire Temple)
+    OOT Fire Temple Boss: Odolwa's Remains
+    OOT Fire Temple Jail 1 Chest: Coin (Blue)
+    OOT Fire Temple Boss Key Side Chest: Ocean Skulltula Token
+    OOT Fire Temple Boss Key Chest: Small Key (Fire Temple)
+    OOT Fire Temple Lava Room North Jail Chest: Small Key (Fire Temple)
+    OOT Fire Temple Lava Room South Jail Chest: Small Key (Fire Temple)
+    OOT Fire Temple Maze Chest: Green Rupee
+    OOT Fire Temple Maze Jail Chest: Small Key (Fire Temple)
+    OOT Fire Temple Map: Green Rupee
+    OOT Fire Temple Above Maze Chest: Compass (Fire Temple)
+    OOT Fire Temple Below Maze Chest: Small Key (Fire Temple)
+    OOT Fire Temple Scarecrow Chest: Boss Key (Fire Temple)
+    OOT Fire Temple Compass: Small Key (Fire Temple)
+    OOT Fire Temple Ring Jail: Small Key (Fire Temple)
+    OOT Fire Temple Hammer: Blue Rupee
+
+  Water Temple (12):
+    OOT Water Temple Boss HC: Blue Rupee
+    OOT Water Temple Boss: Kokiri's Emerald
+    OOT Water Temple Bombable Chest: Map (Water Temple)
+    OOT Water Temple Map: Small Key (Water Temple)
+    OOT Water Temple Shell Chest: Green Rupee
+    OOT Water Temple Under Center: Boss Key (Water Temple)
+    OOT Water Temple Compass: Small Key (Water Temple)
+    OOT Water Temple Dragon Chest: Small Key (Water Temple)
+    OOT Water Temple Corridor Chest: Small Key (Water Temple)
+    OOT Water Temple Boss Key Chest: Small Key (Water Temple)
+    OOT Water Temple Longshot: Coin (Red)
+    OOT Water Temple River Chest: Compass (Water Temple)
+
+  Spirit Temple (36):
+    OOT Spirit Temple Boss HC: Red Rupee
+    OOT Spirit Temple Boss: Gyorg's Remains
+    OOT Spirit Temple Child First Chest: Recovery Heart (MM)
+    OOT Spirit Temple Child Second Chest: Small Key (Spirit Temple)
+    OOT Spirit Temple SR Child 1: Silver Rupee (Spirit Temple - Child)
+    OOT Spirit Temple SR Child 2: Silver Rupee (Spirit Temple - Child)
+    OOT Spirit Temple SR Child 3: Silver Rupee (Spirit Temple - Child)
+    OOT Spirit Temple SR Child 4: Silver Rupee (Spirit Temple - Child)
+    OOT Spirit Temple SR Child 5: Silver Rupee (Spirit Temple - Child)
+    OOT Spirit Temple Child Climb 1: Small Key (Spirit Temple)
+    OOT Spirit Temple Child Climb 2: Green Rupee
+    OOT Spirit Temple Sun Block Room Torches: Green Rupee
+    OOT Spirit Temple SR Sun 1: Silver Rupee (Spirit Temple - Sun Block)
+    OOT Spirit Temple SR Sun 2: Silver Rupee (Spirit Temple - Sun Block)
+    OOT Spirit Temple SR Sun 3: Silver Rupee (Spirit Temple - Sun Block)
+    OOT Spirit Temple SR Sun 4: Silver Rupee (Spirit Temple - Sun Block)
+    OOT Spirit Temple SR Sun 5: Silver Rupee (Spirit Temple - Sun Block)
+    OOT Spirit Temple Silver Gauntlets: Piece of Heart (MM)
+    OOT Spirit Temple Adult Lullaby: Compass (Spirit Temple)
+    OOT Spirit Temple Adult Silver Rupees: Elegy of Emptiness
+    OOT Spirit Temple SR Boulders 1: Silver Rupee (Spirit Temple - Boulders)
+    OOT Spirit Temple SR Boulders 2: Silver Rupee (Spirit Temple - Boulders)
+    OOT Spirit Temple SR Boulders 3: Silver Rupee (Spirit Temple - Boulders)
+    OOT Spirit Temple SR Boulders 4: Silver Rupee (Spirit Temple - Boulders)
+    OOT Spirit Temple SR Boulders 5: Silver Rupee (Spirit Temple - Boulders)
+    OOT Spirit Temple Adult Suns on Wall 1: Ocean Skulltula Token
+    OOT Spirit Temple Adult Suns on Wall 2: Boss Key (Spirit Temple)
+    OOT Spirit Temple Statue Base: 5 Arrows
+    OOT Spirit Temple Statue Hands: Stray Fairy (Stone Tower Temple)
+    OOT Spirit Temple Statue Upper Right: Green Rupee
+    OOT Spirit Temple Adult Late Sun on Wall: Small Key (Spirit Temple)
+    OOT Spirit Temple Adult Invisible 1: Small Key (Spirit Temple)
+    OOT Spirit Temple Adult Invisible 2: Large Magic Jar
+    OOT Spirit Temple Mirror Shield: Map (Spirit Temple)
+    OOT Spirit Temple Adult Boss Key Chest: Small Key (Spirit Temple)
+    OOT Spirit Temple Adult Topmost Sun on Wall: Farore's Wind
+
+  Shadow Temple (34):
+    OOT Shadow Temple Boss HC: Ice Trap
+    OOT Shadow Temple Boss: Goht's Remains
+    OOT Shadow Temple Map: Small Key (Shadow Temple)
+    OOT Shadow Temple Hover Boots: Small Key (Shadow Temple)
+    OOT Shadow Temple Compass: Stray Fairy (Woodfall Temple)
+    OOT Shadow Temple SR Scythe 1: Silver Rupee (Shadow Temple - Scythe)
+    OOT Shadow Temple SR Scythe 2: Silver Rupee (Shadow Temple - Scythe)
+    OOT Shadow Temple SR Scythe 3: Silver Rupee (Shadow Temple - Scythe)
+    OOT Shadow Temple SR Scythe 4: Silver Rupee (Shadow Temple - Scythe)
+    OOT Shadow Temple SR Scythe 5: Silver Rupee (Shadow Temple - Scythe)
+    OOT Shadow Temple Silver Rupees: Small Key (Shadow Temple)
+    OOT Shadow Temple Spinning Blades Visible: 5 Bombs
+    OOT Shadow Temple Spinning Blades Invisible: Hylian/Hero Shield
+    OOT Shadow Temple SR Pit 1: Silver Rupee (Shadow Temple - Large Pits)
+    OOT Shadow Temple SR Pit 2: Silver Rupee (Shadow Temple - Large Pits)
+    OOT Shadow Temple SR Pit 3: Silver Rupee (Shadow Temple - Large Pits)
+    OOT Shadow Temple SR Pit 4: Silver Rupee (Shadow Temple - Large Pits)
+    OOT Shadow Temple SR Pit 5: Silver Rupee (Shadow Temple - Large Pits)
+    OOT Shadow Temple Falling Spikes Lower: Ice Trap
+    OOT Shadow Temple Falling Spikes Upper 1: Blue Rupee
+    OOT Shadow Temple Falling Spikes Upper 2: Small Key (Shadow Temple)
+    OOT Shadow Temple SR Spikes Back Left: Silver Rupee (Shadow Temple - Spikes)
+    OOT Shadow Temple SR Spikes Right: Silver Rupee (Shadow Temple - Spikes)
+    OOT Shadow Temple SR Spikes Center: Silver Rupee (Shadow Temple - Spikes)
+    OOT Shadow Temple SR Spikes Front Left: Silver Rupee (Shadow Temple - Spikes)
+    OOT Shadow Temple SR Spikes Midair: Silver Rupee (Shadow Temple - Spikes)
+    OOT Shadow Temple Invisible Spike Room: Boss Key (Shadow Temple)
+    OOT Shadow Temple Skull: Green Rupee
+    OOT Shadow Temple Wind Room Hint: Map (Shadow Temple)
+    OOT Shadow Temple After Wind: Recovery Heart (OoT)
+    OOT Shadow Temple After Wind Invisible: Compass (Shadow Temple)
+    OOT Shadow Temple Boss Key Room 1: Progressive Clock
+    OOT Shadow Temple Boss Key Room 2: Small Key (Shadow Temple)
+    OOT Shadow Temple Invisible Floormaster: Green Rupee
+
+  Bottom of the Well (19):
+    OOT Bottom of the Well Coffin: Compass (Bottom of the Well)
+    OOT Bottom of the Well Compass: Map (Bottom of the Well)
+    OOT Bottom of the Well Under Debris: Red Rupee
+    OOT Bottom of the Well Back West: Piece of Heart (MM)
+    OOT Bottom of the Well East: Blue Rupee
+    OOT Bottom of the Well Front West: Chicken
+    OOT Bottom of the Well Underwater: Small Key (Bottom of the Well)
+    OOT Bottom of the Well East Cage: Piece of Heart (MM)
+    OOT Bottom of the Well Blood Chest: Ocean Skulltula Token
+    OOT Bottom of the Well Underwater 2: Green Rupee
+    OOT Bottom of the Well Map: Small Key (Bottom of the Well)
+    OOT Bottom of the Well Pits: Small Key (Bottom of the Well)
+    OOT Bottom of the Well Lens: Deku Shield (OoT)
+    OOT Bottom of the Well Lens Side Chest: Green Rupee
+    OOT Bottom of the Well SR 1: Silver Rupee (Bottom of the Well)
+    OOT Bottom of the Well SR 2: Silver Rupee (Bottom of the Well)
+    OOT Bottom of the Well SR 3: Silver Rupee (Bottom of the Well)
+    OOT Bottom of the Well SR 4: Silver Rupee (Bottom of the Well)
+    OOT Bottom of the Well SR 5: Silver Rupee (Bottom of the Well)
+
+  Ice Cavern (15):
+    OOT Ice Cavern SR Scythe Left: Silver Rupee (Ice Cavern - Scythe)
+    OOT Ice Cavern SR Scythe Center Left: Silver Rupee (Ice Cavern - Scythe)
+    OOT Ice Cavern SR Scythe Back: Silver Rupee (Ice Cavern - Scythe)
+    OOT Ice Cavern SR Scythe Center Right: Silver Rupee (Ice Cavern - Scythe)
+    OOT Ice Cavern SR Scythe Midair: Silver Rupee (Ice Cavern - Scythe)
+    OOT Ice Cavern Compass: Blue Rupee
+    OOT Ice Cavern HP: Map (Ice Cavern)
+    OOT Ice Cavern Map: Romani Milk
+    OOT Ice Cavern SR Blocks Back Left: Silver Rupee (Ice Cavern - Block)
+    OOT Ice Cavern SR Blocks Back Right: Silver Rupee (Ice Cavern - Block)
+    OOT Ice Cavern SR Blocks Center: Silver Rupee (Ice Cavern - Block)
+    OOT Ice Cavern SR Blocks Alcove: Silver Rupee (Ice Cavern - Block)
+    OOT Ice Cavern SR Blocks Front Left: Silver Rupee (Ice Cavern - Block)
+    OOT Ice Cavern Iron Boots: Green Rupee
+    OOT Ice Cavern Sheik Song: Compass (Ice Cavern)
+
+  Thieves' Hideout (5):
+    OOT Gerudo Fortress Jail 1: Sonata of Awakening
+    OOT Gerudo Member Card: Small Key (Gerudo's Fortress)
+    OOT Gerudo Fortress Jail 2: Small Key (Gerudo's Fortress)
+    OOT Gerudo Fortress Jail 4: Small Key (Gerudo's Fortress)
+    OOT Gerudo Fortress Jail 3: Small Key (Gerudo's Fortress)
+
+  Gerudo's Training Ground (37):
+    OOT Gerudo Training Grounds Entrance 1: Small Key (Gerudo's Training Ground)
+    OOT Gerudo Training Grounds Entrance 2: Recovery Heart (OoT)
+    OOT Gerudo Training Grounds Stalfos: 30 Arrows
+    OOT Gerudo Training Grounds SR Slope Front Right: Silver Rupee (Gerudo Training Ground - Slopes)
+    OOT Gerudo Training Grounds SR Slope Front Left: Silver Rupee (Gerudo Training Ground - Slopes)
+    OOT Gerudo Training Grounds SR Slope Front Above: Silver Rupee (Gerudo Training Ground - Slopes)
+    OOT Gerudo Training Grounds SR Slope Center: Silver Rupee (Gerudo Training Ground - Slopes)
+    OOT Gerudo Training Grounds SR Slope Back: Silver Rupee (Gerudo Training Ground - Slopes)
+    OOT Gerudo Training Grounds Near Block: Piece of Heart (OoT)
+    OOT Gerudo Training Grounds Behind Block Invisible: Small Key (Gerudo's Training Ground)
+    OOT Gerudo Training Grounds Behind Block Visible: Small Key (Gerudo's Training Ground)
+    OOT Gerudo Training Grounds Behind Block Enemy Back: Ice Trap
+    OOT Gerudo Training Grounds Behind Block Enemy Front: Small Key (Gerudo's Training Ground)
+    OOT Gerudo Training Maze Upper Cage: Small Key (Gerudo's Training Ground)
+    OOT Gerudo Training Grounds Lizalfos: Bremen Mask
+    OOT Gerudo Training Grounds SR Lava Front Left: Silver Rupee (Gerudo Training Ground - Lava)
+    OOT Gerudo Training Grounds SR Lava Front Right: Silver Rupee (Gerudo Training Ground - Lava)
+    OOT Gerudo Training Grounds SR Lava Back Left: Silver Rupee (Gerudo Training Ground - Lava)
+    OOT Gerudo Training Grounds SR Lava Back Center: Silver Rupee (Gerudo Training Ground - Lava)
+    OOT Gerudo Training Grounds SR Lava Back Right: Silver Rupee (Gerudo Training Ground - Lava)
+    OOT Gerudo Training Freestanding Key: World Map of Woodfall
+    OOT Gerudo Training Maze Side Chest 1: Soul of Ghost Hut Owner (MM)
+    OOT Gerudo Training Maze Side Chest 2: Deku Shield (OoT)
+    OOT Gerudo Training Water: Large Magic Jar
+    OOT Gerudo Training Grounds SR Water 1: Silver Rupee (Gerudo Training Ground - Water)
+    OOT Gerudo Training Grounds SR Water 2: Silver Rupee (Gerudo Training Ground - Water)
+    OOT Gerudo Training Grounds SR Water 3: Silver Rupee (Gerudo Training Ground - Water)
+    OOT Gerudo Training Grounds SR Water 4: Silver Rupee (Gerudo Training Ground - Water)
+    OOT Gerudo Training Grounds SR Water 5: Silver Rupee (Gerudo Training Ground - Water)
+    OOT Gerudo Training Grounds Hammer Room Switch: Small Key (Gerudo's Training Ground)
+    OOT Gerudo Training Grounds Hammer Room: Chateau Romani Refill (MM)
+    OOT Gerudo Training Grounds Eye Statue: Zelda's Letter
+    OOT Gerudo Training Maze Upper Fake Ceiling: Romani Milk
+    OOT Gerudo Training Maze Chest 1: Small Key (Gerudo's Training Ground)
+    OOT Gerudo Training Maze Chest 2: Small Key (Gerudo's Training Ground)
+    OOT Gerudo Training Maze Chest 3: Large Magic Jar
+    OOT Gerudo Training Maze Chest 4: Small Key (Gerudo's Training Ground)
+
+  Ganon's Castle (40):
+    OOT Ganon Castle Leftmost Scrub: Green Potion (OoT)
+    OOT Ganon Castle Left-Center Scrub: 5 Bombs
+    OOT Ganon Castle Right-Center Scrub: 10 Arrows
+    OOT Ganon Castle Rightmost Scrub: Red Potion (OoT)
+    OOT Ganon Castle Light Chest Around 1: Owl Statue (Milk Road)
+    OOT Ganon Castle Light Chest Around 2: Piece of Heart (OoT)
+    OOT Ganon Castle Light Chest Around 3: Green Rupee
+    OOT Ganon Castle Light Chest Around 4: Small Magic Jar
+    OOT Ganon Castle Light Chest Around 5: Small Key (Ganon's Castle)
+    OOT Ganon Castle Light Chest Around 6: Small Key (Ganon's Castle)
+    OOT Ganon Castle Light Chest Center: Green Rupee
+    OOT Ganon Castle Light Chest Lullaby: Green Rupee
+    OOT Ganon Castle SR Light Alcove Right: Silver Rupee (Ganon's Castle - Light Trial)
+    OOT Ganon Castle SR Light Alcove Left: Silver Rupee (Ganon's Castle - Light Trial)
+    OOT Ganon Castle SR Light Center Top: Silver Rupee (Ganon's Castle - Light Trial)
+    OOT Ganon Castle SR Light Center Right: Silver Rupee (Ganon's Castle - Light Trial)
+    OOT Ganon Castle SR Light Center Left: Silver Rupee (Ganon's Castle - Light Trial)
+    OOT Ganon Castle Forest Chest: Green Rupee
+    OOT Ganon Castle SR Forest Center Right: Silver Rupee (Ganon's Castle - Forest Trial)
+    OOT Ganon Castle SR Forest Front: Silver Rupee (Ganon's Castle - Forest Trial)
+    OOT Ganon Castle SR Forest Back Right: Silver Rupee (Ganon's Castle - Forest Trial)
+    OOT Ganon Castle SR Forest Back Middle: Silver Rupee (Ganon's Castle - Forest Trial)
+    OOT Ganon Castle SR Forest Center Left: Silver Rupee (Ganon's Castle - Forest Trial)
+    OOT Ganon Castle SR Fire Back Right: Silver Rupee (Ganon's Castle - Fire Trial)
+    OOT Ganon Castle SR Fire Left: Silver Rupee (Ganon's Castle - Fire Trial)
+    OOT Ganon Castle SR Fire Far Right: Silver Rupee (Ganon's Castle - Fire Trial)
+    OOT Ganon Castle SR Fire Front Right: Silver Rupee (Ganon's Castle - Fire Trial)
+    OOT Ganon Castle SR Fire Black Pillar: Silver Rupee (Ganon's Castle - Fire Trial)
+    OOT Ganon Castle Water Chest 1: Green Rupee
+    OOT Ganon Castle Water Chest 2: Red Rupee
+    OOT Ganon Castle SR Spirit Center Midair: Silver Rupee (Ganon's Castle - Spirit Trial)
+    OOT Ganon Castle SR Spirit Front Right: Silver Rupee (Ganon's Castle - Spirit Trial)
+    OOT Ganon Castle SR Spirit Center Bottom: Silver Rupee (Ganon's Castle - Spirit Trial)
+    OOT Ganon Castle SR Spirit Back Left: Silver Rupee (Ganon's Castle - Spirit Trial)
+    OOT Ganon Castle SR Spirit Back Right: Silver Rupee (Ganon's Castle - Spirit Trial)
+    OOT Ganon Castle Spirit Chest 1: Recovery Heart (MM)
+    OOT Ganon Castle Spirit Chest 2: Green Rupee
+    OOT Ganon Castle Shadow Chest 1: Green Rupee
+    OOT Ganon Castle Shadow Chest 2: Piece of Heart (OoT)
+    OOT Ganon Castle Boss Key: Green Rupee
+
+  Tingle (6):
+    MM Tingle Map Clock Town: Ice Trap
+    MM Tingle Map Woodfall: Green Rupee
+    MM Tingle Map Snowhead: Soul of Wallmasters (MM)
+    MM Tingle Map Ranch: Soul of Tingle
+    MM Tingle Map Great Bay: Green Rupee
+    MM Tingle Map Ikana: Green Rupee
+
+  South Clock Town (7):
+    MM Clock Town Owl Statue: Green Rupee
+    MM Initial Song of Healing: Green Rupee
+    MM Clock Town Platform HP: Progressive Sword
+    MM Clock Town South Chest Lower: Soul of Composer Bros. (MM)
+    MM Clock Town South Chest Upper: Blue Rupee
+    MM Clock Town Business Scrub: Ice Trap
+    MM Clock Town Post Box: Soul of Igos
+
+  Milk Road (39):
+    MM Milk Road Owl Statue: 10 Arrows
+    MM Milk Road Grass 1: Silver Rupee
+    MM Milk Road Grass 2: Green Rupee
+    MM Milk Road Grass 3: Green Rupee
+    MM Milk Road Keaton Grass Reward 1: Large Magic Jar
+    MM Milk Road Keaton Grass Reward 2: Soul of Honey & Darling (MM)
+    MM Milk Road Keaton Grass Reward 3: Green Rupee
+    MM Milk Road Keaton Grass Reward 4: Soul of Mayor Dotour
+    MM Milk Road Keaton Grass Reward 5: Fairy Slingshot
+    MM Milk Road Keaton Grass Reward 6: Soul of Lulu (MM)
+    MM Milk Road Keaton Grass Reward 7: Ice Trap
+    MM Milk Road Keaton Grass Reward 8: Green Rupee
+    MM Milk Road Keaton Grass Reward 9: Green Rupee
+    MM Gorman Track Garo Mask: Green Rupee
+    MM Gorman Track Milk Purchase: Green Rupee
+    MM Gorman Track Grass Pack 1 Grass 01: Swamp Skulltula Token
+    MM Gorman Track Grass Pack 1 Grass 02: Green Rupee
+    MM Gorman Track Grass Pack 1 Grass 03: Green Rupee
+    MM Gorman Track Grass Pack 1 Grass 04: Green Rupee
+    MM Gorman Track Grass Pack 1 Grass 05: Red Rupee
+    MM Gorman Track Grass Pack 1 Grass 06: Piece of Heart (OoT)
+    MM Gorman Track Grass Pack 1 Grass 07: Green Rupee
+    MM Gorman Track Grass Pack 1 Grass 08: Green Rupee
+    MM Gorman Track Grass Pack 1 Grass 09: Piece of Heart (MM)
+    MM Gorman Track Grass Pack 1 Grass 10: Green Rupee
+    MM Gorman Track Grass Pack 1 Grass 11: Green Rupee
+    MM Gorman Track Grass Pack 1 Grass 12: Green Rupee
+    MM Gorman Track Grass Pack 2 Grass 01: Red Rupee
+    MM Gorman Track Grass Pack 2 Grass 02: Recovery Heart (MM)
+    MM Gorman Track Grass Pack 2 Grass 03: Coin (Red)
+    MM Gorman Track Grass Pack 2 Grass 04: Green Rupee
+    MM Gorman Track Grass Pack 2 Grass 05: Small Magic Jar
+    MM Gorman Track Grass Pack 2 Grass 06: Green Rupee
+    MM Gorman Track Grass Pack 2 Grass 07: Recovery Heart (MM)
+    MM Gorman Track Grass Pack 2 Grass 08: Green Rupee
+    MM Gorman Track Grass Pack 2 Grass 09: Green Rupee
+    MM Gorman Track Grass Pack 2 Grass 10: Green Rupee
+    MM Gorman Track Grass Pack 2 Grass 11: Green Rupee
+    MM Gorman Track Grass Pack 2 Grass 12: Large Magic Jar
+
+  Southern Swamp (105):
+    MM Southern Swamp Owl Statue: Stray Fairy (Stone Tower Temple)
+    MM Southern Swamp Grass Owl 1: Green Rupee
+    MM Southern Swamp Grass Owl 2: Green Rupee
+    MM Southern Swamp HP: Ice Trap
+    MM Southern Swamp Scrub Deed: Red Rupee
+    MM Southern Swamp Scrub Shop: Letter to Kafei
+    MM Southern Swamp Pot 1: Skeleton Key
+    MM Southern Swamp Pot 2: Soul of Gold Skulltulas (MM)
+    MM Southern Swamp Pot 3: Ice Trap
+    MM Southern Swamp Grass Front 01: Ocean Skulltula Token
+    MM Southern Swamp Grass Front 02: Green Rupee
+    MM Southern Swamp Grass Front 03: Soul of Twinmold
+    MM Southern Swamp Grass Front 04: Green Rupee
+    MM Southern Swamp Grass Front 05: Green Rupee
+    MM Southern Swamp Grass Front 06: Red Rupee
+    MM Southern Swamp Grass Front 07: Blue Rupee
+    MM Southern Swamp Grass Front 08: Purple Rupee
+    MM Southern Swamp Grass Front 09: Green Rupee
+    MM Southern Swamp Grass Front 10: Soul of Koume and Kotake
+    MM Southern Swamp Grass Front 11: Soul of Dragonflies
+    MM Southern Swamp Grass Front 12: Blue Rupee
+    MM Southern Swamp Grass Near Witch Pack 1 Grass 01: Ice Trap
+    MM Southern Swamp Grass Near Witch Pack 1 Grass 02: Ocean Skulltula Token
+    MM Southern Swamp Grass Near Witch Pack 1 Grass 03: Green Rupee
+    MM Southern Swamp Grass Near Witch Pack 1 Grass 04: Ice Trap
+    MM Southern Swamp Grass Near Witch Pack 1 Grass 05: Green Rupee
+    MM Southern Swamp Grass Near Witch Pack 1 Grass 06: Ice Trap
+    MM Southern Swamp Grass Near Witch Pack 1 Grass 07: Owl Statue (Zora Cape)
+    MM Southern Swamp Grass Near Witch Pack 1 Grass 08: Green Rupee
+    MM Southern Swamp Grass Near Witch Pack 1 Grass 09: Green Rupee
+    MM Southern Swamp Grass Near Witch Pack 2 Grass 01: Pendant of Memories
+    MM Southern Swamp Grass Near Witch Pack 2 Grass 02: 10 Bombchu
+    MM Southern Swamp Grass Near Witch Pack 2 Grass 03: Don Gero's Mask
+    MM Southern Swamp Grass Near Witch Pack 2 Grass 04: Green Rupee
+    MM Southern Swamp Grass Near Witch Pack 2 Grass 05: Green Rupee
+    MM Southern Swamp Grass Near Witch Pack 2 Grass 06: Soul of Chest Game Lady (MM)
+    MM Southern Swamp Grass Near Witch Pack 2 Grass 07: Green Rupee
+    MM Southern Swamp Grass Near Witch Pack 2 Grass 08: Fairy (MM)
+    MM Southern Swamp Grass Near Witch Pack 2 Grass 09: Ice Trap
+    MM Southern Swamp Grass Near Witch 1: Soul of Wolfos (MM)
+    MM Southern Swamp Grass Near Witch 2: Green Rupee
+    MM Southern Swamp Rupee 1: Green Rupee
+    MM Southern Swamp Rupee 2: Green Rupee
+    MM Southern Swamp Song of Soaring: Green Rupee
+    MM Southern Swamp Grotto: Green Rupee
+    MM Southern Swamp Grotto Grass 01: Green Rupee
+    MM Southern Swamp Grotto Grass 02: Large Magic Jar
+    MM Southern Swamp Grotto Grass 03: Recovery Heart (MM)
+    MM Southern Swamp Grotto Grass 04: Soul of Dodongos (MM)
+    MM Southern Swamp Grotto Grass 05: Green Rupee
+    MM Southern Swamp Grotto Grass 06: Green Rupee
+    MM Southern Swamp Grotto Grass 07: Small Magic Jar
+    MM Southern Swamp Grotto Grass 08: Green Rupee
+    MM Southern Swamp Grotto Grass 09: Deku Mask
+    MM Southern Swamp Grotto Grass 10: Green Rupee
+    MM Southern Swamp Grotto Grass 11: Progressive Strength
+    MM Southern Swamp Grotto Grass 12: Ice Trap
+    MM Southern Swamp Grotto Grass 13: 5 Bombs
+    MM Southern Swamp Grotto Grass 14: Piece of Heart (MM)
+    MM Tourist Information Pictobox: Piece of Heart (MM)
+    MM Tourist Information Boat Archery: Ice Trap
+    MM Tourist Information Tingle Picture: Green Rupee
+    MM Swamp Potion Shop Kotake: Heart Container (OoT)
+    MM Woods of Mystery Grass SW 1: Green Rupee
+    MM Woods of Mystery Grass SW 2: Green Rupee
+    MM Woods of Mystery Grass S 1: Green Rupee
+    MM Woods of Mystery Grass S 2: Deku Stick
+    MM Woods of Mystery Grass S 3: Stray Fairy (Woodfall Temple)
+    MM Woods of Mystery Grass W 1: Green Rupee
+    MM Woods of Mystery Grass W 2: Green Rupee
+    MM Woods of Mystery Grass Center 1: Recovery Heart (MM)
+    MM Woods of Mystery Grass Center 2: Green Rupee
+    MM Woods of Mystery Grass Center 3: Green Rupee
+    MM Woods of Mystery Grass Center 4: Green Rupee
+    MM Woods of Mystery Grass E 1: Green Rupee
+    MM Woods of Mystery Grass E 2: Soul of Nejirons
+    MM Woods of Mystery Grass NW 1: Stray Fairy (Woodfall Temple)
+    MM Woods of Mystery Grass NW 2: Small Magic Jar
+    MM Woods of Mystery Grass N 1: Green Rupee
+    MM Woods of Mystery Grass N 2: Green Rupee
+    MM Woods of Mystery Grass NE 1: Green Rupee
+    MM Woods of Mystery Grass NE 2: Iron Boots
+    MM Woods of Mystery Grass NE 3: Green Rupee
+    MM Woods of Mystery Grass NE 4: Piece of Heart (MM)
+    MM Woods of Mystery Grass NE 5: Soul of Swamp Archery Owner (MM)
+    MM Woods of Mystery Grass SE: Green Rupee
+    MM Woods of Mystery Grotto: Progressive Strength
+    MM Woods of Mystery Grotto Grass 01: Stray Fairy (Snowhead Temple)
+    MM Woods of Mystery Grotto Grass 02: Boss Key (Great Bay Temple)
+    MM Woods of Mystery Grotto Grass 03: Spin Attack Upgrade (MM)
+    MM Woods of Mystery Grotto Grass 04: Green Rupee
+    MM Woods of Mystery Grotto Grass 05: Large Magic Jar
+    MM Woods of Mystery Grotto Grass 06: 10 Bombs
+    MM Woods of Mystery Grotto Grass 07: Great Fairy's Sword
+    MM Woods of Mystery Grotto Grass 08: Green Rupee
+    MM Woods of Mystery Grotto Grass 09: Green Rupee
+    MM Woods of Mystery Grotto Grass 10: Green Rupee
+    MM Woods of Mystery Grotto Grass 11: Green Rupee
+    MM Woods of Mystery Grotto Grass 12: Coin (Blue)
+    MM Woods of Mystery Grotto Grass 13: Small Key (Stone Tower Temple)
+    MM Woods of Mystery Grotto Grass 14: Green Rupee
+    MM Swamp Potion Shop Item 1: Ocean Skulltula Token
+    MM Swamp Potion Shop Item 2: Green Rupee
+    MM Swamp Potion Shop Item 3: Green Rupee
+    MM Swamp Potion Shop Rupee: Ice Trap
+
+  Woodfall (15):
+    MM Woodfall Owl Statue: Red Rupee
+    MM Woodfall Near Owl Chest: Green Rupee
+    MM Woodfall Pot 1: Piece of Heart (MM)
+    MM Woodfall Pot 2: Coin (Yellow)
+    MM Woodfall Pot 3: Coin (Red)
+    MM Woodfall Entrance Chest: Soul of Garo
+    MM Woodfall HP Chest: Song of Time
+    MM Woodfall Grass 1: Green Rupee
+    MM Woodfall Grass 2: Soul of Mr. Barten (MM)
+    MM Woodfall Grass 3: Purple Rupee
+    MM Woodfall Grass 4: Green Rupee
+    MM Woodfall Grass 5: Green Rupee
+    MM Woodfall Grass 6: Recovery Heart (MM)
+    MM Woodfall Rupee: Stray Fairy (Snowhead Temple)
+    MM Woodfall Great Fairy: Green Rupee
+
+  Mountain Village (71):
+    MM Mountain Village Owl Statue: Shared Bomb Bag
+    MM Mountain Village Waterfall Chest: Coin (Green)
+    MM Mountain Village Don Gero Mask: Piece of Heart (MM)
+    MM Mountain Village Frog Choir HP: Green Rupee
+    MM Mountain Village Pot: Stone Mask
+    MM Mountain Village Grass 1: Soul of Floormasters (MM)
+    MM Mountain Village Grass 2: Magic Bean (MM)
+    MM Mountain Village Grass 3: Red Rupee
+    MM Mountain Village Grass Pack 1 Grass 1: Green Rupee
+    MM Mountain Village Grass Pack 1 Grass 2: Green Rupee
+    MM Mountain Village Grass Pack 1 Grass 3: Green Rupee
+    MM Mountain Village Grass Pack 1 Grass 4: Green Rupee
+    MM Mountain Village Grass Pack 1 Grass 5: Green Rupee
+    MM Mountain Village Grass Pack 1 Grass 6: Piece of Heart (OoT)
+    MM Mountain Village Grass Pack 1 Grass 7: 10 Arrows
+    MM Mountain Village Grass Pack 1 Grass 8: Shared Ice Arrows
+    MM Mountain Village Grass Pack 1 Grass 9: Green Rupee
+    MM Mountain Village Grass Pack 2 Grass 1: Green Rupee
+    MM Mountain Village Grass Pack 2 Grass 2: Ice Trap
+    MM Mountain Village Grass Pack 2 Grass 3: Letter to Mama
+    MM Mountain Village Grass Pack 2 Grass 4: Green Rupee
+    MM Mountain Village Grass Pack 2 Grass 5: Recovery Heart (OoT)
+    MM Mountain Village Grass Pack 2 Grass 6: Piece of Heart (MM)
+    MM Mountain Village Grass Pack 2 Grass 7: Coin (Yellow)
+    MM Mountain Village Grass Pack 2 Grass 8: Red Rupee
+    MM Mountain Village Grass Pack 2 Grass 9: Claim Check
+    MM Mountain Village Grass Pack 3 Grass 1: Ice Trap
+    MM Mountain Village Grass Pack 3 Grass 2: Eye Drops
+    MM Mountain Village Grass Pack 3 Grass 3: Soul of Madame Aroma (MM)
+    MM Mountain Village Grass Pack 3 Grass 4: World Map of Stone Tower
+    MM Mountain Village Grass Pack 3 Grass 5: 5 Bombchu
+    MM Mountain Village Grass Pack 3 Grass 6: Progressive Sword
+    MM Mountain Village Grass Pack 3 Grass 7: Blue Rupee
+    MM Mountain Village Grass Pack 3 Grass 8: Piece of Heart (MM)
+    MM Mountain Village Grass Pack 3 Grass 9: Blue Rupee
+    MM Mountain Village Keaton Grass Reward 1: Piece of Heart (OoT)
+    MM Mountain Village Keaton Grass Reward 2: Ice Trap
+    MM Mountain Village Keaton Grass Reward 3: Coin (Blue)
+    MM Mountain Village Keaton Grass Reward 4: Powder Keg
+    MM Mountain Village Keaton Grass Reward 5: Piece of Heart (OoT)
+    MM Mountain Village Keaton Grass Reward 6: Coin (Blue)
+    MM Mountain Village Keaton Grass Reward 7: Piece of Heart (OoT)
+    MM Mountain Village Keaton Grass Reward 8: Large Magic Jar
+    MM Mountain Village Keaton Grass Reward 9: 20 Bombchu
+    MM Mountain Village Rupee: Romani Milk
+    MM Mountain Village Potted Plant 1 Pot: Ocean Skulltula Token
+    MM Mountain Village Potted Plant 1 Grass: Green Rupee
+    MM Mountain Village Potted Plant 2 Pot: Ice Trap
+    MM Mountain Village Potted Plant 2 Grass: Green Rupee
+    MM Mountain Village Tunnel Grotto: Ice Trap
+    MM Mountain Village Tunnel Grotto Grass 01: Silver Rupee
+    MM Mountain Village Tunnel Grotto Grass 02: Green Rupee
+    MM Mountain Village Tunnel Grotto Grass 03: 10 Arrows
+    MM Mountain Village Tunnel Grotto Grass 04: Red Rupee
+    MM Mountain Village Tunnel Grotto Grass 05: Soul of Tourist Center Owner
+    MM Mountain Village Tunnel Grotto Grass 06: Coin (Blue)
+    MM Mountain Village Tunnel Grotto Grass 07: Green Rupee
+    MM Mountain Village Tunnel Grotto Grass 08: 10 Arrows
+    MM Mountain Village Tunnel Grotto Grass 09: Soul of Odolwa
+    MM Mountain Village Tunnel Grotto Grass 10: Green Rupee
+    MM Mountain Village Tunnel Grotto Grass 11: Green Rupee
+    MM Mountain Village Tunnel Grotto Grass 12: Green Rupee
+    MM Mountain Village Tunnel Grotto Grass 13: Green Rupee
+    MM Mountain Village Tunnel Grotto Grass 14: Purple Rupee
+    MM Blacksmith Razor Blade: Green Rupee
+    MM Blacksmith Gilded Sword: Stray Fairy (Stone Tower Temple)
+    MM Blacksmith Potted Plant 1 Pot: Garo's Mask
+    MM Blacksmith Potted Plant 1 Grass: Ice Trap
+    MM Blacksmith Potted Plant 2 Pot: Ice Trap
+    MM Blacksmith Potted Plant 2 Grass: Land Title Deed
+    MM Goron Graveyard Mask: Soul of Tektites (MM)
+
+  Snowhead (2):
+    MM Snowhead Owl Statue: Ice Trap
+    MM Snowhead Great Fairy: Blue Rupee
+
+  Great Bay Coast (115):
+    MM Great Bay Coast Owl Statue: Ice Trap
+    MM Great Bay Coast Zora Mask: Green Rupee
+    MM Great Bay Coast HP: Piece of Heart (MM)
+    MM Great Bay Coast Fisherman HP: Stray Fairy (Great Bay Temple)
+    MM Great Bay Coast Pot Ledge 1: Blue Rupee
+    MM Great Bay Coast Pot Ledge 2: Large Magic Jar
+    MM Great Bay Coast Pot Ledge 3: Piece of Heart (MM)
+    MM Great Bay Coast Pot 01: Soul of Deep Pythons
+    MM Great Bay Coast Pot 02: Swamp Skulltula Token
+    MM Great Bay Coast Pot 03: Soul of Peahats (MM)
+    MM Great Bay Coast Pot 04: Green Rupee
+    MM Great Bay Coast Pot 05: Green Rupee
+    MM Great Bay Coast Pot 06: Recovery Heart (OoT)
+    MM Great Bay Coast Pot 07: Bottle of Milk (MM)
+    MM Great Bay Coast Pot 08: Soul of Deku Babas (MM)
+    MM Great Bay Coast Pot 09: Deku Nut Upgrade
+    MM Great Bay Coast Pot 10: Soul of Keaton
+    MM Great Bay Coast Pot 11: Green Rupee
+    MM Great Bay Coast Pot 12: Large Magic Jar
+    MM Great Bay Coast Grass 1: Blue Rupee
+    MM Great Bay Coast Grass 2: Soul of Guru-Guru (MM)
+    MM Great Bay Coast Grass 3: Green Rupee
+    MM Great Bay Coast Grass 4: Progressive Hookshot
+    MM Great Bay Coast Grass 5: Green Rupee
+    MM Great Bay Coast Fisherman Grotto: Purple Rupee
+    MM Great Bay Coast Fisherman Grotto Grass 01: Stray Fairy (Clock Town)
+    MM Great Bay Coast Fisherman Grotto Grass 02: 10 Arrows
+    MM Great Bay Coast Fisherman Grotto Grass 03: Stray Fairy (Snowhead Temple)
+    MM Great Bay Coast Fisherman Grotto Grass 04: Green Rupee
+    MM Great Bay Coast Fisherman Grotto Grass 05: Blue Rupee
+    MM Great Bay Coast Fisherman Grotto Grass 06: Ocean Skulltula Token
+    MM Great Bay Coast Fisherman Grotto Grass 07: Recovery Heart (MM)
+    MM Great Bay Coast Fisherman Grotto Grass 08: Green Rupee
+    MM Great Bay Coast Fisherman Grotto Grass 09: Green Rupee
+    MM Great Bay Coast Fisherman Grotto Grass 10: Green Rupee
+    MM Great Bay Coast Fisherman Grotto Grass 11: Ice Trap
+    MM Great Bay Coast Fisherman Grotto Grass 12: Green Rupee
+    MM Great Bay Coast Fisherman Grotto Grass 13: Mask of Truth
+    MM Great Bay Coast Fisherman Grotto Grass 14: Red Rupee
+    MM Great Bay Coast Cow Front: Green Rupee
+    MM Great Bay Coast Cow Back: Small Key (Snowhead Temple)
+    MM Great Bay Cow Grotto Grass 01: Green Rupee
+    MM Great Bay Cow Grotto Grass 02: Red Rupee
+    MM Great Bay Cow Grotto Grass 03: Stray Fairy (Stone Tower Temple)
+    MM Great Bay Cow Grotto Grass 04: Green Rupee
+    MM Great Bay Cow Grotto Grass 05: Green Rupee
+    MM Great Bay Cow Grotto Grass 06: Large Magic Jar
+    MM Great Bay Cow Grotto Grass 07: Ice Trap
+    MM Great Bay Cow Grotto Grass 08: Green Rupee
+    MM Great Bay Cow Grotto Grass 09: Large Magic Jar
+    MM Great Bay Cow Grotto Grass 10: Green Rupee
+    MM Great Bay Cow Grotto Grass 11: Piece of Heart (MM)
+    MM Great Bay Cow Grotto Grass 12: Piece of Heart (MM)
+    MM Great Bay Cow Grotto Grass 13: Blue Rupee
+    MM Great Bay Cow Grotto Grass 14: Recovery Heart (MM)
+    MM Great Bay Cow Grotto Grass 15: Piece of Heart (OoT)
+    MM Great Bay Cow Grotto Grass 16: Ice Trap
+    MM Great Bay Cow Grotto Grass 17: Green Rupee
+    MM Great Bay Cow Grotto Grass 18: 10 Arrows
+    MM Great Bay Cow Grotto Grass 19: Gibdo Mask
+    MM Great Bay Cow Grotto Grass 20: Soul of the Goron Baby (MM)
+    MM Great Bay Cow Grotto Grass 21: Green Rupee
+    MM Great Bay Cow Grotto Grass 22: 10 Arrows
+    MM Great Bay Cow Grotto Grass 23: Green Rupee
+    MM Great Bay Cow Grotto Grass 24: 10 Arrows
+    MM Great Bay Cow Grotto Grass 25: Song of Storms
+    MM Great Bay Cow Grotto Grass 26: Coin (Red)
+    MM Great Bay Cow Grotto Grass 27: 10 Arrows
+    MM Great Bay Cow Grotto Grass 28: Bunny Hood
+    MM Great Bay Cow Grotto Grass 29: Swamp Skulltula Token
+    MM Great Bay Cow Grotto Grass 30: Green Rupee
+    MM Great Bay Cow Grotto Grass 31: Ice Trap
+    MM Great Bay Cow Grotto Grass 32: Green Rupee
+    MM Great Bay Cow Grotto Grass 33: Green Rupee
+    MM Great Bay Cow Grotto Grass 34: Red Rupee
+    MM Great Bay Cow Grotto Grass 35: Soul of Part-Timer (MM)
+    MM Great Bay Cow Grotto Grass 36: Green Rupee
+    MM Great Bay Cow Grotto Grass 37: Red Rupee
+    MM Great Bay Cow Grotto Grass 38: Sun's Song (OoT)
+    MM Great Bay Cow Grotto Grass 39: Ocean Skulltula Token
+    MM Great Bay Cow Grotto Grass 40: 5 Bombs
+    MM Great Bay Cow Grotto Grass 41: Red Potion (MM)
+    MM Great Bay Cow Grotto Grass 42: Coin (Blue)
+    MM Great Bay Cow Grotto Grass 43: Soul of Eenoes
+    MM Great Bay Cow Grotto Grass 44: Green Rupee
+    MM Great Bay Cow Grotto Grass 45: Green Rupee
+    MM Great Bay Cow Grotto Grass 46: Ice Trap
+    MM Great Bay Cow Grotto Grass 47: Ice Trap
+    MM Great Bay Cow Grotto Grass 48: Fairy (MM)
+    MM Great Bay Cow Grotto Grass 49: Green Rupee
+    MM Great Bay Cow Grotto Grass 50: Green Rupee
+    MM Great Bay Cow Grotto Grass 51: 5 Arrows
+    MM Great Bay Cow Grotto Grass 52: Green Rupee
+    MM Great Bay Cow Grotto Grass 53: Green Rupee
+    MM Great Bay Cow Grotto Grass 54: Green Rupee
+    MM Great Bay Cow Grotto Grass 55: Coin (Yellow)
+    MM Great Bay Cow Grotto Grass 56: Stray Fairy (Great Bay Temple)
+    MM Great Bay Cow Grotto Grass 57: Piece of Heart (OoT)
+    MM Great Bay Cow Grotto Grass 58: Swamp Skulltula Token
+    MM Great Bay Cow Grotto Grass 59: 10 Bombchu
+    MM Great Bay Cow Grotto Grass 60: Green Rupee
+    MM Great Bay Cow Grotto Grass 61: Purple Rupee
+    MM Great Bay Cow Grotto Grass 62: Green Rupee
+    MM Great Bay Cow Grotto Grass 63: Green Rupee
+    MM Great Bay Cow Grotto Grass 64: Piece of Heart (OoT)
+    MM Great Bay Cow Grotto Grass 65: Goron Tunic
+    MM Great Bay Cow Grotto Grass 66: Heart Container (OoT)
+    MM Great Bay Cow Grotto Grass 67: Green Rupee
+    MM Great Bay Cow Grotto Grass 68: Ice Trap
+    MM Great Bay Cow Grotto Grass 69: Green Rupee
+    MM Great Bay Cow Grotto Grass 70: Romani Milk
+    MM Great Bay Cow Grotto Grass 71: Large Magic Jar
+    MM Great Bay Cow Grotto Grass 72: Green Rupee
+    MM Laboratory Zora Song: Deku Stick
+    MM Laboratory Fish HP: Green Rupee
+
+  Zora Cape (34):
+    MM Zora Cape Owl Statue: Soul of Captain Keeta
+    MM Zora Cape Pot Near Owl Statue 1: Green Rupee
+    MM Zora Cape Pot Near Owl Statue 2: Ice Trap
+    MM Zora Cape Pot Near Owl Statue 3: Piece of Heart (MM)
+    MM Zora Cape Pot Near Owl Statue 4: Green Rupee
+    MM Zora Cape Underwater Chest: Green Rupee
+    MM Zora Cape Waterfall HP: Swamp Skulltula Token
+    MM Zora Cape Pot Near Beavers 1: Green Rupee
+    MM Zora Cape Pot Near Beavers 2: Green Rupee
+    MM Zora Cape Pot Game 1: Green Rupee
+    MM Zora Cape Pot Game 2: Blue Rupee
+    MM Zora Cape Pot Game 3: Stray Fairy (Snowhead Temple)
+    MM Zora Cape Pot Game 4: Ocean Skulltula Token
+    MM Zora Cape Pot Game 5: Deku Shield (OoT)
+    MM Zora Cape Grotto: Soul of Octoroks (MM)
+    MM Zora Cape Grotto Grass 01: Purple Rupee
+    MM Zora Cape Grotto Grass 02: Green Rupee
+    MM Zora Cape Grotto Grass 03: Green Rupee
+    MM Zora Cape Grotto Grass 04: Green Rupee
+    MM Zora Cape Grotto Grass 05: Blue Rupee
+    MM Zora Cape Grotto Grass 06: Green Rupee
+    MM Zora Cape Grotto Grass 07: Progressive Clock
+    MM Zora Cape Grotto Grass 08: Green Rupee
+    MM Zora Cape Grotto Grass 09: Green Rupee
+    MM Zora Cape Grotto Grass 10: Empty Bottle (MM)
+    MM Zora Cape Grotto Grass 11: Green Rupee
+    MM Zora Cape Grotto Grass 12: Green Rupee
+    MM Zora Cape Grotto Grass 13: Soul of Keg Trial Goron (MM)
+    MM Zora Cape Grotto Grass 14: Hylian/Hero Shield
+    MM Great Bay Great Fairy: Coin (Red)
+    MM Zora Cape Ledge Chest 1: Ice Trap
+    MM Zora Cape Ledge Chest 2: Ice Trap
+    MM Waterfall Rapids Beaver Race 1: Green Rupee
+    MM Waterfall Rapids Beaver Race 2: Green Rupee
+
+  Ikana Canyon (31):
+    MM Ikana Canyon Owl Statue: Blue Rupee
+    MM Ikana Canyon Grass 1: Green Rupee
+    MM Ikana Canyon Grass 2: Blue Rupee
+    MM Ikana Canyon Grass 3: Green Rupee
+    MM Ikana Canyon Grass 4: Green Rupee
+    MM Ikana Valley Scrub Rupee: Ice Trap
+    MM Ikana Valley Scrub HP: Bottle of Red Potion (MM)
+    MM Ikana Valley Scrub Shop: Green Rupee
+    MM Ikana Valley Grotto: Coin (Green)
+    MM Ikana Valley Grotto Grass 01: Recovery Heart (MM)
+    MM Ikana Valley Grotto Grass 02: Piece of Heart (MM)
+    MM Ikana Valley Grotto Grass 03: Green Rupee
+    MM Ikana Valley Grotto Grass 04: Soul of Goht
+    MM Ikana Valley Grotto Grass 05: Poacher's Saw
+    MM Ikana Valley Grotto Grass 06: Green Rupee
+    MM Ikana Valley Grotto Grass 07: Stray Fairy (Stone Tower Temple)
+    MM Ikana Valley Grotto Grass 08: Ocean Skulltula Token
+    MM Ikana Valley Grotto Grass 09: Green Rupee
+    MM Ikana Valley Grotto Grass 10: Blue Potion (MM)
+    MM Ikana Valley Grotto Grass 11: Green Rupee
+    MM Ikana Valley Grotto Grass 12: Coin (Blue)
+    MM Ikana Valley Grotto Grass 13: Green Rupee
+    MM Ikana Valley Grotto Grass 14: Green Rupee
+    MM Sakon Hideout Pot First Room 1: Green Rupee
+    MM Sakon Hideout Pot First Room 2: Green Rupee
+    MM Sakon Hideout Pot Second Room 1: Green Rupee
+    MM Sakon Hideout Pot Second Room 2: Green Rupee
+    MM Sakon Hideout Pot Third Room: Blue Rupee
+    MM Ikana Great Fairy: Ice Trap
+    MM Music Box House Gibdo Mask: Green Rupee
+    MM Ghost Hut HP: Green Rupee
+
+  Stone Tower (36):
+    MM Stone Tower Owl Statue: Fairy (MM)
+    MM Stone Tower Pot Owl Statue 1: Piece of Heart (OoT)
+    MM Stone Tower Pot Owl Statue 2: Green Rupee
+    MM Stone Tower Pot Owl Statue 3: Soul of Skullfish (MM)
+    MM Stone Tower Pot Owl Statue 4: Green Rupee
+    MM Stone Tower Pot Climb 1: Recovery Heart (MM)
+    MM Stone Tower Pot Climb 2: Ocean Skulltula Token
+    MM Stone Tower Pot Lower Scarecrow 01: Green Rupee
+    MM Stone Tower Pot Lower Scarecrow 02: Recovery Heart (MM)
+    MM Stone Tower Pot Lower Scarecrow 03: Piece of Heart (OoT)
+    MM Stone Tower Pot Lower Scarecrow 04: Heart Container (OoT)
+    MM Stone Tower Pot Lower Scarecrow 05: Green Rupee
+    MM Stone Tower Pot Lower Scarecrow 06: 20 Bombs
+    MM Stone Tower Pot Lower Scarecrow 07: Swamp Skulltula Token
+    MM Stone Tower Pot Lower Scarecrow 08: Piece of Heart (OoT)
+    MM Stone Tower Pot Lower Scarecrow 09: Stray Fairy (Great Bay Temple)
+    MM Stone Tower Pot Lower Scarecrow 10: Green Rupee
+    MM Stone Tower Pot Lower Scarecrow 11: Recovery Heart (OoT)
+    MM Stone Tower Pot Lower Scarecrow 12: Blue Rupee
+    MM Stone Tower Pot Higher Scarecrow 1: Blue Rupee
+    MM Stone Tower Pot Higher Scarecrow 2: Ocean Skulltula Token
+    MM Stone Tower Pot Higher Scarecrow 3: Ice Trap
+    MM Stone Tower Pot Higher Scarecrow 4: Heart Container (MM)
+    MM Stone Tower Pot Higher Scarecrow 5: Green Rupee
+    MM Stone Tower Pot Higher Scarecrow 6: Green Rupee
+    MM Stone Tower Pot Higher Scarecrow 7: Green Rupee
+    MM Stone Tower Pot Higher Scarecrow 8: Green Rupee
+    MM Stone Tower Pot Higher Scarecrow 9: Green Rupee
+    MM Stone Tower Inverted Chest 1: Recovery Heart (MM)
+    MM Stone Tower Inverted Chest 2: Ice Trap
+    MM Stone Tower Inverted Chest 3: Small Magic Jar
+    MM Stone Tower Inverted Pot 1: Soul of Iron Knuckles (MM)
+    MM Stone Tower Inverted Pot 2: Stray Fairy (Woodfall Temple)
+    MM Stone Tower Inverted Pot 3: Purple Rupee
+    MM Stone Tower Inverted Pot 4: Ice Trap
+    MM Stone Tower Inverted Pot 5: Ice Trap
+
+  Giant's Dream (1):
+    MM Oath to Order: Red Rupee
+
+  North Clock Town (17):
+    MM Clock Town Tree HP: Purple Rupee
+    MM Clock Town Bomber Notebook: Green Rupee
+    MM Clock Town Blast Mask: Swamp Skulltula Token
+    MM Clock Town Keaton HP: Ice Trap
+    MM Clock Town Keaton Grass Reward 1: Recovery Heart (MM)
+    MM Clock Town Keaton Grass Reward 2: Green Rupee
+    MM Clock Town Keaton Grass Reward 3: Green Rupee
+    MM Clock Town Keaton Grass Reward 4: Blue Rupee
+    MM Clock Town Keaton Grass Reward 5: Ice Trap
+    MM Clock Town Keaton Grass Reward 6: Soul of Romani/Cremia (MM)
+    MM Clock Town Keaton Grass Reward 7: Coin (Green)
+    MM Clock Town Keaton Grass Reward 8: 10 Arrows
+    MM Clock Town Keaton Grass Reward 9: Green Rupee
+    MM Clock Town Great Fairy: Swamp Skulltula Token
+    MM Clock Town Great Fairy Alt: Soul of Bad Bats
+    MM Deku Playground Reward Any Day: Green Rupee
+    MM Deku Playground Reward All Days: 30 Arrows
+
+  West Clock Town (25):
+    MM Clock Town Bank Reward 1: Green Rupee
+    MM Clock Town Bank Reward 2: Green Rupee
+    MM Clock Town Bank Reward 3: Soul of the Deku King
+    MM Clock Town Rosa Sisters HP: Large Magic Jar
+    MM Bomb Shop Item 1: Soul of the Zora Shopkeeper (MM)
+    MM Bomb Shop Item 2: Purple Rupee
+    MM Bomb Shop Bomb Bag: Goron Lullaby
+    MM Bomb Shop Bomb Bag 2: Green Rupee
+    MM Trading Post Pot: Romani's Mask
+    MM Trading Post Item 1: Green Rupee
+    MM Trading Post Item 2: Red Rupee
+    MM Trading Post Item 3: Stray Fairy (Great Bay Temple)
+    MM Trading Post Item 4: Ice Trap
+    MM Trading Post Item 5: Green Rupee
+    MM Trading Post Item 6: Green Rupee
+    MM Trading Post Item 7: Soul of Dexihands
+    MM Trading Post Item 8: Great Fairy's Mask
+    MM Curiosity Shop All-Night Mask: Coin (Red)
+    MM Post Office HP: Empty Bottle (OoT)
+    MM Swordsman School HP: Green Rupee
+    MM Swordsman School Pot 1: Green Rupee
+    MM Swordsman School Pot 2: Gold Rupee
+    MM Swordsman School Pot 3: Green Rupee
+    MM Swordsman School Pot 4: Green Rupee
+    MM Swordsman School Pot 5: Bombchu
+
+  East Clock Town (21):
+    MM Clock Town Silver Rupee Chest: Heart Container (OoT)
+    MM Clock Town Postman Hat: Stray Fairy (Snowhead Temple)
+    MM Astral Observatory Passage Chest: Soul of ReDeads/Gibdos (MM)
+    MM Astral Observatory Passage Pot 1: Progressive Scale
+    MM Astral Observatory Passage Pot 2: Soul of Blacksmiths
+    MM Astral Observatory Passage Pot 3: Swamp Skulltula Token
+    MM Astral Observatory Passage Pot 4: Red Rupee
+    MM Astral Observatory Pot 1: Soul of the Bomb Shop Owner (MM)
+    MM Astral Observatory Pot 2: Large Magic Jar
+    MM Astral Observatory Pot 3: Green Rupee
+    MM Mayor's Office Kafei's Mask: Blue Rupee
+    MM Mayor's Office HP: Piece of Heart (MM)
+    MM Milk Bar Troupe Leader Mask: Green Rupee
+    MM Milk Bar Madame Aroma Bottle: Double Defense (MM)
+    MM Milk Bar Purchase Milk: Green Rupee
+    MM Milk Bar Purchase Chateau: Progressive Clock
+    MM Town Archery Reward 1: Heart Container (MM)
+    MM Town Archery Reward 2: Small Key (Stone Tower Temple)
+    MM Chest Game HP: Green Rupee
+    MM Honey & Darling Reward Any Day: Gold Rupee
+    MM Honey & Darling Reward All Days: Piece of Heart (MM)
+
+  Laundry Pool (11):
+    MM Clock Town Guru Guru Mask Bremen: Small Magic Jar
+    MM Clock Town Stray Fairy: Recovery Heart (MM)
+    MM Clock Town Laundry Pool Grass 1: Blue Rupee
+    MM Clock Town Laundry Pool Grass 2: Green Rupee
+    MM Clock Town Laundry Pool Grass 3: Small Key (Great Bay Temple)
+    MM Clock Town Laundry Pool Rupee 1: Recovery Heart (MM)
+    MM Clock Town Laundry Pool Rupee 2: Blue Rupee
+    MM Clock Town Laundry Pool Rupee 3: Soul of Gekkos
+    MM Kafei Hideout Pendant of Memories: Green Rupee
+    MM Kafei Hideout Owner Reward 1: Green Rupee
+    MM Kafei Hideout Owner Reward 2: Piece of Heart (MM)
+
+  Stock Pot Inn (8):
+    MM Stock Pot Inn Guest Room Chest: Fairy (MM)
+    MM Stock Pot Inn Staff Room Chest: Large Magic Jar
+    MM Stock Pot Inn Room Key: Ice Trap
+    MM Stock Pot Inn Letter to Kafei: Green Rupee
+    MM Stock Pot Inn Couple's Mask: Soul of Grog (MM)
+    MM Stock Pot Inn Grandma HP 1: Stray Fairy (Stone Tower Temple)
+    MM Stock Pot Inn Grandma HP 2: Boomerang
+    MM Stock Pot Inn ??? HP: Green Rupee
+
+  Termina Field (141):
+    MM Astral Observatory Moon Tear: Green Rupee
+    MM Termina Field Water Chest: Green Rupee
+    MM Termina Field Tall Grass Chest: Stray Fairy (Stone Tower Temple)
+    MM Termina Field Tree Stump Chest: Large Magic Jar
+    MM Termina Field Kamaro Mask: Large Magic Jar
+    MM Termina Field Pot: Green Rupee
+    MM Termina Field Rupee: Piece of Heart (OoT)
+    MM Termina Field Tall Grass Grotto: Green Rupee
+    MM Termina Field Tall Grass Grotto Grass 01: Progressive Goron Sword
+    MM Termina Field Tall Grass Grotto Grass 02: Coin (Yellow)
+    MM Termina Field Tall Grass Grotto Grass 03: Boss Key (Stone Tower Temple)
+    MM Termina Field Tall Grass Grotto Grass 04: Green Rupee
+    MM Termina Field Tall Grass Grotto Grass 05: Green Rupee
+    MM Termina Field Tall Grass Grotto Grass 06: C-Down Button
+    MM Termina Field Tall Grass Grotto Grass 07: Green Rupee
+    MM Termina Field Tall Grass Grotto Grass 08: Green Rupee
+    MM Termina Field Tall Grass Grotto Grass 09: Green Rupee
+    MM Termina Field Tall Grass Grotto Grass 10: Small Magic Jar
+    MM Termina Field Tall Grass Grotto Grass 11: Coin (Red)
+    MM Termina Field Tall Grass Grotto Grass 12: Green Rupee
+    MM Termina Field Tall Grass Grotto Grass 13: Ocean Skulltula Token
+    MM Termina Field Tall Grass Grotto Grass 14: Red Rupee
+    MM Termina Field Peahat Grotto: Postman's Hat
+    MM Peahat Grotto Grass 01: Green Rupee
+    MM Peahat Grotto Grass 02: Soul of Guays (MM)
+    MM Peahat Grotto Grass 03: Soul of Dog Lady (MM)
+    MM Peahat Grotto Grass 04: Swamp Skulltula Token
+    MM Peahat Grotto Grass 05: Green Rupee
+    MM Peahat Grotto Grass 06: Green Rupee
+    MM Peahat Grotto Grass 07: Blue Rupee
+    MM Peahat Grotto Grass 08: Green Rupee
+    MM Peahat Grotto Grass 09: Recovery Heart (MM)
+    MM Peahat Grotto Grass 10: Large Magic Jar
+    MM Peahat Grotto Grass 11: Fairy (MM)
+    MM Peahat Grotto Grass 12: Green Rupee
+    MM Termina Field Bio Baba Grotto: Green Rupee
+    MM Bio Baba Grotto Grass 1: Owl Statue (Stone Tower)
+    MM Bio Baba Grotto Grass 2: Green Rupee
+    MM Termina Field Dodongo Grotto: Green Rupee
+    MM Termina Field Pillar Grotto: Soul of Leevers (MM)
+    MM Termina Field Pillar Grotto Grass 01: Green Rupee
+    MM Termina Field Pillar Grotto Grass 02: Green Rupee
+    MM Termina Field Pillar Grotto Grass 03: Ocean Skulltula Token
+    MM Termina Field Pillar Grotto Grass 04: Piece of Heart (OoT)
+    MM Termina Field Pillar Grotto Grass 05: Piece of Heart (OoT)
+    MM Termina Field Pillar Grotto Grass 06: Stray Fairy (Woodfall Temple)
+    MM Termina Field Pillar Grotto Grass 07: Ocean Skulltula Token
+    MM Termina Field Pillar Grotto Grass 08: Green Rupee
+    MM Termina Field Pillar Grotto Grass 09: Stray Fairy (Snowhead Temple)
+    MM Termina Field Pillar Grotto Grass 10: Green Rupee
+    MM Termina Field Pillar Grotto Grass 11: C-Up Button
+    MM Termina Field Pillar Grotto Grass 12: Kamaro's Mask
+    MM Termina Field Pillar Grotto Grass 13: Green Rupee
+    MM Termina Field Pillar Grotto Grass 14: Blue Rupee
+    MM Termina Field Scrub: Green Rupee
+    MM Termina Field Scrub Pot: Ice Trap
+    MM Termina Field Cow Front: Purple Rupee
+    MM Termina Field Cow Back: Recovery Heart (MM)
+    MM Termina Field Cow Grotto Grass 01: Boss Key (Snowhead Temple)
+    MM Termina Field Cow Grotto Grass 02: Green Rupee
+    MM Termina Field Cow Grotto Grass 03: Green Rupee
+    MM Termina Field Cow Grotto Grass 04: Progressive Ocarina
+    MM Termina Field Cow Grotto Grass 05: Ice Trap
+    MM Termina Field Cow Grotto Grass 06: Green Rupee
+    MM Termina Field Cow Grotto Grass 07: Green Rupee
+    MM Termina Field Cow Grotto Grass 08: Ice Trap
+    MM Termina Field Cow Grotto Grass 09: Blue Rupee
+    MM Termina Field Cow Grotto Grass 10: Green Rupee
+    MM Termina Field Cow Grotto Grass 11: Ocean Skulltula Token
+    MM Termina Field Cow Grotto Grass 12: Ice Trap
+    MM Termina Field Cow Grotto Grass 13: Red Rupee
+    MM Termina Field Cow Grotto Grass 14: World Map of Clock Town
+    MM Termina Field Cow Grotto Grass 15: Green Rupee
+    MM Termina Field Cow Grotto Grass 16: Blue Rupee
+    MM Termina Field Cow Grotto Grass 17: Piece of Heart (OoT)
+    MM Termina Field Cow Grotto Grass 18: Ice Trap
+    MM Termina Field Cow Grotto Grass 19: Owl Statue (Snowhead)
+    MM Termina Field Cow Grotto Grass 20: Green Rupee
+    MM Termina Field Cow Grotto Grass 21: Zelda's Lullaby
+    MM Termina Field Cow Grotto Grass 22: 10 Arrows
+    MM Termina Field Cow Grotto Grass 23: Blue Rupee
+    MM Termina Field Cow Grotto Grass 24: Green Rupee
+    MM Termina Field Cow Grotto Grass 25: Piece of Heart (OoT)
+    MM Termina Field Cow Grotto Grass 26: Ice Trap
+    MM Termina Field Cow Grotto Grass 27: Red Potion (MM)
+    MM Termina Field Cow Grotto Grass 28: Piece of Heart (OoT)
+    MM Termina Field Cow Grotto Grass 29: Soul of Skullwalltulas (MM)
+    MM Termina Field Cow Grotto Grass 30: Romani Milk
+    MM Termina Field Cow Grotto Grass 31: Green Rupee
+    MM Termina Field Cow Grotto Grass 32: Green Rupee
+    MM Termina Field Cow Grotto Grass 33: Green Rupee
+    MM Termina Field Cow Grotto Grass 34: Piece of Heart (MM)
+    MM Termina Field Cow Grotto Grass 35: Stray Fairy (Woodfall Temple)
+    MM Termina Field Cow Grotto Grass 36: Ice Trap
+    MM Termina Field Cow Grotto Grass 37: Green Rupee
+    MM Termina Field Cow Grotto Grass 38: Green Rupee
+    MM Termina Field Cow Grotto Grass 39: Green Rupee
+    MM Termina Field Cow Grotto Grass 40: Ice Trap
+    MM Termina Field Cow Grotto Grass 41: Green Rupee
+    MM Termina Field Cow Grotto Grass 42: Soul of Anju (MM)
+    MM Termina Field Cow Grotto Grass 43: Recovery Heart (OoT)
+    MM Termina Field Cow Grotto Grass 44: Coin (Green)
+    MM Termina Field Cow Grotto Grass 45: Nayru's Love
+    MM Termina Field Cow Grotto Grass 46: Green Rupee
+    MM Termina Field Cow Grotto Grass 47: Piece of Heart (MM)
+    MM Termina Field Cow Grotto Grass 48: Green Rupee
+    MM Termina Field Cow Grotto Grass 49: Green Rupee
+    MM Termina Field Cow Grotto Grass 50: Piece of Heart (OoT)
+    MM Termina Field Cow Grotto Grass 51: Blue Rupee
+    MM Termina Field Cow Grotto Grass 52: Green Rupee
+    MM Termina Field Cow Grotto Grass 53: Green Rupee
+    MM Termina Field Cow Grotto Grass 54: Song of Soaring
+    MM Termina Field Cow Grotto Grass 55: Pictograph Box
+    MM Termina Field Cow Grotto Grass 56: Green Rupee
+    MM Termina Field Cow Grotto Grass 57: Coin (Blue)
+    MM Termina Field Cow Grotto Grass 58: Green Rupee
+    MM Termina Field Cow Grotto Grass 59: Recovery Heart (MM)
+    MM Termina Field Cow Grotto Grass 60: Blue Rupee
+    MM Termina Field Cow Grotto Grass 61: Soul of Bombers (MM)
+    MM Termina Field Cow Grotto Grass 62: Green Rupee
+    MM Termina Field Cow Grotto Grass 63: Progressive Clock
+    MM Termina Field Cow Grotto Grass 64: Green Rupee
+    MM Termina Field Cow Grotto Grass 65: Ice Trap
+    MM Termina Field Cow Grotto Grass 66: Blue Rupee
+    MM Termina Field Cow Grotto Grass 67: Green Rupee
+    MM Termina Field Cow Grotto Grass 68: Green Rupee
+    MM Termina Field Cow Grotto Grass 69: Pocket Cucco
+    MM Termina Field Cow Grotto Grass 70: Blue Rupee
+    MM Termina Field Cow Grotto Grass 71: Green Rupee
+    MM Termina Field Cow Grotto Grass 72: Blue Rupee
+    MM Termina Field Gossip Stones HP: Swamp Skulltula Token
+    MM Ocean Gossip Grotto Grass 1: Green Rupee
+    MM Ocean Gossip Grotto Grass 2: Progressive Scale
+    MM Ocean Gossip Grotto Grass 3: Mirror Shield
+    MM Ocean Gossip Grotto Grass 4: Stray Fairy (Stone Tower Temple)
+    MM Ocean Gossip Grotto Grass 5: Red Rupee
+    MM Canyon Gossip Grotto Grass 1: Green Rupee
+    MM Canyon Gossip Grotto Grass 2: Stray Fairy (Stone Tower Temple)
+    MM Canyon Gossip Grotto Grass 3: Recovery Heart (MM)
+    MM Canyon Gossip Grotto Grass 4: 10 Arrows
+    MM Canyon Gossip Grotto Grass 5: Green Rupee
+
+  Road to Southern Swamp (42):
+    MM Road to Southern Swamp HP: Green Rupee
+    MM Road to Southern Swamp Grass Pack 1 Grass 01: Progressive Goron Sword
+    MM Road to Southern Swamp Grass Pack 1 Grass 02: Ice Trap
+    MM Road to Southern Swamp Grass Pack 1 Grass 03: Small Magic Jar
+    MM Road to Southern Swamp Grass Pack 1 Grass 04: Green Rupee
+    MM Road to Southern Swamp Grass Pack 1 Grass 05: Hylian/Hero Shield
+    MM Road to Southern Swamp Grass Pack 1 Grass 06: C-Left Button
+    MM Road to Southern Swamp Grass Pack 1 Grass 07: Green Rupee
+    MM Road to Southern Swamp Grass Pack 1 Grass 08: Recovery Heart (MM)
+    MM Road to Southern Swamp Grass Pack 1 Grass 09: Bottle of Chateau Romani
+    MM Road to Southern Swamp Grass Pack 2 Grass 01: Coin (Yellow)
+    MM Road to Southern Swamp Grass Pack 2 Grass 02: Blast Mask
+    MM Road to Southern Swamp Grass Pack 2 Grass 03: Green Rupee
+    MM Road to Southern Swamp Grass Pack 2 Grass 04: Green Rupee
+    MM Road to Southern Swamp Grass Pack 2 Grass 05: Soul of Moon Children
+    MM Road to Southern Swamp Grass Pack 2 Grass 06: Green Rupee
+    MM Road to Southern Swamp Grass Pack 2 Grass 07: Green Rupee
+    MM Road to Southern Swamp Grass Pack 2 Grass 08: Fairy (MM)
+    MM Road to Southern Swamp Grass Pack 2 Grass 09: Small Key (Woodfall Temple)
+    MM Road to Southern Swamp Grass 1: Purple Rupee
+    MM Road to Southern Swamp Grass 2: Recovery Heart (MM)
+    MM Road to Southern Swamp Potted Plant 1 Pot: Ocean Skulltula Token
+    MM Road to Southern Swamp Potted Plant 1 Grass: Piece of Heart (MM)
+    MM Road to Southern Swamp Potted Plant 2 Pot: Green Rupee
+    MM Road to Southern Swamp Potted Plant 2 Grass: Green Rupee
+    MM Swamp Archery Reward 1: Green Rupee
+    MM Swamp Archery Reward 2: Green Rupee
+    MM Road to Southern Swamp Grotto: 10 Bombchu
+    MM Road to Southern Swamp Grotto Grass 01: Green Rupee
+    MM Road to Southern Swamp Grotto Grass 02: Piece of Heart (MM)
+    MM Road to Southern Swamp Grotto Grass 03: Green Rupee
+    MM Road to Southern Swamp Grotto Grass 04: Small Magic Jar
+    MM Road to Southern Swamp Grotto Grass 05: Piece of Heart (MM)
+    MM Road to Southern Swamp Grotto Grass 06: Boss Key (Woodfall Temple)
+    MM Road to Southern Swamp Grotto Grass 07: Green Rupee
+    MM Road to Southern Swamp Grotto Grass 08: Ice Trap
+    MM Road to Southern Swamp Grotto Grass 09: Stray Fairy (Woodfall Temple)
+    MM Road to Southern Swamp Grotto Grass 10: Green Rupee
+    MM Road to Southern Swamp Grotto Grass 11: Green Rupee
+    MM Road to Southern Swamp Grotto Grass 12: Piece of Heart (MM)
+    MM Road to Southern Swamp Grotto Grass 13: Green Rupee
+    MM Road to Southern Swamp Grotto Grass 14: Recovery Heart (MM)
+
+  Deku Palace (74):
+    MM Deku Palace HP: Stray Fairy (Snowhead Temple)
+    MM Deku Palace Rupee Right 01: Green Rupee
+    MM Deku Palace Rupee Right 02: Ice Trap
+    MM Deku Palace Rupee Right 03: Small Key (Stone Tower Temple)
+    MM Deku Palace Rupee Right 04: Fairy (MM)
+    MM Deku Palace Rupee Right 05: Green Rupee
+    MM Deku Palace Rupee Right 06: Green Rupee
+    MM Deku Palace Rupee Right 07: Red Rupee
+    MM Deku Palace Rupee Right 08: Stray Fairy (Woodfall Temple)
+    MM Deku Palace Rupee Right 09: Soul of Gyorg
+    MM Deku Palace Rupee Right 10: Stray Fairy (Great Bay Temple)
+    MM Deku Palace Rupee Right 11: Blue Rupee
+    MM Deku Palace Rupee Right 12: Ocean Skulltula Token
+    MM Deku Palace Rupee Right 13: Green Rupee
+    MM Deku Palace Rupee Left 1: Piece of Heart (MM)
+    MM Deku Palace Rupee Left 2: Swamp Skulltula Token
+    MM Deku Palace Rupee Left 3: Ice Trap
+    MM Deku Palace Rupee Left 5: Small Magic Jar
+    MM Deku Palace Rupee Left 6: Green Rupee
+    MM Deku Palace Rupee Left 7: Green Rupee
+    MM Deku Palace Rupee Left Far 1: Green Rupee
+    MM Deku Palace Rupee Left Far 2: Green Rupee
+    MM Deku Palace Rupee Left Far 3: Soul of Toilet Hand
+    MM Deku Palace Pot 1: Soul of Gorman & Bros. (MM)
+    MM Deku Palace Pot 2: Green Rupee
+    MM Deku Palace Sonata of Awakening: Large Magic Jar
+    MM Deku Palace Grotto Chest: Green Rupee
+    MM Deku Palace Grotto Grass 01: Blue Rupee
+    MM Deku Palace Grotto Grass 02: Green Rupee
+    MM Deku Palace Grotto Grass 03: Soul of the Fisherman (MM)
+    MM Deku Palace Grotto Grass 04: Green Rupee
+    MM Deku Palace Grotto Grass 05: Bolero of Fire
+    MM Deku Palace Grotto Grass 06: Large Magic Jar
+    MM Deku Palace Grotto Grass 07: Red Rupee
+    MM Deku Palace Grotto Grass 08: Piece of Heart (MM)
+    MM Deku Palace Grotto Grass 09: Green Rupee
+    MM Deku Palace Grotto Grass 10: Fairy (MM)
+    MM Deku Palace Grotto Grass 11: Green Rupee
+    MM Deku Palace Grotto Grass 12: 10 Arrows
+    MM Deku Shrine Pot 1: Green Rupee
+    MM Deku Shrine Pot 2: Stray Fairy (Great Bay Temple)
+    MM Deku Shrine Rupee Main 01: Red Rupee
+    MM Deku Shrine Rupee Main 02: Deku Nut Upgrade
+    MM Deku Shrine Rupee Main 03: Owl Statue (Clock Town)
+    MM Deku Shrine Rupee Main 04: Green Rupee
+    MM Deku Shrine Rupee Main 05: Ice Trap
+    MM Deku Shrine Rupee Main 06: Green Rupee
+    MM Deku Shrine Rupee Main 07: Small Magic Jar
+    MM Deku Shrine Rupee Main 08: Skull Mask
+    MM Deku Shrine Rupee Main 09: Green Rupee
+    MM Deku Shrine Rupee Main 10: Green Rupee
+    MM Deku Shrine Rupee Main 11: Empty Bottle (OoT)
+    MM Deku Shrine Rupee Main 12: Green Rupee
+    MM Deku Shrine Rupee Main 13: World Map of Great Bay
+    MM Deku Shrine Rupee Main 14: Piece of Heart (MM)
+    MM Deku Shrine Rupee Main 15: Progressive Hookshot
+    MM Deku Shrine Rupee Main 16: Green Rupee
+    MM Deku Shrine Rupee Main 17: Recovery Heart (MM)
+    MM Deku Shrine Rupee Main 18: Ocean Skulltula Token
+    MM Deku Shrine Rupee Main 19: Silver Rupee
+    MM Deku Shrine Rupee Main 20: Green Rupee
+    MM Deku Shrine Mask of Scents: Heart Container (OoT)
+    MM Deku Shrine Rupee End 01: Coin (Yellow)
+    MM Deku Shrine Rupee End 02: Soul of Wizzrobes
+    MM Deku Shrine Rupee End 03: Deku Stick Upgrade
+    MM Deku Shrine Rupee End 04: Large Magic Jar
+    MM Deku Shrine Rupee End 05: Green Rupee
+    MM Deku Shrine Rupee End 06: Din's Fire
+    MM Deku Shrine Rupee End 07: Green Rupee
+    MM Deku Shrine Rupee End 08: Green Rupee
+    MM Deku Shrine Rupee End 09: Green Rupee
+    MM Deku Shrine Rupee End 10: Blue Rupee
+    MM Deku Palace Rupee Layout-Dependant 1: Ice Trap
+    MM Deku Palace Rupee Layout-Dependant 2: Spooky Mask
+
+  Twin Islands (66):
+    MM Goron Elder: Couple's Mask
+    MM Twin Islands Underwater Chest 1: Minuet of Forest
+    MM Twin Islands Underwater Chest 2: Coin (Green)
+    MM Twin Islands Grass 01: Green Rupee
+    MM Twin Islands Grass 02: Green Rupee
+    MM Twin Islands Grass 03: Blue Rupee
+    MM Twin Islands Grass 04: World Map of Snowhead
+    MM Twin Islands Grass 05: Piece of Heart (MM)
+    MM Twin Islands Grass 06: Soul of Beamos (MM)
+    MM Twin Islands Grass 07: Piece of Heart (OoT)
+    MM Twin Islands Grass 08: Megaton Hammer
+    MM Twin Islands Grass 09: Green Rupee
+    MM Twin Islands Grass 10: Coin (Yellow)
+    MM Twin Islands Grass 11: Swamp Skulltula Token
+    MM Twin Islands Grass 12: Ice Trap
+    MM Twin Islands Rupee 1: Green Rupee
+    MM Twin Islands Rupee 2: Romani Milk
+    MM Twin Islands Rupee 3: Green Rupee
+    MM Twin Islands Rupee 4: Small Key (Stone Tower Temple)
+    MM Twin Islands Ramp Grotto Chest: Green Rupee
+    MM Twin Islands Ramp Grotto Grass 01: Green Rupee
+    MM Twin Islands Ramp Grotto Grass 02: Ice Trap
+    MM Twin Islands Ramp Grotto Grass 03: Green Rupee
+    MM Twin Islands Ramp Grotto Grass 04: Gold Rupee
+    MM Twin Islands Ramp Grotto Grass 05: Prelude of Light
+    MM Twin Islands Ramp Grotto Grass 06: Red Rupee
+    MM Twin Islands Ramp Grotto Grass 07: Coin (Green)
+    MM Twin Islands Ramp Grotto Grass 08: Green Rupee
+    MM Twin Islands Ramp Grotto Grass 09: Recovery Heart (MM)
+    MM Twin Islands Ramp Grotto Grass 10: Green Rupee
+    MM Twin Islands Ramp Grotto Grass 11: Green Rupee
+    MM Twin Islands Ramp Grotto Grass 12: 5 Arrows
+    MM Twin Islands Ramp Grotto Grass 13: Large Magic Jar
+    MM Twin Islands Ramp Grotto Grass 14: Bombchu
+    MM Twin Islands Frozen Grotto Chest: Green Rupee
+    MM Goron Race Reward: Green Rupee
+    MM Goron Race Pot 01: Deku Stick
+    MM Goron Race Pot 02: Green Rupee
+    MM Goron Race Pot 03: Stone of Agony (OoT)
+    MM Goron Race Pot 04: Gold Rupee
+    MM Goron Race Pot 05: Gold Rupee
+    MM Goron Race Pot 06: Ocean Skulltula Token
+    MM Goron Race Pot 07: Soul of the Deku Butler
+    MM Goron Race Pot 08: Green Rupee
+    MM Goron Race Pot 09: Green Rupee
+    MM Goron Race Pot 10: Fairy (MM)
+    MM Goron Race Pot 11: 10 Deku Nuts
+    MM Goron Race Pot 12: Fairy (MM)
+    MM Goron Race Pot 13: Ice Trap
+    MM Goron Race Pot 14: 10 Deku Nuts
+    MM Goron Race Pot 15: Green Rupee
+    MM Goron Race Pot 16: Fairy (MM)
+    MM Goron Race Pot 17: Shared Bow
+    MM Goron Race Pot 18: Soul of Dampe (MM)
+    MM Goron Race Pot 19: Green Rupee
+    MM Goron Race Pot 20: 5 Bombchu
+    MM Goron Race Pot 21: Fairy (MM)
+    MM Goron Race Pot 22: Green Rupee
+    MM Goron Race Pot 23: C-Right Button
+    MM Goron Race Pot 24: Piece of Heart (MM)
+    MM Goron Race Pot 25: Green Rupee
+    MM Goron Race Pot 26: Green Rupee
+    MM Goron Race Pot 27: Green Rupee
+    MM Goron Race Pot 28: Ice Trap
+    MM Goron Race Pot 29: Green Rupee
+    MM Goron Race Pot 30: Progressive Wallet
+
+  Goron Village (46):
+    MM Goron Village HP: Swamp Skulltula Token
+    MM Goron Village Scrub Deed: Green Rupee
+    MM Goron Village Scrub Bomb Bag: Green Rupee
+    MM Goron Powder Keg: Ocean Skulltula Token
+    MM Lone Peak Shrine Lens Chest: Green Rupee
+    MM Lone Peak Shrine Boulder Chest: Green Rupee
+    MM Lone Peak Shrine Invisible Chest: Green Rupee
+    MM Lone Peak Shrine Grass Pack 1 Grass 01: Green Rupee
+    MM Lone Peak Shrine Grass Pack 1 Grass 02: Green Rupee
+    MM Lone Peak Shrine Grass Pack 1 Grass 03: Green Rupee
+    MM Lone Peak Shrine Grass Pack 1 Grass 04: Mask of Scents
+    MM Lone Peak Shrine Grass Pack 1 Grass 05: Red Rupee
+    MM Lone Peak Shrine Grass Pack 1 Grass 06: Red Rupee
+    MM Lone Peak Shrine Grass Pack 1 Grass 07: Green Rupee
+    MM Lone Peak Shrine Grass Pack 1 Grass 08: Green Rupee
+    MM Lone Peak Shrine Grass Pack 1 Grass 09: Large Magic Jar
+    MM Lone Peak Shrine Grass Pack 1 Grass 10: Piece of Heart (MM)
+    MM Lone Peak Shrine Grass Pack 1 Grass 11: 10 Bombs
+    MM Lone Peak Shrine Grass Pack 1 Grass 12: Red Rupee
+    MM Lone Peak Shrine Grass Pack 2 Grass 01: Ice Trap
+    MM Lone Peak Shrine Grass Pack 2 Grass 02: Green Rupee
+    MM Lone Peak Shrine Grass Pack 2 Grass 03: Soul of Lizalfos/Dinolfos (MM)
+    MM Lone Peak Shrine Grass Pack 2 Grass 04: Piece of Heart (MM)
+    MM Lone Peak Shrine Grass Pack 2 Grass 05: Green Rupee
+    MM Lone Peak Shrine Grass Pack 2 Grass 06: Green Rupee
+    MM Lone Peak Shrine Grass Pack 2 Grass 07: Green Rupee
+    MM Lone Peak Shrine Grass Pack 2 Grass 08: Soul of Gorons (MM)
+    MM Lone Peak Shrine Grass Pack 2 Grass 09: Ice Trap
+    MM Lone Peak Shrine Grass Pack 2 Grass 10: Green Rupee
+    MM Lone Peak Shrine Grass Pack 2 Grass 11: Green Rupee
+    MM Lone Peak Shrine Grass Pack 2 Grass 12: Coin (Red)
+    MM Goron Baby: Soul of Eyegores
+    MM Goron Shrine Pot 01: Green Rupee
+    MM Goron Shrine Pot 02: Green Rupee
+    MM Goron Shrine Pot 03: Green Rupee
+    MM Goron Shrine Pot 04: Coin (Green)
+    MM Goron Shrine Pot 05: Piece of Heart (MM)
+    MM Goron Shrine Pot 06: Keaton Mask
+    MM Goron Shrine Pot 07: Epona's Song
+    MM Goron Shrine Pot 08: Ice Trap
+    MM Goron Shrine Pot 09: Stray Fairy (Great Bay Temple)
+    MM Goron Shrine Pot 10: Blue Rupee
+    MM Goron Shrine Pot 11: Green Rupee
+    MM Goron Shop Item 1: Green Rupee
+    MM Goron Shop Item 2: Soul of Citizens (MM)
+    MM Goron Shop Item 3: Recovery Heart (OoT)
+
+  Road to Snowhead (16):
+    MM Path to Snowhead HP: Green Rupee
+    MM Path to Snowhead Grotto: Green Rupee
+    MM Path to Snowhead Grotto Grass 01: Piece of Heart (OoT)
+    MM Path to Snowhead Grotto Grass 02: Fairy (MM)
+    MM Path to Snowhead Grotto Grass 03: Green Rupee
+    MM Path to Snowhead Grotto Grass 04: Green Rupee
+    MM Path to Snowhead Grotto Grass 05: 20 Bombs
+    MM Path to Snowhead Grotto Grass 06: Goron Mask
+    MM Path to Snowhead Grotto Grass 07: 10 Arrows
+    MM Path to Snowhead Grotto Grass 08: Piece of Heart (MM)
+    MM Path to Snowhead Grotto Grass 09: Blue Rupee
+    MM Path to Snowhead Grotto Grass 10: Green Rupee
+    MM Path to Snowhead Grotto Grass 11: Green Rupee
+    MM Path to Snowhead Grotto Grass 12: Green Rupee
+    MM Path to Snowhead Grotto Grass 13: Soul of Biggoron (MM)
+    MM Path to Snowhead Grotto Grass 14: Soul of the Beans Salesman (MM)
+
+  Romani Ranch (74):
+    MM Romani Ranch Epona Song: Green Rupee
+    MM Romani Ranch Aliens: Blue Rupee
+    MM Romani Ranch Cremia Escort: Green Rupee
+    MM Romani Ranch Grass Pack 1 Grass 01: Stray Fairy (Great Bay Temple)
+    MM Romani Ranch Grass Pack 1 Grass 02: Recovery Heart (MM)
+    MM Romani Ranch Grass Pack 1 Grass 03: Piece of Heart (MM)
+    MM Romani Ranch Grass Pack 1 Grass 04: Soul of Shell Blades (MM)
+    MM Romani Ranch Grass Pack 1 Grass 05: Odd Mushroom
+    MM Romani Ranch Grass Pack 1 Grass 06: Piece of Heart (MM)
+    MM Romani Ranch Grass Pack 1 Grass 07: Green Rupee
+    MM Romani Ranch Grass Pack 1 Grass 08: Green Rupee
+    MM Romani Ranch Grass Pack 1 Grass 09: Coin (Yellow)
+    MM Romani Ranch Grass Pack 1 Grass 10: Gold Rupee
+    MM Romani Ranch Grass Pack 1 Grass 11: Soul of the Goron Elder
+    MM Romani Ranch Grass Pack 1 Grass 12: Red Rupee
+    MM Romani Ranch Grass Pack 2 Grass 01: Ice Trap
+    MM Romani Ranch Grass Pack 2 Grass 02: Recovery Heart (MM)
+    MM Romani Ranch Grass Pack 2 Grass 03: Green Rupee
+    MM Romani Ranch Grass Pack 2 Grass 04: Fairy (MM)
+    MM Romani Ranch Grass Pack 2 Grass 05: Green Rupee
+    MM Romani Ranch Grass Pack 2 Grass 06: Coin (Red)
+    MM Romani Ranch Grass Pack 2 Grass 07: Soul of Chuchus
+    MM Romani Ranch Grass Pack 2 Grass 08: Green Rupee
+    MM Romani Ranch Grass Pack 2 Grass 09: Green Rupee
+    MM Romani Ranch Grass Pack 2 Grass 10: Silver Rupee
+    MM Romani Ranch Grass Pack 2 Grass 11: Shared Bow
+    MM Romani Ranch Grass Pack 2 Grass 12: Green Rupee
+    MM Romani Ranch Grass Pack 3 Grass 01: Piece of Heart (MM)
+    MM Romani Ranch Grass Pack 3 Grass 02: Double Defense (OoT)
+    MM Romani Ranch Grass Pack 3 Grass 03: Ice Trap
+    MM Romani Ranch Grass Pack 3 Grass 04: Ice Trap
+    MM Romani Ranch Grass Pack 3 Grass 05: Recovery Heart (MM)
+    MM Romani Ranch Grass Pack 3 Grass 06: Green Rupee
+    MM Romani Ranch Grass Pack 3 Grass 07: Green Rupee
+    MM Romani Ranch Grass Pack 3 Grass 08: Green Rupee
+    MM Romani Ranch Grass Pack 3 Grass 09: Green Rupee
+    MM Romani Ranch Grass Pack 3 Grass 10: Deku Shield (OoT)
+    MM Romani Ranch Grass Pack 3 Grass 11: Soul of Warts
+    MM Romani Ranch Grass Pack 3 Grass 12: Green Rupee
+    MM Romani Ranch Grass Pack 4 Grass 01: Ocean Skulltula Token
+    MM Romani Ranch Grass Pack 4 Grass 02: Ice Trap
+    MM Romani Ranch Grass Pack 4 Grass 03: Master Sword
+    MM Romani Ranch Grass Pack 4 Grass 04: Small Magic Jar
+    MM Romani Ranch Grass Pack 4 Grass 05: Large Magic Jar
+    MM Romani Ranch Grass Pack 4 Grass 06: Green Rupee
+    MM Romani Ranch Grass Pack 4 Grass 07: Blue Rupee
+    MM Romani Ranch Grass Pack 4 Grass 08: Green Rupee
+    MM Romani Ranch Grass Pack 4 Grass 09: Ice Trap
+    MM Romani Ranch Grass Pack 4 Grass 10: Green Rupee
+    MM Romani Ranch Grass Pack 4 Grass 11: Stray Fairy (Great Bay Temple)
+    MM Romani Ranch Grass Pack 4 Grass 12: Soul of Toto(MM)
+    MM Romani Ranch Grass Pack 5 Grass 01: Green Rupee
+    MM Romani Ranch Grass Pack 5 Grass 02: Green Rupee
+    MM Romani Ranch Grass Pack 5 Grass 03: Bottle of Gold Dust
+    MM Romani Ranch Grass Pack 5 Grass 04: Ruto's Letter
+    MM Romani Ranch Grass Pack 5 Grass 05: Green Rupee
+    MM Romani Ranch Grass Pack 5 Grass 06: Green Rupee
+    MM Romani Ranch Grass Pack 5 Grass 07: A Button
+    MM Romani Ranch Grass Pack 5 Grass 08: Green Rupee
+    MM Romani Ranch Grass Pack 5 Grass 09: Green Rupee
+    MM Cucco Shack Bunny Mask: Green Rupee
+    MM Cucco Shack Potted Plant 1 Pot: Saria's Song
+    MM Cucco Shack Potted Plant 1 Grass: Blue Rupee
+    MM Cucco Shack Potted Plant 2 Pot: Blue Rupee
+    MM Cucco Shack Potted Plant 2 Grass: Green Rupee
+    MM Doggy Racetrack Chest: Silver Rupee
+    MM Doggy Racetrack HP: Green Rupee
+    MM Doggy Racetrack Pot 1: Green Rupee
+    MM Doggy Racetrack Pot 2: Recovery Heart (MM)
+    MM Doggy Racetrack Pot 3: Soul of Bio Babas
+    MM Doggy Racetrack Pot 4: Green Rupee
+    MM Romani Ranch Barn Cow Left: Deku Stick
+    MM Romani Ranch Barn Cow Right Front: Coin (Yellow)
+    MM Romani Ranch Barn Cow Right Back: Green Rupee
+
+  Pinnacle Rock (14):
+    MM Pinnacle Rock Chest 1: Progressive Strength
+    MM Pinnacle Rock Chest 2: Soul of Armos (MM)
+    MM Pinnacle Rock HP: Stray Fairy (Snowhead Temple)
+    MM Pinnacle Rock Pot 01: Stray Fairy (Woodfall Temple)
+    MM Pinnacle Rock Pot 02: Green Rupee
+    MM Pinnacle Rock Pot 03: Green Rupee
+    MM Pinnacle Rock Pot 04: Green Rupee
+    MM Pinnacle Rock Pot 05: Stray Fairy (Great Bay Temple)
+    MM Pinnacle Rock Pot 06: Stray Fairy (Great Bay Temple)
+    MM Pinnacle Rock Pot 07: Blue Rupee
+    MM Pinnacle Rock Pot 08: Green Rupee
+    MM Pinnacle Rock Pot 09: Green Rupee
+    MM Pinnacle Rock Pot 10: Green Rupee
+    MM Pinnacle Rock Pot 11: Piece of Heart (OoT)
+
+  Zora Hall (8):
+    MM Zora Hall Scene Lights: 30 Arrows
+    MM Zora Shop Item 1: Soul of Freezards (MM)
+    MM Zora Shop Item 2: Green Rupee
+    MM Zora Shop Item 3: Blue Rupee
+    MM Zora Hall Evan HP: Purple Rupee
+    MM Zora Hall Scrub HP: Blue Rupee
+    MM Zora Hall Scrub Shop: Fierce Deity's Mask
+    MM Zora Hall Scrub Deed: Red Rupee
+
+  Road to Ikana (18):
+    MM Road to Ikana Chest: Purple Rupee
+    MM Road to Ikana Grotto: Green Rupee
+    MM Road to Ikana Grotto Grass 01: Blue Rupee
+    MM Road to Ikana Grotto Grass 02: Heart Container (MM)
+    MM Road to Ikana Grotto Grass 03: Green Rupee
+    MM Road to Ikana Grotto Grass 04: Green Rupee
+    MM Road to Ikana Grotto Grass 05: Stray Fairy (Woodfall Temple)
+    MM Road to Ikana Grotto Grass 06: Soul of Boes
+    MM Road to Ikana Grotto Grass 07: Blue Rupee
+    MM Road to Ikana Grotto Grass 08: Green Rupee
+    MM Road to Ikana Grotto Grass 09: Hover Boots
+    MM Road to Ikana Grotto Grass 10: Green Rupee
+    MM Road to Ikana Grotto Grass 11: Deku Stick
+    MM Road to Ikana Grotto Grass 12: Green Rupee
+    MM Road to Ikana Grotto Grass 13: Stray Fairy (Woodfall Temple)
+    MM Road to Ikana Grotto Grass 14: Stray Fairy (Great Bay Temple)
+    MM Road to Ikana Stone Mask: Purple Rupee
+    MM Road to Ikana Pot: Green Rupee
+
+  Ikana Graveyard (63):
+    MM Ikana Graveyard Captain Mask: Swamp Skulltula Token
+    MM Ikana Graveyard Grass 1: Red Rupee
+    MM Ikana Graveyard Grass 2: Green Rupee
+    MM Ikana Graveyard Grass 3: Ice Trap
+    MM Ikana Graveyard Grass 4: Recovery Heart (MM)
+    MM Ikana Graveyard Grass 5: Small Key (Snowhead Temple)
+    MM Ikana Graveyard Grass Pack Grass 1: Soul of Trading Post Owner (MM)
+    MM Ikana Graveyard Grass Pack Grass 2: Requiem of Spirit
+    MM Ikana Graveyard Grass Pack Grass 3: Piece of Heart (MM)
+    MM Ikana Graveyard Grass Pack Grass 4: Coin (Blue)
+    MM Ikana Graveyard Grass Pack Grass 5: Ocean Skulltula Token
+    MM Ikana Graveyard Grass Pack Grass 6: Green Rupee
+    MM Ikana Graveyard Grass Pack Grass 7: Swamp Title Deed
+    MM Ikana Graveyard Grass Pack Grass 8: Red Potion (MM)
+    MM Ikana Graveyard Grass Pack Grass 9: Green Rupee
+    MM Ikana Graveyard Grotto: Swamp Skulltula Token
+    MM Ikana Graveyard Grotto Grass 01: Green Rupee
+    MM Ikana Graveyard Grotto Grass 02: Recovery Heart (MM)
+    MM Ikana Graveyard Grotto Grass 03: 10 Arrows
+    MM Ikana Graveyard Grotto Grass 04: Progressive Wallet
+    MM Ikana Graveyard Grotto Grass 05: Heart Container (OoT)
+    MM Ikana Graveyard Grotto Grass 06: Green Rupee
+    MM Ikana Graveyard Grotto Grass 07: Fairy (MM)
+    MM Ikana Graveyard Grotto Grass 08: Green Rupee
+    MM Ikana Graveyard Grotto Grass 09: Green Rupee
+    MM Ikana Graveyard Grotto Grass 10: Coin (Blue)
+    MM Ikana Graveyard Grotto Grass 11: Ocean Skulltula Token
+    MM Ikana Graveyard Grotto Grass 12: Green Rupee
+    MM Ikana Graveyard Grotto Grass 13: Green Rupee
+    MM Ikana Graveyard Grotto Grass 14: Red Rupee
+    MM Beneath The Graveyard Chest: Green Rupee
+    MM Beneath The Graveyard Song of Storms: Owl Statue (Mountain Village)
+    MM Beneath The Graveyard Pot Night 1 Early 1: Bottle of Milk (OoT)
+    MM Beneath The Graveyard Pot Night 1 Early 2: World Map of Ranch
+    MM Beneath The Graveyard Pot Night 1 Bats 1: Green Rupee
+    MM Beneath The Graveyard Pot Night 1 Bats 2: Circus Leader's Mask
+    MM Beneath The Graveyard Pot Night 1 Bats 3: Fairy (MM)
+    MM Beneath The Graveyard HP: Owl Statue (Great Bay)
+    MM Beneath The Graveyard Pot Night 2 Early: Coin (Blue)
+    MM Beneath The Graveyard Pot Night 2 Before Pit 1: Green Rupee
+    MM Beneath The Graveyard Pot Night 2 Before Pit 2: Green Rupee
+    MM Beneath The Graveyard Pot Night 2 After Pit 1: Green Rupee
+    MM Beneath The Graveyard Pot Night 2 After Pit 2: Zora Mask
+    MM Beneath The Graveyard Pot Night 2 After Pit 3: Green Rupee
+    MM Beneath The Graveyard Pot Night 2 After Pit 4: Green Potion (MM)
+    MM Beneath The Graveyard Rupee 1: Shared Magic Upgrade
+    MM Beneath The Graveyard Rupee 2: Green Rupee
+    MM Beneath The Graveyard Rupee 3: Green Rupee
+    MM Beneath The Graveyard Rupee 4: Green Rupee
+    MM Beneath The Graveyard Rupee 5: Ice Trap
+    MM Beneath The Graveyard Rupee 6: Ice Trap
+    MM Beneath The Graveyard Rupee 7: Stray Fairy (Woodfall Temple)
+    MM Beneath The Graveyard Dampe Chest: Ice Trap
+    MM Beneath The Graveyard Pot Dampe 01: Green Rupee
+    MM Beneath The Graveyard Pot Dampe 02: 10 Deku Nuts
+    MM Beneath The Graveyard Pot Dampe 03: Fairy (MM)
+    MM Beneath The Graveyard Pot Dampe 04: Ocean Skulltula Token
+    MM Beneath The Graveyard Pot Dampe 05: Green Rupee
+    MM Beneath The Graveyard Pot Dampe 06: Large Magic Jar
+    MM Beneath The Graveyard Pot Dampe 07: Stray Fairy (Great Bay Temple)
+    MM Beneath The Graveyard Pot Dampe 08: Piece of Heart (MM)
+    MM Beneath The Graveyard Pot Dampe 09: Soul of Carpenters (MM)
+    MM Beneath The Graveyard Pot Dampe 10: Green Rupee
+
+  Woodfall Temple (28):
+    MM Woodfall Temple Entrance Chest: Green Rupee
+    MM Woodfall Temple SF Entrance: Red Rupee
+    MM Woodfall Temple SF Main Pot: Blue Rupee
+    MM Woodfall Temple SF Main Deku Baba: Large Magic Jar
+    MM Woodfall Temple Water Chest: Shared Bomb Bag
+    MM Woodfall Temple SF Water Room Beehive: Green Rupee
+    MM Woodfall Temple Map: Stray Fairy (Woodfall Temple)
+    MM Woodfall Temple SF Maze Skulltula: Green Rupee
+    MM Woodfall Temple SF Maze Beehive: Silver Rupee
+    MM Woodfall Temple SF Maze Bubble: Ice Trap
+    MM Woodfall Temple Compass: Green Rupee
+    MM Woodfall Temple Dark Chest: Swamp Skulltula Token
+    MM Woodfall Temple Center Chest: Soul of Town Archery Owner (MM)
+    MM Woodfall Temple SF Main Bubble: Stray Fairy (Stone Tower Temple)
+    MM Woodfall Temple Bow: Map (Woodfall Temple)
+    MM Woodfall Temple Boss Key Chest: Hylian/Hero Shield
+    MM Woodfall Temple SF Pre-Boss Bottom Right: Green Rupee
+    MM Woodfall Temple SF Pre-Boss Left: Green Rupee
+    MM Woodfall Temple SF Pre-Boss Top Right: Stray Fairy (Stone Tower Temple)
+    MM Woodfall Temple SF Pre-Boss Pillar: Green Rupee
+    MM Woodfall Temple Rupee Lower 1: Soul of the Scientist (MM)
+    MM Woodfall Temple Rupee Lower 2: Ice Trap
+    MM Woodfall Temple Rupee Lower 3: Large Magic Jar
+    MM Woodfall Temple Rupee Lower 4: Green Rupee
+    MM Woodfall Temple Rupee Upper Left: Compass (Woodfall Temple)
+    MM Woodfall Temple Rupee Upper Right: Large Magic Jar
+    MM Woodfall Temple Boss Container: Green Rupee
+    MM Woodfall Temple Boss: Shadow Medallion
+
+  Snowhead Temple (27):
+    MM Snowhead Temple Bridge Room: Green Rupee
+    MM Snowhead Temple SF Bridge Under Platform: Purple Rupee
+    MM Snowhead Temple SF Bridge Pillar: Green Rupee
+    MM Snowhead Temple Map: Green Rupee
+    MM Snowhead Temple SF Map Room: Green Rupee
+    MM Snowhead Temple Map Alcove: Gerudo's Membership Card
+    MM Snowhead Temple Central Room Alcove: Ocean Skulltula Token
+    MM Snowhead Temple Pillars Room: Ocean Skulltula Token
+    MM Snowhead Temple Central Room Bottom: Green Rupee
+    MM Snowhead Temple Block Room: Green Rupee
+    MM Snowhead Temple Block Room Ledge: Compass (Snowhead Temple)
+    MM Snowhead Temple Compass: Green Rupee
+    MM Snowhead Temple Compass Room Ledge: Ocean Skulltula Token
+    MM Snowhead Temple SF Compass Room Crate: Green Rupee
+    MM Snowhead Temple Icicle Room Alcove: 10 Arrows
+    MM Snowhead Temple Icicle Room: Soul of the Banker (MM)
+    MM Snowhead Temple Rupee 1: Green Rupee
+    MM Snowhead Temple Rupee 2: Blue Rupee
+    MM Snowhead Temple Rupee 3: Map (Snowhead Temple)
+    MM Snowhead Temple SF Dual Switches: 10 Arrows
+    MM Snowhead Temple Fire Arrow: 10 Bombs
+    MM Snowhead Temple SF Snow Room: Green Rupee
+    MM Snowhead Temple SF Dinolfos 1: Green Rupee
+    MM Snowhead Temple SF Dinolfos 2: Red Rupee
+    MM Snowhead Temple Boss Key: Piece of Heart (OoT)
+    MM Snowhead Temple Boss HC: Green Rupee
+    MM Snowhead Temple Boss: Spirit Medallion
+
+  Great Bay Temple (31):
+    MM Great Bay Temple Entrance Chest: Blue Rupee
+    MM Great Bay Temple SF Water Wheel Platform: Green Rupee
+    MM Great Bay Temple SF Water Wheel Skulltula: 5 Arrows (OoT)
+    MM Great Bay Temple Rupee Entrance 1: Large Magic Jar
+    MM Great Bay Temple Rupee Entrance 2: Green Rupee
+    MM Great Bay Temple Rupee Entrance 3: Green Rupee
+    MM Great Bay Temple Rupee Entrance 4: Recovery Heart (MM)
+    MM Great Bay Temple Rupee Entrance 5: Green Rupee
+    MM Great Bay Temple SF Central Room Barrel: Purple Rupee
+    MM Great Bay Temple SF Central Room Underwater Pot: Green Rupee
+    MM Great Bay Temple Map: Green Rupee
+    MM Great Bay Temple SF Map Room Pot: Red Rupee
+    MM Great Bay Temple Baba Chest: Heart Container (MM)
+    MM Great Bay Temple Compass: Ice Trap
+    MM Great Bay Temple Compass Room Underwater: Small Magic Jar
+    MM Great Bay Temple SF Compass Room Pot: Red Rupee
+    MM Great Bay Temple Rupee Compass Room 1: Compass (Great Bay Temple)
+    MM Great Bay Temple Rupee Compass Room 2: Map (Great Bay Temple)
+    MM Great Bay Temple Ice Arrow: Ice Trap
+    MM Great Bay Temple Boss Key: Blue Rupee
+    MM Great Bay Temple Green Pipe 1 Chest: Green Rupee
+    MM Great Bay Temple Rupee Hookshot 1: Stray Fairy (Snowhead Temple)
+    MM Great Bay Temple Rupee Hookshot 2: Shared Light Arrows
+    MM Great Bay Temple Green Pipe 2 Lower Chest: Nocturne of Shadow
+    MM Great Bay Temple Green Pipe 2 Upper Chest: Eyeball Frog
+    MM Great Bay Temple Green Pipe 3 Chest: Red Rupee
+    MM Great Bay Temple SF Green Pipe 3 Barrel: Piece of Heart (OoT)
+    MM Great Bay Temple SF Pre-Boss Above Water: Blue Rupee
+    MM Great Bay Temple SF Pre-Boss Underwater: 5 Bombs
+    MM Great Bay Temple Boss HC: Blue Rupee
+    MM Great Bay Temple Boss: Water Medallion
+
+  Stone Tower Temple (58):
+    MM Stone Tower Temple Entrance Chest: All-Night Mask
+    MM Stone Tower Temple Entrance Switch Chest: 5 Arrows
+    MM Stone Tower Temple Under West Garden Ledge Chest: Green Rupee
+    MM Stone Tower Temple Under West Garden Lava Chest: Green Rupee
+    MM Stone Tower Temple Map: Red Rupee
+    MM Stone Tower Temple Center Sun Block Chest: Green Rupee
+    MM Stone Tower Temple Rupee Center Room Left: Red Rupee
+    MM Stone Tower Temple Rupee Center Room Right: Blue Rupee
+    MM Stone Tower Temple Center Across Water Chest: Red Rupee
+    MM Stone Tower Temple Compass: Bombchu
+    MM Stone Tower Temple Water Sun Switch Chest: Green Rupee
+    MM Stone Tower Temple Mirrors Room Center Chest: Owl Statue (Southern Swamp)
+    MM Stone Tower Temple Mirrors Room Right Chest: Piece of Heart (MM)
+    MM Stone Tower Temple Wind Room Ledge Chest: Owl Statue (Woodfall)
+    MM Stone Tower Temple Wind Room Jail Chest: Coin (Green)
+    MM Stone Tower Temple Rupee Wind Room 1: Compass (Stone Tower Temple)
+    MM Stone Tower Temple Rupee Wind Room 2: Stray Fairy (Stone Tower Temple)
+    MM Stone Tower Temple Rupee Wind Room 3: Piece of Heart (MM)
+    MM Stone Tower Temple Rupee Wind Room 4: Large Magic Jar
+    MM Stone Tower Temple Rupee Wind Room 5: Green Rupee
+    MM Stone Tower Temple Rupee Wind Room 6: Soul of Playground Scrubs
+    MM Stone Tower Temple Light Arrow: Soul of the Deku Princess
+    MM Stone Tower Temple Before Water Bridge Chest: Green Rupee
+    MM Stone Tower Temple Rupee Before Water Bridge 1: Map (Stone Tower Temple)
+    MM Stone Tower Temple Rupee Before Water Bridge 2: Green Rupee
+    MM Stone Tower Temple Rupee Before Water Bridge 3: Green Rupee
+    MM Stone Tower Temple Rupee Before Water Bridge 4: Piece of Heart (OoT)
+    MM Stone Tower Temple Rupee Before Water Bridge 5: Green Rupee
+    MM Stone Tower Temple Rupee Before Water Bridge 6: Blue Rupee
+    MM Stone Tower Temple Rupee Before Water Bridge 7: Green Rupee
+    MM Stone Tower Temple Rupee Before Water Bridge 8: Soul of Gomess
+    MM Stone Tower Temple Water Bridge Chest: Large Magic Jar
+    MM Stone Tower Temple Inverted Entrance Chest: Stray Fairy (Snowhead Temple)
+    MM Stone Tower Temple Inverted East Lower Chest: Green Rupee
+    MM Stone Tower Temple Inverted East Upper Chest: Green Rupee
+    MM Stone Tower Temple Inverted Rupee Alcove 1: Green Rupee
+    MM Stone Tower Temple Inverted Rupee Alcove 2: Stray Fairy (Snowhead Temple)
+    MM Stone Tower Temple Inverted East Middle Chest: Stray Fairy (Woodfall Temple)
+    MM Stone Tower Temple Inverted Rupee Dexihand 1: Ice Trap
+    MM Stone Tower Temple Inverted Rupee Dexihand 2: Piece of Heart (MM)
+    MM Stone Tower Temple Inverted Rupee Dexihand 3: Swamp Skulltula Token
+    MM Stone Tower Temple Inverted Wizzrobe Chest: Blue Potion (MM)
+    MM Stone Tower Temple Inverted Death Armos Chest: Ice Trap
+    MM Stone Tower Temple Inverted Boss Key: Ocean Skulltula Token
+    MM Stone Tower Temple Inverted Giant Mask: 10 Arrows
+    MM Stone Tower Temple Inverted Rupee Pre-Boss Top 1: Green Rupee
+    MM Stone Tower Temple Inverted Rupee Pre-Boss Top 2: Ice Trap
+    MM Stone Tower Temple Inverted Rupee Pre-Boss Top 3: Piece of Heart (OoT)
+    MM Stone Tower Temple Inverted Rupee Pre-Boss Front 1: Shared Bow
+    MM Stone Tower Temple Inverted Rupee Pre-Boss Front 2: Blue Rupee
+    MM Stone Tower Temple Inverted Rupee Pre-Boss Front 3: Coin (Red)
+    MM Stone Tower Temple Inverted Rupee Pre-Boss Front 4: Green Rupee
+    MM Stone Tower Temple Inverted Rupee Pre-Boss Back 1: Empty Bottle (MM)
+    MM Stone Tower Temple Inverted Rupee Pre-Boss Back 2: Green Rupee
+    MM Stone Tower Temple Inverted Rupee Pre-Boss Back 3: Ice Trap
+    MM Stone Tower Temple Inverted Rupee Pre-Boss Back 4: Recovery Heart (OoT)
+    MM Stone Tower Temple Inverted Boss HC: Green Rupee
+    MM Stone Tower Temple Inverted Boss: Zora's Sapphire
+
+  Pirates' Fortress Exterior (3):
+    MM Pirate Fortress Entrance Chest 1: Green Rupee
+    MM Pirate Fortress Entrance Chest 2: Green Rupee
+    MM Pirate Fortress Entrance Chest 3: Green Rupee
+
+  Pirates' Fortress Sewers (12):
+    MM Pirate Fortress Sewers Chest 1: Large Magic Jar
+    MM Pirate Fortress Sewers Chest 2: Piece of Heart (MM)
+    MM Pirate Fortress Sewers Chest 3: Fairy Slingshot
+    MM Pirate Fortress Sewers HP: Progressive Clock
+    MM Pirate Fortress Sewers Rupee Near Cage 1: Magic Beans (OoT)
+    MM Pirate Fortress Sewers Rupee Near Cage 2: Romani Milk
+    MM Pirate Fortress Sewers Rupee Near Cage 3: Green Potion (MM)
+    MM Pirate Fortress Sewers Rupee Near Cage 4: Soul of Snappers
+    MM Pirate Fortress Sewers Rupee Cage: Green Rupee
+    MM Pirate Fortress Sewers Rupee Water Elevator 1: Ice Trap
+    MM Pirate Fortress Sewers Rupee Water Elevator 2: Gold Rupee
+    MM Pirate Fortress Sewers Rupee Water Elevator 3: Green Rupee
+
+  Pirates' Fortress Interior (5):
+    MM Pirate Fortress Interior Lower Chest: New Wave Bossa Nova
+    MM Pirate Fortress Interior Upper Chest: Recovery Heart (MM)
+    MM Pirate Fortress Interior Hookshot: Green Rupee
+    MM Pirate Fortress Interior Aquarium: Blue Rupee
+    MM Pirate Fortress Interior Silver Rupee Chest: Deku Stick
+
+  Ikana Castle (2):
+    MM Ancient Castle of Ikana HP: Progressive Ocarina
+    MM Ancient Castle of Ikana Song Emptiness: Green Rupee
+
+  Beneath The Well (12):
+    MM Beneath The Well Fairy Fountain Fairy 1: Green Rupee
+    MM Beneath The Well Fairy Fountain Fairy 2: Purple Rupee
+    MM Beneath The Well Fairy Fountain Fairy 3: 10 Bombchu
+    MM Beneath The Well Fairy Fountain Fairy 4: Green Rupee
+    MM Beneath The Well Fairy Fountain Fairy 5: Green Rupee
+    MM Beneath The Well Fairy Fountain Fairy 6: Lens of Truth
+    MM Beneath The Well Fairy Fountain Fairy 7: Ice Trap
+    MM Beneath The Well Fairy Fountain Fairy 8: Blue Rupee
+    MM Beneath The Well Keese Chest: Ice Trap
+    MM Beneath The Well Cow: Odd Potion
+    MM Beneath The Well Skulltulla Chest: 10 Deku Nuts
+    MM Beneath The Well Mirror Shield: Soul of Swordsman (MM)
+
+  Secret Shrine (22):
+    MM Secret Shrine Rupee 01: Large Magic Jar
+    MM Secret Shrine Rupee 02: Green Rupee
+    MM Secret Shrine Rupee 03: Piece of Heart (MM)
+    MM Secret Shrine Rupee 04: Piece of Heart (MM)
+    MM Secret Shrine Rupee 05: Green Rupee
+    MM Secret Shrine Rupee 06: Swamp Skulltula Token
+    MM Secret Shrine Rupee 07: Swamp Skulltula Token
+    MM Secret Shrine Rupee 08: Green Rupee
+    MM Secret Shrine Rupee 09: Green Rupee
+    MM Secret Shrine Rupee 10: Red Rupee
+    MM Secret Shrine Rupee 11: Green Rupee
+    MM Secret Shrine Rupee 12: Soul of the Fighting Pirates
+    MM Secret Shrine Rupee 13: Green Rupee
+    MM Secret Shrine Rupee 14: Soul of Zoras (MM)
+    MM Secret Shrine Rupee 15: Blue Rupee
+    MM Secret Shrine Rupee 16: Green Rupee
+    MM Secret Shrine Rupee 17: Swamp Skulltula Token
+    MM Secret Shrine HP Chest: Piece of Heart (OoT)
+    MM Secret Shrine Dinalfos Chest: Soul of Astronomer (MM)
+    MM Secret Shrine Wizzrobe Chest: Green Rupee
+    MM Secret Shrine Wart Chest: Shared Bomb Bag
+    MM Secret Shrine Garo Master Chest: Swamp Skulltula Token
+
+  Swamp Spider House (31):
+    MM Swamp Spider House Mask of Truth: Zora Tunic
+    MM Swamp Skulltula Main Room Near Ceiling: Green Rupee
+    MM Swamp Skulltula Main Room Lower Right Soft Soil: Green Rupee
+    MM Swamp Skulltula Main Room Lower Left Soft Soil: Green Rupee
+    MM Swamp Skulltula Main Room Upper Soft Soil: Blue Rupee
+    MM Swamp Skulltula Main Room Upper Pillar: Stray Fairy (Stone Tower Temple)
+    MM Swamp Skulltula Main Room Pillar: Red Rupee
+    MM Swamp Skulltula Main Room Water: Recovery Heart (MM)
+    MM Swamp Skulltula Main Room Jar: Stray Fairy (Stone Tower Temple)
+    MM Swamp Skulltula Gold Room Hive: Green Rupee
+    MM Swamp Skulltula Gold Room Near Ceiling: Ocean Title Deed
+    MM Swamp Skulltula Gold Room Pillar: Swamp Skulltula Token
+    MM Swamp Skulltula Gold Room Wall: Green Rupee
+    MM Swamp Skulltula Tree Room Hive: Piece of Heart (OoT)
+    MM Swamp Skulltula Tree Room Grass 1: Magic Bean (MM)
+    MM Swamp Skulltula Tree Room Grass 2: Green Rupee
+    MM Swamp Skulltula Tree Room Tree 1: Blue Rupee
+    MM Swamp Skulltula Tree Room Tree 2: Ice Trap
+    MM Swamp Skulltula Tree Room Tree 3: Fairy (MM)
+    MM Swamp Skulltula Monument Room Lower Wall: Red Rupee
+    MM Swamp Skulltula Monument Room On Monument: Room Key
+    MM Swamp Skulltula Monument Room Crate 1: Captain's Hat
+    MM Swamp Skulltula Monument Room Crate 2: Swamp Skulltula Token
+    MM Swamp Skulltula Monument Room Torch: Swamp Skulltula Token
+    MM Swamp Skulltula Pot Room Hive 1: Coin (Red)
+    MM Swamp Skulltula Pot Room Hive 2: Soul of the Goron Shopkeeper (MM)
+    MM Swamp Skulltula Pot Room Behind Vines: Green Rupee
+    MM Swamp Skulltula Pot Room Pot 1: Soul of Real Bombchu
+    MM Swamp Skulltula Pot Room Pot 2: Ice Trap
+    MM Swamp Skulltula Pot Room Jar: Soul of Takkuri
+    MM Swamp Skulltula Pot Room Wall: 5 Bombs
+
+  Ocean Spider House (32):
+    MM Ocean Spider House Wallet: Piece of Heart (MM)
+    MM Ocean Skulltula Entrance Right Wall: Soul of Like Likes (MM)
+    MM Ocean Skulltula Entrance Left Wall: Shared Fire Arrows
+    MM Ocean Skulltula Entrance Web: Soul of Bubbles (MM)
+    MM Ocean Skulltula 2nd Room Ceiling Edge: Soul of Business Scrubs (MM)
+    MM Ocean Skulltula 2nd Room Ceiling Plank: Red Rupee
+    MM Ocean Skulltula 2nd Room Jar: Green Rupee
+    MM Ocean Skulltula 2nd Room Webbed Hole: Coin (Green)
+    MM Ocean Skulltula 2nd Room Behind Skull 1: Fairy (MM)
+    MM Ocean Skulltula 2nd Room Behind Skull 2: Green Rupee
+    MM Ocean Skulltula 2nd Room Webbed Pot: Swamp Skulltula Token
+    MM Ocean Skulltula 2nd Room Upper Pot: Green Rupee
+    MM Ocean Skulltula 2nd Room Lower Pot: Green Rupee
+    MM Ocean Skulltula Library Hole Behind Picture: Stray Fairy (Stone Tower Temple)
+    MM Ocean Skulltula Library Hole Behind Cabinet: Green Rupee
+    MM Ocean Skulltula Library On Corner Bookshelf: Green Rupee
+    MM Ocean Skulltula Library Behind Picture: Green Rupee
+    MM Ocean Skulltula Library Behind Bookcase 1: Small Magic Jar
+    MM Ocean Skulltula Library Behind Bookcase 2: Blue Rupee
+    MM Ocean Skulltula Library Ceiling Edge: Green Rupee
+    MM Ocean Skulltula Colored Skulls Chandelier 1: Green Rupee
+    MM Ocean Skulltula Colored Skulls Chandelier 2: Green Rupee
+    MM Ocean Skulltula Colored Skulls Chandelier 3: Green Rupee
+    MM Ocean Skulltula Colored Skulls Behind Picture: Large Magic Jar
+    MM Ocean Skulltula Colored Skulls Pot: Cojiro
+    MM Ocean Skulltula Colored Skulls Ceiling Edge: Green Rupee
+    MM Ocean Spider House Chest HP: Green Rupee
+    MM Ocean Skulltula Storage Room Behind Boat: Deku Stick Upgrade
+    MM Ocean Skulltula Storage Room Ceiling Web: Kafei's Mask
+    MM Ocean Skulltula Storage Room Behind Crate: Green Rupee
+    MM Ocean Skulltula Storage Room Crate: Soul of the Zora Musicians
+    MM Ocean Skulltula Storage Room Jar: Soul of Skulltulas (MM)
+
+  Clock Tower Roof (6):
+    MM Clock Tower Roof Skull Kid Ocarina: Song of Healing
+    MM Clock Tower Roof Skull Kid Song of Time: Green Rupee
+    MM Clock Tower Roof Pot 1: Green Rupee
+    MM Clock Tower Roof Pot 2: Green Rupee
+    MM Clock Tower Roof Pot 3: Soul of Hiploops
+    MM Clock Tower Roof Pot 4: Red Rupee
+
+  The Moon (7):
+    MM Moon Fierce Deity Mask: Serenade of Water
+    MM Moon Trial Deku HP: Romani Milk
+    MM Moon Trial Goron HP: Green Rupee
+    MM Moon Trial Zora HP: Green Rupee
+    MM Moon Trial Link Garo Master Chest: Green Rupee
+    MM Moon Trial Link Iron Knuckle Chest: Silver Rupee
+    MM Moon Trial Link HP: Green Rupee
+

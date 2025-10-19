@@ -1,0 +1,119 @@
+--------------------------------------------------------------------------------------------------------------------------------
+Enemy Souls MM						Defaults		Expected Value		Result		Notes
+--------------------------------------------------------------------------------------------------------------------------------
+Armos (MM)							False			True				Works
+Bad Bats							False			True				Works
+Beamos (MM)							False			True				Works
+Bio Babas							False			True				Works
+Boes								False			True				Works
+Bubbles (MM)						False			True				Works
+Captain Keeta						False			True				Works
+Chuchus								False			True				Works
+Deep Pythons						False			True				Works
+Deku Babas (MM)						False			True				Works
+Deku Scrubs (MM)					False			True				Works
+Dexihands							False			True				Works
+Dodongos (MM)						False			True				Works
+Dragonflies							False			True				Works
+Eenoes								False			True				Works
+Eyegores							False			True				Works
+Fighting Pirates					False			True				Works
+Floormasters (MM)					False			True				Works
+Flying Pots (MM)					False			True				Works
+Freezards (MM)						False			True				Works
+Garo								False			True				Works
+Gekkos								False			True				Works
+Gomess								False			True				Works
+Guays (MM)							False			True				Works
+Hiploops							False			True				Works
+Iron Knuckles (MM)					False			True				Works
+Keese (MM)							False			True				Works
+Leevers (MM)						False			True				Works
+Like Likes (MM)						False			True				Works
+Lizalfos/Dinolfos					False			True				Works
+Nejirons							False			True				Works
+OctoRoks (MM)						False			True				Works
+Peahats (MM)						False			True				Works
+ReDeads/Fibdos (MM)					False			True				Works
+Real Bombchu						False			True				Works
+Shell Blades (MM)					False			True				Works
+Skullfish (MM)						False			True				Works
+Skulltulas (MM)						False			True				Works
+Skullwalltulas (MM)					False			True				Works
+Snappers							False			True				Works
+Stalchildren (MM)					False			True				Works
+Takkuri								False			True				Works
+Tektites (MM)						False			True				Works
+Wallmasters (MM)					False			True				Works
+Warts								False			True				Works
+Wizzrobes							False			True				Works
+Wolfos								False			True				Works
+--------------------------------------------------------------------------------------------------------------------------------
+Boss Souls MM						Defaults		Expected Value		Result		Notes
+--------------------------------------------------------------------------------------------------------------------------------
+Goht								False			True				Works
+Gyorg								False			True				Works
+Igos								False			True				Works
+Odolwa								False			True				Works
+Twinmold							False			True				Works
+--------------------------------------------------------------------------------------------------------------------------------
+NPC Souls MM						Defaults		Expected Value		Result		Notes
+--------------------------------------------------------------------------------------------------------------------------------
+Anju (MM)							False			True				Works
+Anju's Grandmother (MM)				False			True				Works
+Astronomer (MM)						False			True				Works
+Banker (MM)							False			True				Works
+Beans Salesman (MM)					False			True				Works
+Biggoron (MM)						False			True				Works
+Blacksmiths							False			True				Works
+Bomb Shop Owner (MM)				False			True				Works
+Bombers (MM)						False			True				Works
+Carpenters (MM)						False			True				Works
+Chest Game Lady (MM)				False			True				Works
+Citizens (MM)						False			True				Works
+Composer Bros. (MM)					False			True				Works
+Dampe (MM)							False			True				Works
+Deku Butler							False			True				Works
+Deku King							False			True				Works
+Deku Princess						False			True				Works
+Dog Lady (MM)						False			True				Works
+Fisherman (MM)						False			True				Works
+Ghost Hut Owner (MM)				False			True				Works
+Gorman & Bros. (MM)					False			True				Works
+Goron Baby (MM)						False			True				Works
+Goron Elder							False			True				Works
+Goron Shopkeeper (MM)				False			True				Works
+Gorons (MM)							False			True				Works
+Grog (MM)							False			True				Works
+Guru-Guru  (MM)						False			True				Works
+Honey & Darling (MM)				False			True				Works
+Kafei								False			True				Works
+Keaton								False			True				Works
+Keg Trial Goron (MM)				False			True				Works
+Koume and Kotake					False			True				Works
+Lulu (MM)							False			True				Works
+Madame Aroma (MM)					False			True				Works
+Mayor Dotour						False			True				Works
+Moon Children						False			True				Works
+Mr. Barten (MM)						False			True				Works
+Part-Timer (MM)						False			True				Works
+Patrolling Pirates and Their Chief	False			True				Works
+Playground Scrubs					False			True				Works
+Romani/Cremia (MM)					False			True				Works
+Scientist (MM)						False			True				Works
+Swamp Archery Owner (MM)			False			True				Works
+Swordsman (MM)						False			True				Works
+Tingle								False			True				Works
+Toilet Hand							False			True				Works
+Toto(MM)							False			True				Works
+Tourist Center Owner				False			True				Works
+Town Archery Owner (MM)				False			True				Works
+Trading Post Owner (MM)				False			True				Works
+Zora Musicians						False			True				Works
+Zora Shopkeeper (MM)				False			True				Works
+Zoras (MM)							False			True				Works
+--------------------------------------------------------------------------------------------------------------------------------
+Misc Souls MM						Defaults		Expected Value		Result		Notes
+--------------------------------------------------------------------------------------------------------------------------------
+Business Scrubs (MM)				False			True				Works
+Gold Skulltulas (MM)				False			True				Works

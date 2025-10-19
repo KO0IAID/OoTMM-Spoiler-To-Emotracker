@@ -53,7 +53,7 @@
       "vanilla": 0,
       "ownDungeon": 1,
       "anywhere": 2,
-      "starting": 3
+      "starting": 1
     }
   },
   {
@@ -64,7 +64,7 @@
       "vanilla": 1,
       "ownDungeon": 2,
       "anywhere": 3,
-      "starting": 4
+      "starting": 2
     }
   },
   {

@@ -1,0 +1,39 @@
+Shared Items				Defaults		Expected Value		Result		Notes
+--------------------------------------------------------------------------------------------------------------------------------
+Shared Nuts & Sticks			False			True			Works		Deku Stick & Num Upgrades In MM 4 Shared		
+Shared Bows				False			True			Works
+Shared Bomb Bags			False			True			Works
+Shared Magic				False			True			Works
+Shared Fire Arrow			False			True			Works
+Shared Ice Arrow			False			True			Works
+Shared Light Arrow			False			True			Works
+Shared Epona's Song			False			True			Works
+Shared Song Of Storms			False			True			Works
+Shared Song Of Time			False			True			Works
+Shared Hookshots			False			True			Works
+Shared Lens Of Truth			False			True			Works
+Shared Ocarina Of Time			False			True			Works
+Shared Goron Mask			False			True			Works
+Shared Zora Mask			False			True			Works
+Shared Bunny Hood			False			True			Works
+Shared Keaton Mask			False			True			Works
+Shared Mask Of Truth			False			True			Works
+Shared Blast Mask			False			True			Works		Blast Mask (OoT) 4 Shared Blast Mask
+Shared Stone Mask			False			True			Works		Stone Mask (OoT) 4 Shared Stone Mask
+Shared Elegy Of Emptiness		False			True			Works		
+Shared Wallets 				False			True			Works
+Shared Swords				False			True			Works		Extra Child Swords 4 Shared Child Swords 
+Shared Shields				False			True			Works
+Shared Ocarina Buttons			False			True			Works		both game buttons 4 Shared Ocarina Buttons
+Shared Skeleton Key			False			True			Works		Both game keys 4 shared skeleton
+Shared Bombchu Bags			False			True			Works		both games must have same setting
+Shared Din's Fire			False			True			Works		Din's MM fire MM 4 shared Din's fire
+Shared Farore's Wind			False			True			Works		farores wind MM 4 Shared Farore's Wind
+Shared Nayru's Love			False			True			Works		Naryu's love MM 4 Shared Nayru's Love
+Shared Iron Boots			False			True			Works		Iron Boots MM 4 Shared Iron Boots
+Shared Hover Boots			False			True			Works		Hover Boots MM 4 Shared Hover Boots
+Shared Goron Tunic			False			True			Works		Goron Tunic MM 4 Shared Goron Tunic
+Shared Zora Tunic			False			True			Works		Zora Tuniic MM 4 Shared Zora Tunic
+Shared Scales				False			True			Works		Scales MM 4 Shared Scales
+Shared Strength				False			True			Works		Strength MM 4 Shared Strength
+Shared Megaton Hammer			False			True			Works		Megaton Hammer MM 4 Shared Megaton Hammer

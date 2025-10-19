@@ -1,0 +1,110 @@
+--------------------------------------------------------------------------------------------------------------------------------
+Enemy Souls OOT						Defaults		Expected Value		Result		Notes
+--------------------------------------------------------------------------------------------------------------------------------
+Anubis								False			True				Works
+Armos (OoT)							False			True				Works
+Baby Dodongos						False			True				Works
+Beamos (OoT)						False			True				Works
+Biris/Baris							False			True				Works
+Bubbles(OoT)						False			True				Works
+Dark Link							False			True				Works
+Dead Hands							False			True				Works
+Deku Babas (OoT)					False			True				Works
+Deku Scrubs (OoT)					False			True				Works
+Dodongos (OoT)						False			True				Works
+Fighting Gerudos					False			True				Works
+Flare Dancers						False			True				Works
+FloorMasters (OoT)					False			True				Works
+Flying Pots (OoT)					False			True				Works
+Freezards (OoT)						False			True				Works
+Gohma Larvaes						False			True				Works
+Guays (OoT)							False			True				Works
+Iron Knuckles (OoT)					False			True				Works
+Jabu-Jabu's Parasites				False			True				Works
+Keese (OoT)							False			True				Works
+Leevers (OoT)						False			True				Works
+Like Likes (OoT)					False			True				Works
+Lizalfos/Dinolfos (OoT)				False			True				Works
+Moblins								False			True				Works
+Octoroks (OoT)						False			True				Works
+Peahats (OoT)						False			True				Works
+ReDeads/Gibdos (OoT)				False			True				Works
+Shaboms								False			True				Works
+Shell Blades (OoT)					False			True				Works
+Skull Kids (OoT)					False			True				Works
+Skulltulas (OoT)					False			True				Works
+Skullwalltulas (OoT)				False			True				Works
+Spikes								False			True				Works
+Stalchildren (OoT)					False			True				Works
+Stalfos (OoT)						False			True				Works
+Stingers							False			True				Works
+Tailpasarans						False			True				Works
+Tektites (OoT)						False			True				Works
+Torch Slugs							False			True				Works
+Wallmasters (OoT)					False			True				Works
+Wolfoses (OoT)						False			True				Works
+--------------------------------------------------------------------------------------------------------------------------------
+Boss Souls OOT						Defaults		Expected Value		Result		Notes
+--------------------------------------------------------------------------------------------------------------------------------
+Barinade							False			True				Works
+Bongo Bongo							False			True				Works
+King Dodongo						False			True				Works
+Morpha								False			True				Works
+Phantom Ganon						False			True				Works
+Queen Gohma							False			True				Works
+Twin Rova							False			True				Works
+Volvagia							False			True				Works
+--------------------------------------------------------------------------------------------------------------------------------
+NPC Souls OOT						Defaults		Expected Value		Result		Notes
+-------------------------------------------------------------------------------------------------------------------------------
+Astronomer (OoT)					False			True				Works
+Bazaar Shopkeeper (OoT)				False			True				Works
+Bean Salesman (OoT)					False			True				Works
+Beggar (OoT)						False			True				Works
+Biggoron (OoT)						False			True				Works
+Bombchu Bowling Lady (OoT)			False			True				Works
+Bombchu Shopkeeper (OoT)			False			True				Works
+Carpenters (OoT)					False			True				Works
+Carpet Man (OoT)					False			True				Works
+Chest Game Owner (OoT)				False			True				Works
+Citizens (OoT)						False			True				Works
+Composer Bros. (OoT)				False			True				Works
+Cucco Lady (OoT)					False			True				Works
+Dampe (OoT)							False			True				Works
+Darunia								False			True				Works
+Dog Lady (OoT)						False			True				Works
+Fishing Pond Owner (OoT)			False			True				Works
+Goron (OoT)							False			True				Works
+Goron Child (OoT)					False			True				Works
+Goron Shopkeeper (OoT)				False			True				Works
+Graveyard Kid (OoT)					False			True				Works
+Guru-Guru (OoT)						False			True				Works
+Honey & Darling (OoT)				False			True				Works
+Hylian Guard						False			True				Works
+Ingo (OoT)							False			True				Works
+King Zora							False			True				Works
+Kokiri								False			True				Works
+Kokiri Shopkeeper					False			True				Works
+Malon (OoT)							False			True				Works
+Medigoron (OoT)						False			True				Works
+Mido								False			True				Works
+Old Hag (OoT)						False			True				Works
+Patrolling Gerudos					False			True				Works
+Poe Collector (OoT)					False			True				Works
+Potion Shopkeeper					False			True				Works
+Punk Kid (OoT)						False			True				Works
+Rooftop Man (OoT)					False			True				Works
+Ruto (OoT)							False			True				Works
+Saria								False			True				Works
+Scientist (OoT)						False			True				Works
+Sheik								False			True				Works
+Shooting Gallery Owner (OoT)		False			True				Works
+Talon (OoT)							False			True				Works
+Zelda								False			True				Works
+Zora (OoT)							False			True				Works
+Zora Shopkeeper (OoT)				False			True				Works
+--------------------------------------------------------------------------------------------------------------------------------
+Misc Souls OOT						Defaults		Expected Value		Result		Notes
+--------------------------------------------------------------------------------------------------------------------------------
+Business Scrubs (OoT)				False			True				Works
+Gold Skulltulas (OoT)				False			True				Works

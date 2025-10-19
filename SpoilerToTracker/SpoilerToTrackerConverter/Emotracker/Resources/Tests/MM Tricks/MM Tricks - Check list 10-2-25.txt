@@ -1,0 +1,84 @@
+MM Tricks										Defaults		Expected Value		Result
+------------------------------------------------------------------------------------------------------------------------------------------------
+Fewer Lens Requirements (MM)								False			True			Works
+Fewer Tunic Requirements (MM)								False			True			Works
+Skip Planting Beans In Deku Palace							False			True			Works
+Climb Mountain Village Wall Blind							False			True			Works
+Pinnacle Rock Without Seahorse								False			True			Works
+Swim To Zora Hall As Human								False			True			Works
+Climb Ikana Canyon Without Ice Arrows							False			True			Works
+Climb Stone Tower With One Mask								False			True			Works
+Inverted Stone Tower Temple Eyegore Skips						False			True			Works
+South Clock Town Chest With Nothing							False			True			Works
+Bomb Jump Fences As Goron								False			True			Works
+Guess Bomber Code									False			True			Works
+Guess Oceanside Spider House Code							False			True			Works
+Inverted Stone Tower Temple Long Jump To Death Armos					False			True			Works
+Precise Short Hookshot Usage								False			True			Works
+Enter Pirate Fortress Interior Using Hookshot From The Boats				False			True			Works
+Backflip Over Deku Palace Guards							False			True			Works
+Complete Snowhead Temple Using Hot Spring Water						False			True			Works
+Access SHT Pillar Fireless With Precise Stick Run					False			True			Works
+Snowhead Temple Skip Raising Pillar							False			True			Works
+Doggy Racetrack Chest With Nothing							False			True			Works
+Jump From Ikana Castle's Roof Interior To Exterior		(duplicate?)		False			True			Works
+Use Powder Kegs As Explosives								False			True			Works
+Fight Majora To Reset Time								False			True			Works
+Southern Swamp Scrub HP As Goron							False			True			Works
+Zora Hall Scrub HP Without Deku								False			True			Works
+Access The Doors In Zora Hall USing Short Hookshot Anywhere				False			True			Works
+Jump From Ikana Castle's Roof Interior To Exterior		(duplicate?)		False			True		I didn't include a duplicate map
+Jump From Ikana Castle's Roof To Entrance						False			True			Works
+Post Office Timing Game Without Bunny Hood						False			True			Works
+Well's Hot Spring Water Without Killing Dexihand					False			True			Works
+ISTT Block Room Without Chuchu Jellies							False			True			Works
+Gross GBT Waterwheel Room As Goron							False			True			Works
+Great Bay Temple Entrance Chest Using Only Bow						False			True			Works
+Walk Along Surfaces Out Of Bounds							False			True			Works
+Stone Tower Updrafts Without Deku Mask							False			True			Works
+Escape The Monkey Cage With Hookshot Anywhere						False			True			Works
+GBT First Underwater Fairy With Short Hookshot Anywhere					False			True			Works
+GBT Central Room Without Zora Using Fire & Ice Arrows Or An OoT Magic Spell		False			True			Works
+Bank Rewards Require One Less Wallet							False			True			Works
+Bank Rewards Require No Wallets								False			True			Works
+Wait For The Clock Tower To Open When Shuffled						False			True			Works
+Collect The Pillar Rupees In Woodfall Temple Using Ice Arrows				False			True			Works
+Collect The Floating Rupees In ISTT As Goron						False			True			Works
+Backflip Over The Bomber In East Clock Town						False			True			Works
+Jump Slash Tingle In North Clock Town							False			True			Works
+Great Bay Temple Without Fire Arrows							False			True			Works
+Burn Igos' Curtains With Din's Fire							False			True			Works
+Destroy The Bio Baba Grotto Hive With A Bombchu						False			True			Works
+Bio Baba Grotto Lilypad Luck								False			True			Works
+Woodfall Owl Chest With Hover Boots and Jump Slash					False			True			Works
+Woodfall Temple Lobby With Damage Boost and Hover Boots					False			True			Works
+Zora Long Jump To The Soaring Tablet							False			True			Works
+Jump Slash Or Damage Boost To The Soaring Tablet With Hover Boots And Bunny Hood	False			True			Works
+Skip Playing Goron Lullaby By Using Iron Boots						False			True			Works
+Cross Path To Snowhead Using Hover Boots						False			True			Works
+Gross GBT Waterwheel Room using Hover Boots						False			True			Works
+Great Bay Temple Center Underwater Pot Using Only Iron Boots				False			True			Works
+Reach The First Red Pipe/Turnkey In GBT Using Hover Boots, Bunny Hood, and A Jump Slash	False			True			Works
+Reach The Upper Chest In GBT's Second Green Room Using Hover Boots			False			True			Works
+Fight Gyorg As Human Using Iron Boots and Hookshot					False			True			Works
+Stone Tower Temple Map Chest Using Hover Boots						False			True			Works
+Inverted Stone Tower Temple Death Armos Using Hover Boots and Bunny Hood		False			True			Works
+Dive Down For Gyorg's Pots With Blast Mask						False			True			Works
+STT Water Room Shallow Pots Dive With Bombchu						False			True			Works
+Wait Outside Stock Pot Inn's Roof For Closing						False			True			Works
+Light The Zora Hall Stage Lights Using Din's Fire, Bow, and Hookshot			False			True			Works
+Romani's Ranch Locations Using Farore's Wind and Time Reset				False			True			Works
+Evan's Piece Of Heart Using Farore's Wind And Time Reset				False			True			Works
+Powder Keg Trial Without Thawing Ice Using Hookshot Anywhere				False			True			Works
+----------------------------------------------------------------------------------------------------------------------------------------------
+Hidden Grottos (MM) without Stone of Agony						Not Included		Added but Unsure
+Snowhead Temple Hookshot Up Pillar Room							Not Included		Added but Unsure
+Float From Ikana Castle's Roof to Entrance						Not Included		Added but Unsure
+Powder Keg Trial with only Long Hookshot and Bunny Hood					Not Included		Added but Unsure
+Powder Keg Trial with only Hoverboots and Bunny Hood					Not Included		Added but Unsure
+Stone Tower Temple Lava Room switch without Goron					Not Included		Added but Unsure
+Destroy Beehives using Bombchu (MM)							Not Included		Added but Unsure
+Twinmold with Bow (MM)									Not Included		Added but Unsure
+Break Red Boulders using Powder Keg (MM)						Not Included		Added but Unsure
+Enter the Bio Baba Room by using a precise Bombchu launch.				Not Included		Added but Unsure
+Defeat the waterfall like like in Zoracape by using a precise bombchu launch.		Not Included		Added but Unsure

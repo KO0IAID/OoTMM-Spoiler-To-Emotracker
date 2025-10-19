@@ -1,0 +1,21 @@
+Special Bridge				Defaults		Expected Value		Result		Notes
+--------------------------------------------------------------------------------------------------------------------------------
+Spiritual Stones			False			True				Works
+Medallions					False			True				Works	
+Boss Remains				False			True				Works
+Gold Skulltula Tokens		False			True				Works			
+Swamp SkullTula Tokens		False			True				Works
+Ocean SkullTula Tokens		False			True				Works
+Stray Fairies Clock Town	False			True				Works
+Stray Fairies Woodfall		False			True				Works
+Stray Fairies Snowhead		False			True				Works
+Stray Fairies Great Bay		False			True				Works
+Stray Fairies Stone Tower	False			True				Works
+Regular Masks (MM)			False			True				Works
+Transformation Masks (MM)	False			True				Works
+Red Coins					False			True				Works		Extension: items: coins
+Green Coins					False			True				Works		Extension: items: coins
+Blue Coins					False			True				Works		Extension: items: coins
+Yellow Coins				False			True				Works		Extension: items: coins
+Masks (OoT)					False			True				Works		Extension: items: coins
+Rainbow Bridge Amount			6			305					Works		266 is max, even if you set max_count to 999

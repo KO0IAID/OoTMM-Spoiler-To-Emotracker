@@ -1,0 +1,54 @@
+OOT Settings						Defaults										Expected Value		Result
+----------------------------------------------------------------------------------------------------------------------------------
+Gold SkullTula Token Shuffle:		No Shuffle										dungeons Only		Works
+Small Key Shuffle (OOT)				Own Dungeon										anywhere			Works
+Boss Key Shuffle (OoT)				Own Dungeon										anywhere			Works
+Shop Shuffle (OoT)					None											full				Works
+Pots Shuffle (OoT)					Off												All					Works 		100% 	Checked all values
+Grass Shuffle (OoT)					Off												All					Works 		100% 	Checked all values
+Mask Trade Shuffle					Off												True				Works 		100% 	Checked all values
+Scrub Shuffle (OoT)					Off												True				Works
+Cow Shuffle (OoT)					Off												True				Works
+Diving Game rupee Shuffle			Off												True				Works
+Fairy Fountain Fairy Shuffle (Oot)	Off												True				Works
+Oot Shops Prices					Vanilla											Weighted Random		Works
+Oot Scrubs Prices					Vanilla											Weighted Random		Works
+Starting Age						Child											Adult				Works
+Door Of Time						Closed											Open				Works
+Age Change Upon Song Of Time		None		(illuminated by default)			Always				Works
+Deku Tree							Open		(illuminated by default)			Closed				Works
+Kakariko Gate						Open 		(illuminated by default)			Closed				Works
+King Zora							Vanilla											Open (Adult Only)	Works
+Gerudo Fortress						Vanilla											One Carpenter		Works
+Light Arrow Cutscene				Vanilla											Custom				Works
+Rainbow Bridge						Medallions	(illuminated by default)			Custom				Works
+Allow Adult Link to be Swordless	Off												True				Works
+Time Travel Requires Master Sword	On												False				Works
+Open Zora's Domain Shortcut			Off												True				Works
+Skip Child Zelda					Off												True				Works
+Free Scarecrow (OoT)				Off												True				Works
+Pre-Planted Beans (OoT)				Off												True				Works
+Cross-Games Oot Warp Songs			Off												True				Works
+Hookshot Anywhere OoT				Off												On					Works
+Climb Most Surfaces (OoT)			Off												On					Works
+Restore Broken Actors				Off												True				Works
+Blue Fire Arrows					Off												True				Works
+Sunlight Arrows						Off												True				Works
+Bombchu Behavior (Oot)				Free		(illuminated by default)			Seperate Items		Works		100%  	Checked all values
+Ocarina Buttons Shuffle (Oot)		Off												True				Works
+Enemy Souls (Oot)					Off												True				Works		100%  	Checked all values
+Boss Souls (OoT)					Off												True				Works		100%  	Checked all values
+NPC Souls (Oot)						Off												True				Works		100%  	Checked all values
+Misc. Souls (OoT)					Off												True				Works		100%  	Checked all values
+Ageless Swords						Off												True				Works
+Ageless Shields						Off												True				Works
+Ageless Tunics						Off												True				Works
+Ageless Boots						Off												True				Works
+Ageless Sticks						Off												True				Works
+Ageless Boomerang					Off												True				Works
+Ageless Hammer						Off												True				Works
+Ageless Hookshot					Off												True				Works
+Ageless Bow							Off												True				Works
+Ageless Slingshot					Off												True				Works
+Ageless Strength					Off												True				Works
+Ageless Child Trade					Off												True				Works

@@ -286,6 +286,7 @@ namespace SpoilerToTracker
             if (spoiler.Parsed)
             {
                 await tracker.ConvertSpoilerToEmotracker(spoiler, outputPath);
+                string changelog = tracker.ChangeLog;
             }
             else
             {
