@@ -12,6 +12,9 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Enumerators
         GameSettingsAlphabetic,
         GameSettingsReverseAlphabetic,
         GameSettingsLogOrder,
+        JunkLocationsAlphabetic,
+        PreCompleteDungeonsAlphabetic,
+        PreCompleteDungeonsTrackerOrder,
         EntrancesLong,
         EntrancesShort,
         EntrancesLongAlphabetic,
@@ -55,6 +58,11 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Enumerators
         WayOfTheHeroPathsDescription,
         WayOfTheHeroPathsPlayer,
         WayOfTheHeroPathsItem,
+        PathsPath,
+        PathsLocation,
+        PathsItem,
+        PlandoLocation,
+        PlandoItem,
         SpheresWorld,
         SpheresType,
         SpheresNumber,
@@ -68,7 +76,9 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Enumerators
         LocationsListCount,
         LocationsListDescription,
         LocationsListPlayer,
-        LocationsListItem
-
+        LocationsListItem,
+        DungeonRewardsDungeon,
+        DungeonRewardsReward,
+        DungeonRewardsOrder
     }
 }

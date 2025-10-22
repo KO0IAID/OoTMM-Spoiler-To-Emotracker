@@ -1,0 +1,99 @@
+[
+
+  {
+    "map_name": "Dungeon Rewards",
+    "spoiler_label": "Deku Tree",
+    "item_reference": "lua:Deku%20Tree%20Reward",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "Dungeon Rewards",
+    "spoiler_label": "Dodongos Cavern",
+    "item_reference": "lua:Dodongos%20Cavern%20Reward",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "Dungeon Rewards",
+    "spoiler_label": "Fire Temple",
+    "item_reference": "lua:Fire%20Temple%20Reward",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "Dungeon Rewards",
+    "spoiler_label": "Forest Temple",
+    "item_reference": "lua:Forest%20Temple%20Reward",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "Dungeon Rewards",
+    "spoiler_label": "Jabu-Jabu's Belly",
+    "item_reference": "lua:Jabu%20Jabu%20Reward",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "Dungeon Rewards",
+    "spoiler_label": "Great Bay Temple",
+    "item_reference": "lua:MM%20Great%20Bay%20Temple%20Reward",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "Dungeon Rewards",
+    "spoiler_label": "Snowhead Temple",
+    "item_reference": "lua:MM%20Snowhead%20Temple%20Reward",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "Dungeon Rewards",
+    "spoiler_label": "Stone Tower Temple",
+    "item_reference": "lua:MM%20Stone%20Tower%20Temple%20Reward",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "Dungeon Rewards",
+    "spoiler_label": "Woodfall Temple",
+    "item_reference": "lua:MM%20Woodfall%20Temple%20Reward",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "Dungeon Rewards",
+    "spoiler_label": "Shadow Temple",
+    "item_reference": "lua:Shadow%20Temple%20Reward",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "Dungeon Rewards",
+    "spoiler_label": "Spirit Temple",
+    "item_reference": "lua:Spirit%20Temple%20Reward",
+    "values": {
+      "true": 1
+    }
+  },
+  {
+    "map_name": "Dungeon Rewards",
+    "spoiler_label": "Water Temple",
+    "item_reference": "lua:Water%20Temple%20Reward",
+    "values": {
+      "true": 1
+    }
+  }
+]

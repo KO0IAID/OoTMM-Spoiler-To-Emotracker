@@ -402,31 +402,35 @@
                                     <ComboBoxItem IsEnabled="False"
                   FontWeight="Bold"
                   Foreground="#FF8B5CF6"
-                  Content="-------- Settings --------"/>
-                                    <ComboBoxItem Content="Seed Info" />
-                                    <ComboBoxItem Content="Game Settings" />
-                                    <ComboBoxItem Content="Starting Items"/>
-                                    <ComboBoxItem Content="Conditions" />
-                                    <ComboBoxItem Content="World Flags" />
-                                    <ComboBoxItem Content="Junk Locations"/>
-                                    <ComboBoxItem Content="Tricks" />
-                                    <ComboBoxItem Content="Glitches" />
-                                    <ComboBoxItem Content="Entrances" />
+                  Content="---------- Settings ----------"/>
+                                    <ComboBoxItem x:Name ="seedInfoBox" Content="Seed Info" />
+                                    <ComboBoxItem x:Name ="gameSettingsBox" Content="Game Settings" />
+                                    <ComboBoxItem x:Name ="startingItemsBox" Content="Starting Items"/>
+                                    <ComboBoxItem x:Name ="dungeonRewards" Content="Dungeon Rewards" />
+                                    <ComboBoxItem x:Name ="plandoBox" Content="Plandos"/>
+                                    <ComboBoxItem x:Name ="conditionsBox" Content="Conditions" />
+                                    <ComboBoxItem x:Name ="worldFlagsBox" Content="World Flags" />
+                                    <ComboBoxItem x:Name ="preCompletedDungeonsBox" Content="Pre-Completed Dungeons" />
+                                    <ComboBoxItem x:Name ="junkLocationsBox" Content="Junk Locations"/>
+                                    <ComboBoxItem x:Name ="tricksBox" Content="Tricks" />
+                                    <ComboBoxItem x:Name ="glitchesBox" Content="Glitches" />
+                                    <ComboBoxItem x:Name ="entrancesBox" Content="Entrances" />
 
                                     <ComboBoxItem IsEnabled="False"
                   FontWeight="Bold"
-                  Content="-------- Hints --------"/>
-                                    <ComboBoxItem Content="Regional Hints" />
-                                    <ComboBoxItem Content="Way of the Hero Hints" />
-                                    <ComboBoxItem Content="Foolish Hints" />
-                                    <ComboBoxItem Content="Specific Hints" />
+                  Content="---------- Hints ----------"/>
+                                    <ComboBoxItem x:Name ="pathsBox" Content="Paths"/>
+                                    <ComboBoxItem x:Name ="regionalHintsBox" Content="Regional Hints" />
+                                    <ComboBoxItem x:Name ="wayOfTheHeroHintsBox" Content="Way of the Hero Hints" />
+                                    <ComboBoxItem x:Name ="foolishHintsBox" Content="Foolish Hints" />
+                                    <ComboBoxItem x:Name ="specificHintsBox" Content="Specific Hints" />
 
                                     <ComboBoxItem IsEnabled="False"
                   FontWeight="Bold"
-                  Content="-------- Extras --------"/>
-                                    <ComboBoxItem Content="Way of the Hero Paths" />
-                                    <ComboBoxItem Content="Spheres" />
-                                    <ComboBoxItem Content="Item Locations" />
+                  Content="--------- Extras ----------"/>
+                                    <ComboBoxItem x:Name ="wayOfTheHeroPathBox" Content="Way of the Hero Paths" />
+                                    <ComboBoxItem x:Name ="spheresBox" Content="Spheres" />
+                                    <ComboBoxItem x:Name ="itemLocationsBox" Content="Item Locations" />
                                 </ComboBox>
 
                                 <TextBox x:Name="SearchTextBox"

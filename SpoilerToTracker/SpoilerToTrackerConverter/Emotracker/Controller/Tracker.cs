@@ -237,6 +237,7 @@ namespace SpoilerToTrackerConverter.Emotracker.Controller
                 AddSharedSettings();
                 MapSpecialConditions();
                 MapItems(Spoiler.Tricks, "Tricks");
+                MapItems(Spoiler.PreCompletedDungeons, "Pre-Completed Dungeons");
                 MapSharedItems();
                 MapItems(Spoiler.StartingItems, "StartingItems");
             });

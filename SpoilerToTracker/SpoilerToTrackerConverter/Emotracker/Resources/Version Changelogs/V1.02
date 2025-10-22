@@ -1,0 +1,10 @@
+App -
+Updated "View Spoiler Details" To add Pre-Completed Dungeon Category.
+Updated "View Spoiler Details" To add Plandos Category.
+Updated "View Spoiler Details" To toggle off categories without any values.
+Updated "View Spoiler Details" To add Paths Category.
+
+SpoilerLog -
+Added Pre-Completed Dungeon list parsing & sorting
+Added Plando list parsing & sorting
+Added Paths list parsing & sorting

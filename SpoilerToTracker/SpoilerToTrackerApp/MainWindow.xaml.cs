@@ -2,6 +2,7 @@
 using SpoilerToTrackerConverter.Emotracker.Controller;
 using SpoilerToTrackerConverter.SpoilerLog.Controller;
 using System.Collections.ObjectModel;
+using System.Diagnostics;
 using System.IO;
 using System.Text;
 using System.Windows;
@@ -165,6 +166,7 @@ namespace SpoilerToTracker
                         SpoilerDataGrid.Items.Clear();
                         SpoilerDataGrid.Columns.Clear();
                         ConvertButton.Focus();
+                        UpdateComboBoxStates();
                     }
                     else
                     {
@@ -225,6 +227,7 @@ namespace SpoilerToTracker
                     SpoilerDataGrid.Items.Clear();
                     SpoilerDataGrid.Columns.Clear();
                     ConvertButton.Focus();
+                    UpdateComboBoxStates();
                 }
             }
             else
@@ -285,8 +288,14 @@ namespace SpoilerToTracker
             tracker = new();
             if (spoiler.Parsed)
             {
+                Stopwatch sw = Stopwatch.StartNew();
+
                 await tracker.ConvertSpoilerToEmotracker(spoiler, outputPath);
-                string changelog = tracker.ChangeLog;
+
+                sw.Stop();
+                Debug.WriteLine(sw.Elapsed.ToString());
+
+                string? changelog = tracker.ChangeLog;
             }
             else
             {
@@ -296,6 +305,22 @@ namespace SpoilerToTracker
             if (tracker.Converted)
             {
                 StatusImage.Source = (BitmapImage)FindResource("Saved");
+            }
+            if (spoiler.DungeonRewardsToAssignManually != null)
+            {
+                MessageBox.Show(
+
+                    $"Conversion Complete!\n\n" +
+
+                    $"Please remember to assign the following rewards as you see fit:\n" +
+                    $"-------------------------------------------------------------------------\n" +
+                    $"{spoiler.DungeonRewardsToAssignManually}" +
+                    $"-------------------------------------------------------------------------\n" +
+                    $"To View This List Again:\n" +
+                    $"View Spoiler Details -> Category: -> Dungeon Rewards",
+
+                    "Dungeon Rewards & Pre-Completed Dungeons Mismatch!"
+                    );
             }
         }
 
@@ -377,6 +402,49 @@ namespace SpoilerToTracker
                     });
                     break;
 
+                case "Dungeon Rewards":
+                    if (spoiler.DungeonRewards == null)
+                        return;
+
+                    UpdateDataGrid(spoiler.DungeonRewards, grid =>
+                    {
+                        grid.Columns.Add(new DataGridTextColumn
+                        {
+                            Header = "Completed Dungeons",
+                            Binding = new Binding("Dungeon")
+                        });
+                        grid.Columns.Add(new DataGridTextColumn
+                        {
+                            Header = "Starting Rewards",
+                            Binding = new Binding("Reward")
+                        });
+                        grid.Columns.Add(new DataGridTextColumn
+                        {
+                            Header = "Note",
+                            Binding = new Binding("Note")
+                        });
+                    });
+                    break;
+
+                case "Plandos":
+                    if (spoiler.Plandos == null)
+                        return;
+
+                    UpdateDataGrid(spoiler.Plandos, grid =>
+                    {
+                        grid.Columns.Add(new DataGridTextColumn
+                        {
+                            Header = "Location",
+                            Binding = new Binding("Location")
+                        });
+                        grid.Columns.Add(new DataGridTextColumn
+                        {
+                            Header = "Item",
+                            Binding = new Binding("Item")
+                        });
+                    });
+                    break;
+
                 case "Conditions":
                     if (spoiler.SpecialConditions == null)
                         return;
@@ -446,6 +514,20 @@ namespace SpoilerToTracker
                     });
                     break;
 
+                case "Tricks":
+                    if (spoiler.Tricks == null)
+                        return;
+
+                    UpdateDataGrid(spoiler.Tricks, grid =>
+                    {
+                        grid.Columns.Add(new DataGridTextColumn
+                        {
+                            Header = "Description",
+                            Binding = new Binding("Description")
+                        });
+                    });
+                    break;
+
                 case "Glitches":
                     if (spoiler.Glitches == null)
                         return;
@@ -456,6 +538,20 @@ namespace SpoilerToTracker
                         {
                             Header = "Description",
                             Binding = new Binding("Description")
+                        });
+                    });
+                    break;
+
+                case "Pre-Completed Dungeons":
+                    if (spoiler.PreCompletedDungeons == null)
+                        return;
+
+                    UpdateDataGrid(spoiler.PreCompletedDungeons, grid =>
+                    {
+                        grid.Columns.Add(new DataGridTextColumn
+                        {
+                            Header = "Dungeon",
+                            Binding = new Binding("Name")
                         });
                     });
                     break;
@@ -497,6 +593,35 @@ namespace SpoilerToTracker
                         {
                             Header = "Destination",
                             Binding = new Binding("LongDestination")
+                        });
+                    });
+                    break;
+
+                case "Paths":
+                    if (spoiler.Paths == null)
+                        return;
+
+                    UpdateDataGrid(spoiler.Paths, grid =>
+                    {
+                        grid.Columns.Add(new DataGridTextColumn
+                        {
+                            Header = "Path",
+                            Binding = new Binding("Path")
+                        });
+                        grid.Columns.Add(new DataGridTextColumn
+                        {
+                            Header = "Step",
+                            Binding = new Binding("Step")
+                        });
+                        grid.Columns.Add(new DataGridTextColumn
+                        {
+                            Header = "Location",
+                            Binding = new Binding("Location")
+                        });
+                        grid.Columns.Add(new DataGridTextColumn
+                        {
+                            Header = "Item",
+                            Binding = new Binding("Item")
                         });
                     });
                     break;
@@ -859,6 +984,37 @@ namespace SpoilerToTracker
             SpoilerDataGrid.ItemsSource = new ObservableCollection<T>(items);
             SpoilerDataGrid.Items.Refresh();
         }
+        private void UpdateComboBoxStates()
+        {
+            if (spoiler.Parsed) 
+            {
+                seedInfoBox.IsEnabled               = spoiler?.SeedInfo != null;
+                gameSettingsBox.IsEnabled           = spoiler?.GameSettings != null;
+                startingItemsBox.IsEnabled          = spoiler?.StartingItems != null;
+                dungeonRewards.IsEnabled            = spoiler?.DungeonRewards != null;
+                plandoBox.IsEnabled                 = spoiler?.Plandos != null;
+                conditionsBox.IsEnabled             = spoiler?.SpecialConditions != null;
+                worldFlagsBox.IsEnabled             = spoiler?.WorldFlags != null;
+                junkLocationsBox.IsEnabled          = spoiler?.JunkLocations != null;
+                tricksBox.IsEnabled                 = spoiler?.Tricks != null;
+                glitchesBox.IsEnabled               = spoiler?.Glitches != null;
+                preCompletedDungeonsBox.IsEnabled   = spoiler?.PreCompletedDungeons != null;
+                entrancesBox.IsEnabled              = spoiler?.Entrances != null;
+
+                pathsBox.IsEnabled                  = spoiler?.Paths != null;
+                regionalHintsBox.IsEnabled          = spoiler?.RegionalHints != null;
+                wayOfTheHeroHintsBox.IsEnabled      = spoiler?.WayOfTheHeroHints != null;
+                foolishHintsBox.IsEnabled           = spoiler?.FoolishHints != null;
+                specificHintsBox.IsEnabled          = spoiler?.SpecificHints != null;
+
+                wayOfTheHeroPathBox.IsEnabled       = spoiler?.WayOfTheHeroPaths != null;
+                spheresBox.IsEnabled                = spoiler?.Spheres != null;
+                itemLocationsBox.IsEnabled          = spoiler?.ItemLocations != null;
+            }
+            
+        }
+
+
         #endregion
         #region Search
         #endregion

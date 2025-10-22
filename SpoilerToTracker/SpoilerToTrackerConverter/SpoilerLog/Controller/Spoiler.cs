@@ -22,6 +22,7 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
     {
         public string[]? FileContents { get; private set; }
         public bool Parsed { get; private set; }
+        public string? DungeonRewardsToAssignManually { get; private set; }
 
         #region Collections
         public List<SeedInfo>? SeedInfo { get; private set; } = new();
@@ -32,15 +33,20 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
         public List<StartingItem>? StartingItems { get; private set; } = new();
         public List<JunkLocation>? JunkLocations { get; private set; } = new();
         public List<WorldFlag>? WorldFlags { get; private set; } = new();
+        public List<Dungeon>? PreCompletedDungeons { get; private set; } = new();
         public List<Entrance>? Entrances { get; private set; } = new();
         public List<WayOfTheHeroHint>? WayOfTheHeroHints { get; private set; } = new();
         public List<FoolishHint>? FoolishHints { get; private set; } = new();
         public List<SpecificHint>? SpecificHints { get; private set; } = new();
         public List<RegionalHint>? RegionalHints { get; private set; } = new();
         public List<FoolishRegion>? FoolishRegions { get; private set; } = new();
+        public List<Pathing>? Paths {  get; private set; } = new();
         public List<WayOfTheHeroPath>? WayOfTheHeroPaths { get; private set; } = new();
+        public List<Plando>? Plandos { get; private set; } = new ();
         public List<Sphere>? Spheres { get; private set; } = new();
         public List<ItemLocation>? ItemLocations { get; private  set; } = new();
+        public List<DungeonReward>? DungeonRewards { get; private set; } = new();
+       
 
         #endregion
         #region Collections SortBy Enums
@@ -52,15 +58,20 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
         public SortBy StartingItems_SortBy { get; private set; }
         public SortBy JunkLocations_SortBy { get; private set; }
         public SortBy WorldFlags_SortBy { get; private set; }
+        public SortBy PreCompletedDungeons_SortBy { get; private set; }
         public SortBy Entrances_SortBy { get; private set; }
         public SortBy WayOfTheHeroHints_SortBy { get; private set; }
         public SortBy FoolishHints_SortBy { get; private set; }
         public SortBy SpecificHints_SortBy { get; private set; }
         public SortBy RegionalHints_SortBy { get; private set; }
         public SortBy FoolishRegions_SortBy { get; private set; }
+        public SortBy Paths_SortBy { get; private set; }
         public SortBy WayOfTheHeroPaths_SortBy { get; private set; }
+        public SortBy Plandos_SortBy { get; private set; }
         public SortBy Spheres_SortBy { get; private set; }
         public SortBy LocationList_SortBy { get; private set; }
+        public SortBy DungeonRewards_SortBy { get; private set; }
+
         #endregion
         #region Core Functions
         public async Task AddFileContents(string filePath, bool showDebugStats = false)
@@ -82,6 +93,7 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                 Glitches = await Parse_Glitches();
                 JunkLocations = await Parse_JunkLocations();
                 WorldFlags = await Parse_WorldFlags();
+                PreCompletedDungeons = await Parse_PreCompletedDungeons();
                 Entrances = await Parse_Entrances();
                 WayOfTheHeroHints = await Parse_WayOfTheHeroHints();
                 FoolishHints = await Parse_FoolishHints();
@@ -89,8 +101,11 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                 RegionalHints = await Parse_RegionalHints();
                 FoolishRegions = await Parse_FoolishRegions();
                 WayOfTheHeroPaths = await Parse_WayOfTheHeroPaths();
+                Paths = await Parse_Paths();
+                Plandos = await Parse_Plandos();
                 Spheres = await Parse_Spheres();
                 ItemLocations = await Parse_LocationsList();
+                DungeonRewards = await Parse_DungeonRewards();
 
 
                 SortCollections();
@@ -185,15 +200,19 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
             $"\nStarting ITems:\t\t{(StartingItems != null ? StartingItems.Count : 0)}" +
             $"\nJunk Locations:\t\t{(JunkLocations != null ? JunkLocations.Count : 0)}" +
             $"\nWorld Flags:\t\t{(WorldFlags != null ? WorldFlags.Count : 0)}" +
+            $"\nCompleted Dungeons:\t{(PreCompletedDungeons != null ? PreCompletedDungeons.Count : 0)}" +
             $"\nEntrances:\t\t\t{(Entrances != null ? Entrances.Count : 0)}" +
             $"\nWay Of The Hero:\t{(WayOfTheHeroHints != null ? WayOfTheHeroHints.Count : 0)}" +
             $"\nFoolish Hint:\t\t{(FoolishHints != null ? FoolishHints.Count : 0)}" +
             $"\nSpecific Hint:\t\t{(SpecificHints != null ? SpecificHints.Count : 0)}" +
             $"\nRegional Hint:\t\t{(RegionalHints != null ? RegionalHints.Count : 0)}" +
             $"\nFoolish Regions:\t{(FoolishRegions != null ? FoolishRegions.Count : 0)}" +
+            $"\nPaths:\t\t\t\t{(Paths != null ? Paths.Count : 0)}" +
             $"\nWayOfTheHero Paths:\t{(WayOfTheHeroPaths != null ? WayOfTheHeroPaths.Count : 0)}" +
+            $"\nPlandos:\t\t\t{(Plandos != null ? Plandos.Count : 0)}" +
             $"\nSpheres:\t\t\t{(Spheres != null ? Spheres.Count : 0)}" +
             $"\nLocations List:\t\t{(ItemLocations != null ? ItemLocations.Count : 0)}"+
+            $"\nDungeon Rewards:\t\t{(DungeonRewards != null ? DungeonRewards.Count : 0)}" +
             $"\nTime Taken:\t\t\t{ stopWatch.Elapsed}"
             );
             
@@ -613,8 +632,51 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                 }
             }
             #endregion
-            // Junk Locations Missing
+            #region Junk Locations
+            if (sort == SortBy.JunkLocationsAlphabetic || sort == SortBy.Default)
+            {
+                if (JunkLocations != null)
+                {
+                    var sortedJunkLocations = new List<JunkLocation>(
+                    JunkLocations.OrderBy(e => e.Location)
+                    );
+
+                    JunkLocations = sortedJunkLocations;
+                    JunkLocations_SortBy = SortBy.JunkLocationsAlphabetic;
+                }
+            }
+            #endregion
             // World Flags Missing
+            #region Pre-Completed Dungeons
+            // Pre-Completed Dungeons - TrackerOrder - (Default)
+            if (sort == SortBy.PreCompleteDungeonsTrackerOrder || sort == SortBy.Default)
+            {
+                if (PreCompletedDungeons != null)
+                {
+                    var sortedPreCompletedDungeons = new List<Dungeon>(
+                    PreCompletedDungeons.OrderBy(e => e.TrackerOrder)
+                    .ThenBy(e => e.Name)
+                    );
+
+                    PreCompletedDungeons = sortedPreCompletedDungeons;
+                    PreCompletedDungeons_SortBy = SortBy.PreCompleteDungeonsTrackerOrder;
+                }
+            }
+            // Pre-Completed Dungeons - Alphabetic
+            if (sort == SortBy.PreCompleteDungeonsAlphabetic)
+            {
+                if (PreCompletedDungeons != null)
+                {
+                    var sortedPreCompletedDungeons = new List<Dungeon>(
+                    PreCompletedDungeons.OrderBy(e => e.Name)
+                    .ThenBy(e => e.Name)
+                    );
+
+                    PreCompletedDungeons = sortedPreCompletedDungeons;
+                    PreCompletedDungeons_SortBy = SortBy.PreCompleteDungeonsAlphabetic;
+                }
+            }
+            #endregion
             #region WayOfTheHero Hints
 
             // WayOfTheHero Hints- World - (Default)
@@ -991,6 +1053,83 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                 }
             }
             #endregion
+            #region Paths
+            // Paths - Path - (Default)
+            if (sort == SortBy.PathsPath || sort == SortBy.Default)
+            {
+                if (Paths != null)
+                {
+                    var sortedPaths = new List<Pathing>(
+                    Paths.OrderBy(e => e.Path)
+                    .ThenBy(e => e.Location)
+                    .ThenBy(e => e.Item)
+                    );
+
+                    Paths = sortedPaths;
+                    Paths_SortBy = SortBy.PathsPath;
+                }
+            }
+            // Paths - Location
+            if (sort == SortBy.PathsLocation)
+            {
+                if (Paths != null)
+                {
+                    var sortedPaths = new List<Pathing>(
+                    Paths.OrderBy(e => e.Location)
+                    .ThenBy(e => e.Path)
+                    .ThenBy(e => e.Item)
+                    );
+
+                    Paths = sortedPaths;
+                    Paths_SortBy = SortBy.PathsLocation;
+                }
+            }
+            // Paths - Item
+            if (sort == SortBy.PathsItem)
+            {
+                if (Paths != null)
+                {
+                    var sortedPaths = new List<Pathing>(
+                    Paths.OrderBy(e => e.Item)
+                    .ThenBy(e => e.Path)
+                    .ThenBy(e => e.Location)
+                    );
+
+                    Paths = sortedPaths;
+                    Paths_SortBy = SortBy.PathsItem;
+                }
+            }
+            #endregion
+            #region Plandos
+            // Plandos - Location - (Default)
+            if (sort == SortBy.PlandoLocation || sort == SortBy.Default)
+            {
+                if (Plandos != null)
+                {
+                    var sortedPlandos = new List<Plando>(
+                    Plandos.OrderBy(e => e.Location)
+                    .ThenBy(e => e.Item)
+                    );
+
+                    Plandos = sortedPlandos;
+                    Plandos_SortBy = SortBy.PlandoLocation;
+                }
+            }
+            // Plandos - Item
+            if (sort == SortBy.PlandoItem)
+            {
+                if (Plandos != null)
+                {
+                    var sortedPlandos = new List<Plando>(
+                    Plandos.OrderBy(e => e.Location)
+                    .ThenBy(e => e.Item)
+                    );
+
+                    Plandos = sortedPlandos;
+                    Plandos_SortBy = SortBy.PlandoItem;
+                }
+            }
+            #endregion
             #region Spheres
             // Spheres - World - (Default)
             if (sort == SortBy.SpheresWorld || sort == SortBy.Default)
@@ -1265,6 +1404,54 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                 }
             }
             #endregion
+            #region Dungeon Rewards
+            // DungeonRewards - Order - (Default)
+            if (sort == SortBy.DungeonRewardsOrder || sort == SortBy.Default)
+            {
+                if (DungeonRewards != null)
+                {
+                    var sortedDungeonRewards = new List<DungeonReward>(
+                    DungeonRewards.OrderBy(e => e.Order)
+                    .ThenBy(e => e.Dungeon)
+                    .ThenBy(e => e.Reward)
+                    );
+
+                    DungeonRewards = sortedDungeonRewards;
+                    DungeonRewards_SortBy = SortBy.DungeonRewardsOrder;
+                }
+            }
+            // DungeonRewards - Dungeon
+            if (sort == SortBy.DungeonRewardsDungeon)
+            {
+                if (DungeonRewards != null)
+                {
+                    var sortedDungeonRewards = new List<DungeonReward>(
+                    DungeonRewards.OrderBy(e => e.Dungeon)
+                    .ThenBy(e => e.Reward)
+                    .ThenBy(e => e.Order)
+                    );
+
+                    DungeonRewards = sortedDungeonRewards;
+                    DungeonRewards_SortBy = SortBy.DungeonRewardsDungeon;
+                }
+            }
+            // DungeonRewards - Reward
+            if (sort == SortBy.DungeonRewardsReward)
+            {
+                if (DungeonRewards != null)
+                {
+                    var sortedDungeonRewards = new List<DungeonReward>(
+                    DungeonRewards.OrderBy(e => e.Reward)
+                    .ThenBy(e => e.Dungeon)
+                    .ThenBy(e => e.Order)
+                    );
+
+                    DungeonRewards = sortedDungeonRewards;
+                    DungeonRewards_SortBy = SortBy.DungeonRewardsReward;
+                }
+            }
+            #endregion
+
         }
         #endregion
         #region Data Parsing Helper Methods
@@ -1327,27 +1514,27 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                 return new KeyValuePair<string, string>(line[0].Trim(), line[1].Trim());
             });
         }
-        private async Task<List<JunkLocation>> Parse_Junk(string categoryName, string[] file, int startingPosition = 0)
+        private async Task<List<T>> ParseSingleValueSectionAsync<T>(string categoryName, string[] file, ICreateFromLine<T> factory, int startingPosition = 0)
         {
             return await Task.Run(() =>
             {
                 int position = startingPosition;
-                List<JunkLocation> list = new();
+                List<T> list = new();
 
-                // Find the category header
+                // Locate the category header
                 while (position < file.Length && !file[position].TrimStart().StartsWith(categoryName, StringComparison.OrdinalIgnoreCase))
                 {
                     position++;
                 }
 
-                // If the category header is not found, return empty list
+                // If category header is not found, return empty list
                 if (position >= file.Length)
                     return list;
 
-                // Move past the category header to the first data line
+                // Move past the header line
                 position++;
 
-                // Parse strings until a blank line or un-indented line is found
+                // Parse lines until a blank line or non-indented line
                 while (position < file.Length)
                 {
                     string currentLine = file[position];
@@ -1356,16 +1543,13 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                     if (string.IsNullOrEmpty(trimmedLine) || !currentLine.StartsWith("  "))
                         break;
 
-                    // Create a JunkLocation object instead of adding a raw string
-                    list.Add(new JunkLocation { Location = trimmedLine });
-
+                    list.Add(factory.CreateFromLine(trimmedLine));
                     position++;
                 }
 
                 return list;
             });
         }
-
         private async Task<Tuple<int, int>> FindCategoryRange(string categoryName, string[] file, int startingPosition = 0)
         {
             return await Task.Run(() =>
@@ -1433,6 +1617,11 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                        !file[position].Trim().Equals(header, StringComparison.OrdinalIgnoreCase))
                 {
                     position++;
+                }
+
+                if (header == "Paths" && subHeader == "Path to")
+                {
+                    string test = "a";
                 }
 
                 // Header not found
@@ -1505,7 +1694,6 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                     HasValue = true
                 };
             });
-
         }
         private async Task<BlockInfo?> FindBlock_SpecialConditions(string header, string[] file, int startingPosition = 0)
         {
@@ -1823,7 +2011,7 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
 
             return glitches;
         }
-        private async Task<List<StartingItem>?> Parse_StartingItems() 
+        private async Task<List<StartingItem>?> Parse_StartingItems()
         {
             if (FileContents == null)
                 return null;
@@ -1842,7 +2030,7 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                 return null;
             }
 
-            return await Parse_Junk("Junk Locations", FileContents);
+            return await ParseSingleValueSectionAsync("Junk Locations", FileContents, new JunkLocation());
         }
         private async Task<List<WorldFlag>?> Parse_WorldFlags()
         {
@@ -1916,6 +2104,15 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
             }
 
             return worldFlags;
+        }
+        private async Task<List<Dungeon>?> Parse_PreCompletedDungeons() 
+        {
+            if (FileContents == null)
+            {
+                return null;
+            }
+
+            return await ParseSingleValueSectionAsync("Pre-Completed Dungeons", FileContents, new Dungeon());
         }
         private async Task<List<Entrance>?> Parse_Entrances()
         {
@@ -2417,6 +2614,73 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
             }
                 
         }
+        private async Task<List<Pathing>?> Parse_Paths()
+        {
+            if (FileContents == null)
+            {
+                return null;
+            }
+
+            BlockInfo? block = new BlockInfo();
+            List<BlockInfo> blocks = new List<BlockInfo>();
+            bool firstBlockFound = false;
+
+            // Obtains all the paths information
+            do
+            {
+                if (!firstBlockFound)
+                {
+                    block = await FindBlock_Generic(FileContents, "Paths", "Path to");
+                    firstBlockFound = true;
+                }
+                else
+                {
+                    block = await FindBlock_Generic(FileContents, null, "Path to", block.EndLine);
+                }
+
+                if (block != null)
+                {
+                    blocks.Add(block);
+                }
+
+            } while (block != null);
+
+            if (blocks.Count == 0)
+                return null;
+            // Adds the spheres values
+            List<Pathing> pathsList = new List<Pathing>();
+
+            for (int i = 0; i < blocks.Count; i++)
+            {
+                Tuple<int, int> range = new Tuple<int, int>(blocks[i].StartLine, blocks[i].EndLine);
+                var path = await AddValues<Pathing>(range, FileContents);
+
+                if (path != null)
+                {
+                    int step = 1;
+                    foreach (Pathing item in path)
+                    {
+                        item.Path = blocks[i].SubHeader;
+                        item.Step = step++;
+                        pathsList.Add(item);
+                    }
+                }
+            }
+
+            return pathsList;
+        }
+        private async Task<List<Plando>?> Parse_Plandos() 
+        {
+            if (FileContents == null)
+                return null;
+
+            var range = await FindCategoryRange("Plando", FileContents);
+
+            var plandos = await AddValues<Plando>(range, FileContents);
+
+            return plandos;
+
+        }
         private async Task<List<Sphere>?> Parse_Spheres()
         {
             if (FileContents == null)
@@ -2545,6 +2809,73 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                 return locationItemsList;
             }
             else return null;
+        }
+        private async Task<List<DungeonReward>> Parse_DungeonRewards() 
+        {
+            if (StartingItems == null || PreCompletedDungeons == null)
+                return null;
+
+            DungeonReward[] rewards =
+            {
+                // Current order is based off the tracker
+                new DungeonReward { Dungeon = "Forest Temple",      Reward = "Forest Medallion"     , Order = 1},
+                new DungeonReward { Dungeon = "Fire Temple",        Reward = "Fire Medallion"       , Order = 2},
+                new DungeonReward { Dungeon = "Water Temple",       Reward = "Water Medallion"      , Order = 3},
+                new DungeonReward { Dungeon = "Spirit Temple",      Reward = "Spirit Medallion"     , Order = 4},
+                new DungeonReward { Dungeon = "Shadow Temple",      Reward = "Shadow Medallion"     , Order = 5},
+                new DungeonReward { Dungeon = "Deku Tree",          Reward = "Kokiri's Emerald"     , Order = 6},
+                new DungeonReward { Dungeon = "Dodongos Cavern",    Reward = "Goron's Ruby"         , Order = 7},
+                new DungeonReward { Dungeon = "Jabu-Jabu's Belly",  Reward = "Zora's Sapphire"      , Order = 8},
+                new DungeonReward { Dungeon = "Woodfall Temple",    Reward = "Odolwa's Remains"     , Order = 9},
+                new DungeonReward { Dungeon = "Snowhead Temple",    Reward = "Goht's Remains"       , Order = 10},
+                new DungeonReward { Dungeon = "Great Bay Temple",   Reward = "Gyorg's Remains"      , Order = 11},
+                new DungeonReward { Dungeon = "Stone Tower Temple", Reward = "Twinmold's Remains"   , Order = 12},
+            };
+
+            // Make a fast lookup of completed dungeon names
+            var completedDungeonNames = PreCompletedDungeons
+                .Select(d => d.Name)
+                .Where(n => !string.IsNullOrEmpty(n))
+                .ToHashSet();
+
+            // Make a fast lookup of completed dungeon names
+            var startingItemNames = StartingItems
+                .Select(i => i.Name)
+                .Where(name => !string.IsNullOrEmpty(name))
+                .ToHashSet();
+
+            // Clear out the values that don't exist, and keep the ones that do
+            foreach (var reward in rewards)
+            {
+                if (!completedDungeonNames.Contains(reward.Dungeon))
+                {
+                    reward.Dungeon = "";
+                }
+
+                if (!startingItemNames.Contains(reward.Reward))
+                {
+                    reward.Reward = "";
+                }
+            }
+
+            foreach (var reward in rewards) 
+            {
+                if (reward.Dungeon == "" && reward.Reward != "")
+                {
+                    reward.Note = "Please Assign Manually To a ?";
+
+                    DungeonRewardsToAssignManually += $"{reward.Reward}\n";
+                }
+                else if (reward.Dungeon != "" && reward.Reward == "")
+                {
+                    reward.Note = "?";
+                }
+                else if (reward.Dungeon != "" && reward.Reward != "")
+                {
+                    reward.Note = "✓";
+                }
+            }
+            return rewards.Where(e => e.Dungeon != "" || e.Reward != "").ToList();
         }
     }
         #endregion
