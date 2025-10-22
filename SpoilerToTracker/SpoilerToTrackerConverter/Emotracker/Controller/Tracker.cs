@@ -240,6 +240,7 @@ namespace SpoilerToTrackerConverter.Emotracker.Controller
                 MapItems(Spoiler.PreCompletedDungeons, "Pre-Completed Dungeons");
                 MapSharedItems();
                 MapItems(Spoiler.StartingItems, "StartingItems");
+                MapDungeonRewards();
             });
         }
         private void AddSharedSettings()
@@ -522,25 +523,16 @@ namespace SpoilerToTrackerConverter.Emotracker.Controller
                         {
                             
                             string? itemName = item.NoIDItemReference;
+                            string? itemType = item.Type;
 
                             // If map has an ID Then we will use the full ID itemReference
                             if (itemMap.ID != null)
                             {
                                 itemName = item.ItemReference;
                             }
-
-                            string? itemType = item.Type;
-
-                            if (mapSpoilerLabel == "Kokiri Sword (OoT)" && entryName == "Kokiri Sword (OoT)" && itemName == "progressive:Kokiri%20Sword")
-                            {
-                                string a = "a";
-                            }
-
                             // Compare map to item
                             if (mapName == itemName && mapType == itemType)
                             {
-                                
-
                                 if (entryValue != null && itemMap.Values != null)
                                 {
                                     itemMap.Values.TryGetValue(entryValue, out int mappedValue);
@@ -682,6 +674,65 @@ namespace SpoilerToTrackerConverter.Emotracker.Controller
                                                 }
                                                 break;
                                         }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        private void MapDungeonRewards()
+        {
+            if (Spoiler == null || Spoiler.DungeonRewards == null || Maps == null || JsonTracker?.ItemDatabase == null )
+                return;
+
+            foreach (DungeonReward dungeonReward in Spoiler.DungeonRewards)
+            {
+                // Skip if they don't have both values
+                if (string.IsNullOrWhiteSpace(dungeonReward.Dungeon) || string.IsNullOrWhiteSpace(dungeonReward.Reward))
+                {
+                    continue;
+                }
+              
+                foreach (ItemMap itemMap in Maps)
+                {
+                    string? mapName = itemMap.SpoilerLabel;
+                    string? mapRefference = itemMap.RawItemReference;
+                    string? mapType = itemMap.MapName;
+
+                    if (mapName == dungeonReward.Dungeon) 
+                    {
+                        foreach (Item item in JsonTracker.ItemDatabase) 
+                        {
+                            string? databaseItem = item.NoIDItemReference;
+                            string? databaseItemValue = item.OldValue;
+                            string? databaseItemType = item.Type;
+
+                            if (mapRefference == "lua:Shadow%20Temple%20Reward" && databaseItem == "lua:Shadow%20Temple%20Reward") 
+                            {
+                                string test = "a";
+                            }
+
+                            if (databaseItem == mapRefference) 
+                            {
+                                if (itemMap.Values != null && itemMap.OnValue != null && dungeonReward.Value != null)
+                                {
+                                    itemMap.Values.TryGetValue(dungeonReward.Value, out int mappedValue);
+
+                                    switch (databaseItemType)
+                                    {
+                                        case "lua":
+                                            bool newLuaActive = mappedValue > 0;
+                                            if (item.Active != newLuaActive || item.Stage != itemMap.OnValue)
+                                            {
+                                                item.Active = newLuaActive;
+                                                item.Stage = itemMap.OnValue;
+                                                item.NewValue = newLuaActive.ToString() + "," + itemMap.OnValue;
+                                                ChangeCount++;
+                                                ChangeLog += $"Original: {item.OldValue}\tChange: {item.NewValue}\tEmo: {databaseItem}\n";
+                                            }
+                                            break;
                                     }
                                 }
                             }

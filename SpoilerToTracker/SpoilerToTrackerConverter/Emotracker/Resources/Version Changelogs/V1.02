@@ -1,10 +1,20 @@
 App -
-Updated "View Spoiler Details" To add Pre-Completed Dungeon Category.
-Updated "View Spoiler Details" To add Plandos Category.
-Updated "View Spoiler Details" To toggle off categories without any values.
-Updated "View Spoiler Details" To add Paths Category.
+
+View Spoiler Details:
+- Added Pre-Completed Dungeon Category.
+- Added Plandos Category.
+- Added Paths Category.
+- Categories with and without values will toggle off/on respectivly
+
+Dungeon Reward Handling:
+- Pre-Complete Dungeons will now set their respective dungeon to ? by default.
+- Pre-Complete Dungeon where you have the matching dungeon reward will be set automatically.
+- Any unassigned dungeon rewards thereafter will trigger a pop-up to remind the user to manual alottment them as they desire.
+
 
 SpoilerLog -
 Added Pre-Completed Dungeon list parsing & sorting
 Added Plando list parsing & sorting
 Added Paths list parsing & sorting
+Added Dungeon Reward parsing & sorting
+

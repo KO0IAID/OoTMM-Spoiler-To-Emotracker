@@ -1405,19 +1405,19 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
             }
             #endregion
             #region Dungeon Rewards
-            // DungeonRewards - Order - (Default)
-            if (sort == SortBy.DungeonRewardsOrder || sort == SortBy.Default)
+            // DungeonRewards - Value
+            if (sort == SortBy.DungeonRewardsValue || sort == SortBy.Default)
             {
                 if (DungeonRewards != null)
                 {
                     var sortedDungeonRewards = new List<DungeonReward>(
-                    DungeonRewards.OrderBy(e => e.Order)
+                    DungeonRewards.OrderBy(e => e.Value)
                     .ThenBy(e => e.Dungeon)
                     .ThenBy(e => e.Reward)
                     );
 
                     DungeonRewards = sortedDungeonRewards;
-                    DungeonRewards_SortBy = SortBy.DungeonRewardsOrder;
+                    DungeonRewards_SortBy = SortBy.DungeonRewardsValue;
                 }
             }
             // DungeonRewards - Dungeon
@@ -1450,6 +1450,38 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                     DungeonRewards_SortBy = SortBy.DungeonRewardsReward;
                 }
             }
+            // DungeonRewards - Order
+            if (sort == SortBy.DungeonRewardsOrder)
+            {
+                if (DungeonRewards != null)
+                {
+                    var sortedDungeonRewards = new List<DungeonReward>(
+                    DungeonRewards.OrderBy(e => e.Order)
+                    .ThenBy(e => e.Dungeon)
+                    .ThenBy(e => e.Reward)
+                    );
+
+                    DungeonRewards = sortedDungeonRewards;
+                    DungeonRewards_SortBy = SortBy.DungeonRewardsOrder;
+                }
+            }
+            // DungeonRewards - Note
+            if (sort == SortBy.DungeonRewardsNote)
+            {
+                if (DungeonRewards != null)
+                {
+                    var sortedDungeonRewards = new List<DungeonReward>(
+                    DungeonRewards.OrderBy(e => e.Note)
+                    .ThenBy(e => e.Dungeon)
+                    .ThenBy(e => e.Reward)
+                    );
+
+                    DungeonRewards = sortedDungeonRewards;
+                    DungeonRewards_SortBy = SortBy.DungeonRewardsNote;
+                }
+            }
+            
+
             #endregion
 
         }
@@ -2810,7 +2842,7 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
             }
             else return null;
         }
-        private async Task<List<DungeonReward>> Parse_DungeonRewards() 
+        private async Task<List<DungeonReward>?> Parse_DungeonRewards() 
         {
             if (StartingItems == null || PreCompletedDungeons == null)
                 return null;
@@ -2838,13 +2870,15 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                 .Where(n => !string.IsNullOrEmpty(n))
                 .ToHashSet();
 
-            // Make a fast lookup of completed dungeon names
+            // Make a fast lookup of Starting Items
             var startingItemNames = StartingItems
                 .Select(i => i.Name)
                 .Where(name => !string.IsNullOrEmpty(name))
                 .ToHashSet();
 
             // Clear out the values that don't exist, and keep the ones that do
+            int DungeonCount = PreCompletedDungeons.Count;
+            int rewardCount = 0;
             foreach (var reward in rewards)
             {
                 if (!completedDungeonNames.Contains(reward.Dungeon))
@@ -2856,26 +2890,42 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
                 {
                     reward.Reward = "";
                 }
-            }
-
-            foreach (var reward in rewards) 
-            {
-                if (reward.Dungeon == "" && reward.Reward != "")
+                else 
                 {
-                    reward.Note = "Please Assign Manually To a ?";
-
-                    DungeonRewardsToAssignManually += $"{reward.Reward}\n";
-                }
-                else if (reward.Dungeon != "" && reward.Reward == "")
-                {
-                    reward.Note = "?";
-                }
-                else if (reward.Dungeon != "" && reward.Reward != "")
-                {
-                    reward.Note = "✓";
+                    rewardCount++;
                 }
             }
+
+            // if more rewards to dungeons let them know they need to assign later
+            // if more dungeons than rewards let them know they need to assign now
+            // if equal let them know to assign now
+            string? message;
+
+            if (DungeonCount == rewardCount)      { message = "Assign to any free ? of your choice"; }
+            else if (DungeonCount > rewardCount)  { message = "Assign to any free ? of your choice"; }
+            else /*(rewardCount > DungeonCount)*/ { message = "Assign to any free ? of your choice, assign the rest later"; }
+
+                foreach (var reward in rewards)
+                {
+                    if (reward.Dungeon == "" && reward.Reward != "")
+                    {
+                        reward.Note = message;
+
+                        DungeonRewardsToAssignManually += $"{reward.Reward}\n";
+                    }
+                    else if (reward.Dungeon != "" && reward.Reward == "")
+                    {
+
+                        reward.Note = "?";
+                    }
+                    else if (reward.Dungeon != "" && reward.Reward != "")
+                    {
+                        reward.Value = "true";
+                        reward.Note = "Done!";
+                    }
+                }
             return rewards.Where(e => e.Dungeon != "" || e.Reward != "").ToList();
+            //return rewards.Where(e => (!string.IsNullOrEmpty(e.Dungeon) ^ !string.IsNullOrEmpty(e.Reward))).ToList();
         }
     }
         #endregion

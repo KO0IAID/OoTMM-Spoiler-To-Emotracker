@@ -80,7 +80,12 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Enumerators
                 SortBy.LocationsListNumber => "Number",
                 SortBy.LocationsListDescription => "Description A-Z",
                 SortBy.LocationsListPlayer => "Player",
-                SortBy.LocationsListItem => "Itempoly A-Z",
+                SortBy.LocationsListItem => "Item A-Z",
+                SortBy.DungeonRewardsDungeon => "Dungeon A-Z",
+                SortBy.DungeonRewardsReward => "Reward A-Z",
+                SortBy.DungeonRewardsOrder => "Order A-Z",
+                SortBy.DungeonRewardsNote => "Notes A-Z",
+                SortBy.DungeonRewardsValue => "Value A-Z",
 
                 // Catch-all for any undefined or unexpected enum values
                 _ => "Unknown"

@@ -1,4 +1,5 @@
 ﻿using Microsoft.Win32;
+using SpoilerToTrackerApp;
 using SpoilerToTrackerConverter.Emotracker.Controller;
 using SpoilerToTrackerConverter.SpoilerLog.Controller;
 using System.Collections.ObjectModel;
@@ -308,19 +309,22 @@ namespace SpoilerToTracker
             }
             if (spoiler.DungeonRewardsToAssignManually != null)
             {
-                MessageBox.Show(
+                MessageWindow messageWindow = new MessageWindow(spoiler.DungeonRewards, spoiler.DungeonRewardsToAssignManually);
+                messageWindow.Title = "Pre-Complete Dungeons & Starting Dungeon Rewards Mismatch!";
+                messageWindow.ShowDialog();
 
-                    $"Conversion Complete!\n\n" +
 
-                    $"Please remember to assign the following rewards as you see fit:\n" +
-                    $"-------------------------------------------------------------------------\n" +
-                    $"{spoiler.DungeonRewardsToAssignManually}" +
-                    $"-------------------------------------------------------------------------\n" +
-                    $"To View This List Again:\n" +
-                    $"View Spoiler Details -> Category: -> Dungeon Rewards",
+                    //$"Conversion Complete!\n\n" +
 
-                    "Dungeon Rewards & Pre-Completed Dungeons Mismatch!"
-                    );
+                    //$"Please remember to assign the following rewards as you see fit:\n" +
+                    //$"-------------------------------------------------------------------------\n" +
+                    //$"{spoiler.DungeonRewardsToAssignManually}" +
+                    //$"-------------------------------------------------------------------------\n" +
+                    //$"To View This List Again:\n" +
+                    //$"View Spoiler Details -> Category: -> Dungeon Rewards",
+
+                    //"Dungeon Rewards & Pre-Completed Dungeons Mismatch!"
+                    //);
             }
         }
 

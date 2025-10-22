@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SpoilerToTrackerConverter.SpoilerLog.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Models
     {
         public string? Dungeon { get; set; }
         public string? Reward { get; set; }
+        public string? Value { get; set; }
         public int? Order { get; set; }
         public string? Note {  get; set; }
     }

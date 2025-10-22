@@ -79,6 +79,8 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Enumerators
         LocationsListItem,
         DungeonRewardsDungeon,
         DungeonRewardsReward,
-        DungeonRewardsOrder
+        DungeonRewardsOrder,
+        DungeonRewardsNote,
+        DungeonRewardsValue,
     }
 }
