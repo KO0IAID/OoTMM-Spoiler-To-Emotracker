@@ -611,7 +611,7 @@ namespace SpoilerToTrackerConverter.Emotracker.Controller
         }
         private void MapSharedItems() 
         {
-            if (JsonTracker == null || SharedItems == null || Maps == null || JsonTracker.ItemDatabase == null)
+            if (JsonTracker == null || SharedItems == null || Maps == null || JsonTracker.ItemDatabase == null || Spoiler.StartingItems == null)
                 return;
 
             // Get the sharedItem

@@ -2903,7 +2903,7 @@ namespace SpoilerToTrackerConverter.SpoilerLog.Controller
 
             if (DungeonCount == rewardCount)      { message = "Assign to any free ? of your choice"; }
             else if (DungeonCount > rewardCount)  { message = "Assign to any free ? of your choice"; }
-            else /*(rewardCount > DungeonCount)*/ { message = "Assign to any free ? of your choice, assign the rest later"; }
+            else /*(rewardCount > DungeonCount)*/ { message = "Assign to any free ? of your choice, assign the rest after"; }
 
                 foreach (var reward in rewards)
                 {
